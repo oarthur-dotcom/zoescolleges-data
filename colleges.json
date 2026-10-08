@@ -1,6 +1,813 @@
 {
-  "version": 1,
-  "updated": "2026-10-08",
-  "source": "U.S. Dept. of Education College Scorecard + curated scene data",
-  "colleges": []
+ "version": 1,
+ "updated": "2026-10-08",
+ "source": "Family planner starter set; official Scorecard figures pending Obie-approved data drop",
+ "colleges": [
+  {
+   "id": "ut-austin",
+   "name": "UT Austin",
+   "city": "Austin",
+   "state": "TX",
+   "category": "Reach",
+   "sizeApprox": "~42k",
+   "costApprox": "~$65k",
+   "distanceFromBoston": "2,000 mi",
+   "vibe": "Major city and flagship energy",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, strong",
+   "earlyDeadline": "Oct 15, 2026",
+   "regularDeadline": "Dec 1, 2026",
+   "link": "https://admissions.utexas.edu/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-new-hampshire",
+   "name": "University of New Hampshire",
+   "city": "Durham",
+   "state": "NH",
+   "category": "Likely",
+   "sizeApprox": "~15k",
+   "costApprox": "~$56k",
+   "distanceFromBoston": "70 mi",
+   "vibe": "Durham college town, near the coast",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, New England",
+   "earlyDeadline": "Nov 15, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "link": "https://www.unh.edu/admissions-aid/apply",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "temple-university",
+   "name": "Temple University",
+   "city": "Philadelphia",
+   "state": "PA",
+   "category": "Target",
+   "sizeApprox": "~24k",
+   "costApprox": "~$59k",
+   "distanceFromBoston": "310 mi",
+   "vibe": "Philadelphia urban campus",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Northeast",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "link": "https://admissions.temple.edu/landing-pages/apply-temple-university",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-colorado-boulder",
+   "name": "University of Colorado Boulder",
+   "city": "Boulder",
+   "state": "CO",
+   "category": "Target",
+   "sizeApprox": "~32k",
+   "costApprox": "~$70k",
+   "distanceFromBoston": "1,950 mi",
+   "vibe": "Large flagship in the Rockies",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, Mountain West",
+   "earlyDeadline": "Nov 15, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.colorado.edu/admissions/first-year",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "colorado-state-university",
+   "name": "Colorado State University",
+   "city": "Fort Collins",
+   "state": "CO",
+   "category": "Likely",
+   "sizeApprox": "~25k",
+   "costApprox": "~$54k",
+   "distanceFromBoston": "1,930 mi",
+   "vibe": "Fort Collins college town, outdoors",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Mountain West",
+   "earlyDeadline": "Nov 15, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://admissions.colostate.edu/apply/freshmen/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "colorado-college",
+   "name": "Colorado College",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "category": "Reach",
+   "sizeApprox": "~2.3k",
+   "costApprox": "~$90k",
+   "distanceFromBoston": "2,050 mi",
+   "vibe": "Small liberal arts, one class at a time",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Specialized, national",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.coloradocollege.edu/admission/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "umass-amherst",
+   "name": "UMass Amherst",
+   "city": "Amherst",
+   "state": "MA",
+   "category": "Target",
+   "sizeApprox": "~24k",
+   "costApprox": "~$38k",
+   "distanceFromBoston": "95 mi",
+   "vibe": "In-state flagship, classic college town",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, Northeast",
+   "earlyDeadline": "Nov 5, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.umass.edu/admissions",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-vermont",
+   "name": "University of Vermont",
+   "city": "Burlington",
+   "state": "VT",
+   "category": "Target",
+   "sizeApprox": "~12k",
+   "costApprox": "~$48k",
+   "distanceFromBoston": "215 mi",
+   "vibe": "Burlington, lakeside, outdoorsy",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Northeast",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.uvm.edu/admissions/undergraduate/application-deadlines",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-rhode-island",
+   "name": "University of Rhode Island",
+   "city": "Kingston",
+   "state": "RI",
+   "category": "Likely",
+   "sizeApprox": "~14k",
+   "costApprox": "~$39k",
+   "distanceFromBoston": "75 mi",
+   "vibe": "Coastal Kingston campus",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Northeast",
+   "earlyDeadline": "Dec 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "link": "https://web.uri.edu/admission/first-year/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-maine",
+   "name": "University of Maine",
+   "city": "Orono",
+   "state": "ME",
+   "category": "Likely",
+   "sizeApprox": "~9k",
+   "costApprox": "~$44k",
+   "distanceFromBoston": "235 mi",
+   "vibe": "Orono, outdoors and flagship setting",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Regional, New England",
+   "earlyDeadline": "Dec 1, 2026",
+   "regularDeadline": "Mar 1, 2027",
+   "link": "https://umaine.edu/admissions/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "clark-university",
+   "name": "Clark University",
+   "city": "Worcester",
+   "state": "MA",
+   "category": "Target",
+   "sizeApprox": "~2.3k",
+   "costApprox": "~$63k",
+   "distanceFromBoston": "50 mi",
+   "vibe": "Small research university in Worcester",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Specialized, Northeast",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.clarku.edu/undergraduate-admissions/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "syracuse-university",
+   "name": "Syracuse University",
+   "city": "Syracuse",
+   "state": "NY",
+   "category": "Target",
+   "sizeApprox": "~15k",
+   "costApprox": "~$88k",
+   "distanceFromBoston": "310 mi",
+   "vibe": "College city, four seasons",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, strong",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 5, 2027",
+   "link": "https://www.syracuse.edu/admissions-aid/application-process/apply/dates-deadlines/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "drexel-university",
+   "name": "Drexel University",
+   "city": "Philadelphia",
+   "state": "PA",
+   "category": "Target",
+   "sizeApprox": "~13k",
+   "costApprox": "~$85k",
+   "distanceFromBoston": "310 mi",
+   "vibe": "Philadelphia, co-op driven",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Strong in co-op fields",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://drexel.edu/undergrad/apply/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "college-of-charleston",
+   "name": "College of Charleston",
+   "city": "Charleston",
+   "state": "SC",
+   "category": "Target",
+   "sizeApprox": "~11k",
+   "costApprox": "~$48k",
+   "distanceFromBoston": "1,000 mi",
+   "vibe": "Historic downtown, coastal city",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Southeast",
+   "earlyDeadline": "Nov 2, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://charleston.edu/admission/apply/undergraduate/index.php",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "ithaca-college",
+   "name": "Ithaca College",
+   "city": "Ithaca",
+   "state": "NY",
+   "category": "Target",
+   "sizeApprox": "~4.5k",
+   "costApprox": "~$76k",
+   "distanceFromBoston": "335 mi",
+   "vibe": "Small campus near the Finger Lakes",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Specialized, arts and media",
+   "earlyDeadline": "Dec 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "link": "https://www.ithaca.edu/admission/undergraduate-admission/apply-ic/application-deadlines",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "unc-asheville",
+   "name": "UNC Asheville",
+   "city": "Asheville",
+   "state": "NC",
+   "category": "Likely",
+   "sizeApprox": "~3k",
+   "costApprox": "~$32k",
+   "distanceFromBoston": "950 mi",
+   "vibe": "Small mountain campus",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Regional, Southeast",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "link": "https://unca.edu/admission/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-denver",
+   "name": "University of Denver",
+   "city": "Denver",
+   "state": "CO",
+   "category": "Target",
+   "sizeApprox": "~6k",
+   "costApprox": "~$86k",
+   "distanceFromBoston": "1,980 mi",
+   "vibe": "City campus with mountain access",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Mountain West",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.du.edu/admission-aid/undergraduate/how-to-apply",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "american-university",
+   "name": "American University",
+   "city": "Washington",
+   "state": "DC",
+   "category": "Reach",
+   "sizeApprox": "~8k",
+   "costApprox": "~$80k",
+   "distanceFromBoston": "440 mi",
+   "vibe": "DC, policy and international focus",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, DC",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.american.edu/admissions/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-pennsylvania",
+   "name": "University of Pennsylvania",
+   "city": "Philadelphia",
+   "state": "PA",
+   "category": "Reach",
+   "sizeApprox": "~10k",
+   "costApprox": "~$92k",
+   "distanceFromBoston": "310 mi",
+   "vibe": "Philadelphia Ivy research campus",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, global",
+   "earlyDeadline": "Nov 1, 2026 (Early Decision, binding)",
+   "regularDeadline": "Jan 5, 2027",
+   "link": "https://admissions.upenn.edu/how-to-apply/first-year-applicants",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "sarah-lawrence-college",
+   "name": "Sarah Lawrence College",
+   "city": "Bronxville",
+   "state": "NY",
+   "category": "Reach",
+   "sizeApprox": "~1.5k",
+   "costApprox": "~$88k",
+   "distanceFromBoston": "175 mi",
+   "vibe": "Small seminar campus near NYC",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Specialized, arts",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.sarahlawrence.edu/admission/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "the-new-school",
+   "name": "The New School",
+   "city": "New York",
+   "state": "NY",
+   "category": "Reach",
+   "sizeApprox": "~7k",
+   "costApprox": "~$86k",
+   "distanceFromBoston": "220 mi",
+   "vibe": "NYC arts, design, social research",
+   "greekLife": "Limited",
+   "athleticsNetwork": "Specialized, NYC",
+   "earlyDeadline": "Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "link": "https://www.newschool.edu/admission/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-utah",
+   "name": "University of Utah",
+   "city": "Salt Lake City",
+   "state": "UT",
+   "category": "Target",
+   "sizeApprox": "~28k",
+   "costApprox": "~$51k",
+   "distanceFromBoston": "2,350 mi",
+   "vibe": "City plus mountains",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Mountain West",
+   "earlyDeadline": "Check site",
+   "regularDeadline": "Check site",
+   "link": "https://admissions.utah.edu/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "montana-state-university",
+   "name": "Montana State University",
+   "city": "Bozeman",
+   "state": "MT",
+   "category": "Likely",
+   "sizeApprox": "~17k",
+   "costApprox": "~$38k",
+   "distanceFromBoston": "2,250 mi",
+   "vibe": "Bozeman mountain college town",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Mountain West",
+   "earlyDeadline": "Check site",
+   "regularDeadline": "Check site",
+   "link": "https://www.montana.edu/admissions/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "oregon-state-university",
+   "name": "Oregon State University",
+   "city": "Corvallis",
+   "state": "OR",
+   "category": "Likely",
+   "sizeApprox": "~30k",
+   "costApprox": "~$59k",
+   "distanceFromBoston": "3,050 mi",
+   "vibe": "Pacific Northwest college town",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Pacific NW",
+   "earlyDeadline": "Check site",
+   "regularDeadline": "Check site",
+   "link": "https://admissions.oregonstate.edu/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-oregon",
+   "name": "University of Oregon",
+   "city": "Eugene",
+   "state": "OR",
+   "category": "Target",
+   "sizeApprox": "~19k",
+   "costApprox": "~$61k",
+   "distanceFromBoston": "3,080 mi",
+   "vibe": "Spirited Eugene flagship",
+   "greekLife": "Present",
+   "athleticsNetwork": "Regional, Pacific NW",
+   "earlyDeadline": "Check site",
+   "regularDeadline": "Check site",
+   "link": "https://admissions.uoregon.edu/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  },
+  {
+   "id": "university-of-arizona",
+   "name": "University of Arizona",
+   "city": "Tucson",
+   "state": "AZ",
+   "category": "Target",
+   "sizeApprox": "~39k",
+   "costApprox": "~$58k",
+   "distanceFromBoston": "2,620 mi",
+   "vibe": "Large Southwest flagship",
+   "greekLife": "Present",
+   "athleticsNetwork": "National, Southwest",
+   "earlyDeadline": "Check site",
+   "regularDeadline": "Check site",
+   "link": "https://admissions.arizona.edu/",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "costAvg": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   }
+  }
+ ]
 }
