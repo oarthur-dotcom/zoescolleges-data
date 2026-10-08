@@ -3,9 +3,9 @@
 This repo is the data stream for zoescolleges.com. The site reads `colleges.json` from the jsDelivr CDN, so updating this file updates the site **without a Netlify deploy**.
 
 ## How it works
-1. New college data lands (Meta drops into `Downloads` on Obie's computer, or official College Scorecard pulls).
-2. Claude validates it against official federal data and shows Obie a before/after diff.
-3. **Obie approves the diff** (nothing ships without this).
+1. New college data lands (a structured dataset drop, or official College Scorecard pulls).
+2. The data is validated against official federal sources and a before/after diff is prepared.
+3. **The owner approves the diff** (nothing ships without this).
 4. The approved `colleges.json` is committed here.
 5. The site picks it up from the CDN within ~minutes:
    `https://cdn.jsdelivr.net/gh/oarthur-dotcom/zoescolleges-data@main/colleges.json`
