@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "updated": "2026-10-09",
  "source": "College Scorecard (official) + Muse research (deadlines, CDS weightings, Greek, clubs, athletics, nearby, weather)",
  "colleges": [
@@ -37,7 +37,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 183044,
@@ -78,7 +89,15 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 216339,
@@ -119,7 +138,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 126614,
@@ -160,7 +190,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 126818,
@@ -196,7 +237,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 126678,
@@ -237,7 +289,18 @@
     "rigorRating": "important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "unitid": 166629,
@@ -273,7 +336,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 231174,
@@ -309,7 +383,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 217484,
@@ -345,7 +430,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 1,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 161253,
@@ -381,7 +474,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 1,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 165334,
@@ -417,7 +518,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "unitid": 196413,
@@ -458,7 +570,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 212054,
@@ -499,7 +622,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 217819,
@@ -540,7 +674,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 191968,
@@ -581,7 +726,15 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "unitid": 199111,
@@ -622,7 +775,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "unitid": 127060,
@@ -658,7 +822,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 131159,
@@ -694,7 +869,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Wesleyan",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 215062,
@@ -730,7 +916,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 195304,
@@ -771,7 +968,15 @@
     "rigorRating": "important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "unitid": 193654,
@@ -812,7 +1017,18 @@
     "rigorRating": "important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 230764,
@@ -858,7 +1074,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 180461,
@@ -903,7 +1130,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 209542,
@@ -950,7 +1188,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 209551,
@@ -997,7 +1246,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 104179,
@@ -1045,7 +1305,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 183026,
@@ -1081,7 +1352,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 433387,
@@ -1117,7 +1396,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 484613,
@@ -1153,7 +1440,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 104717,
@@ -1189,7 +1487,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 104151,
@@ -1225,7 +1534,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 228723,
@@ -1261,7 +1581,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 132903,
@@ -1297,7 +1628,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 483124,
@@ -1333,7 +1672,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 232557,
@@ -1369,7 +1719,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Religious affiliation",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 163204,
@@ -1405,7 +1766,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 204796,
@@ -1441,7 +1810,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 243780,
@@ -1477,7 +1857,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 214777,
@@ -1552,7 +1943,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 486840,
@@ -1588,7 +1993,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 171100,
@@ -1667,7 +2080,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 449339,
@@ -1703,7 +2130,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 133951,
@@ -1739,7 +2174,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110565,
@@ -1775,7 +2218,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 225511,
@@ -1811,7 +2262,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 151351,
@@ -1898,7 +2360,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 186380,
@@ -1973,7 +2448,19 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city",
+     "mountains"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 137351,
@@ -2009,7 +2496,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 240444,
@@ -2096,7 +2594,19 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 145637,
@@ -2132,7 +2642,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 228459,
@@ -2168,7 +2689,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110583,
@@ -2204,7 +2736,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 134130,
@@ -2240,7 +2783,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 122409,
@@ -2276,7 +2830,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110680,
@@ -2312,7 +2877,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 227216,
@@ -2348,7 +2924,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 170976,
@@ -2384,7 +2971,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110662,
@@ -2420,7 +3018,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 100751,
@@ -2506,7 +3115,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110635,
@@ -2542,7 +3164,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 230038,
@@ -2578,7 +3211,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Religious affiliation",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110608,
@@ -2614,7 +3258,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 229115,
@@ -2650,7 +3305,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 228769,
@@ -2686,7 +3352,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110644,
@@ -2722,7 +3399,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 134097,
@@ -2758,7 +3443,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 139959,
@@ -2845,7 +3541,19 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 236948,
@@ -2881,7 +3589,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 174066,
@@ -2917,7 +3636,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 233921,
@@ -2953,7 +3683,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 163286,
@@ -2989,7 +3730,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 159391,
@@ -3025,7 +3774,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 229027,
@@ -3061,7 +3821,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 221759,
@@ -3148,7 +3919,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110653,
@@ -3184,7 +3968,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 201885,
@@ -3263,7 +4058,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 218663,
@@ -3350,7 +4159,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 106397,
@@ -3386,7 +4209,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 227368,
@@ -3422,7 +4256,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 193900,
@@ -3458,7 +4303,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110617,
@@ -3494,7 +4350,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 126827,
@@ -3530,7 +4397,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 232186,
@@ -3609,7 +4487,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 122755,
@@ -3645,7 +4537,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 199193,
@@ -3681,7 +4584,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 100858,
@@ -3717,7 +4631,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 139940,
@@ -3753,7 +4678,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 134237,
@@ -3789,7 +4725,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 153603,
@@ -3825,7 +4769,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110529,
@@ -3861,7 +4816,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 157085,
@@ -3940,7 +4903,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 182281,
@@ -3976,7 +4953,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 199139,
@@ -4012,7 +5000,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 178396,
@@ -4048,7 +5047,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 133669,
@@ -4084,7 +5094,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 217882,
@@ -4171,7 +5192,19 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110705,
@@ -4207,7 +5240,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 105330,
@@ -4243,7 +5284,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 207500,
@@ -4279,7 +5331,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 488846,
@@ -4315,7 +5375,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110671,
@@ -4351,7 +5422,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 153658,
@@ -4430,7 +5512,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 145600,
@@ -4466,7 +5562,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110422,
@@ -4502,7 +5609,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 139931,
@@ -4589,7 +5704,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 207388,
@@ -4625,7 +5751,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 228787,
@@ -4661,7 +5795,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110556,
@@ -4697,7 +5842,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 176017,
@@ -4733,7 +5889,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 155317,
@@ -4769,7 +5933,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 236939,
@@ -4805,7 +5980,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 228796,
@@ -4841,7 +6024,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 232423,
@@ -4928,7 +6122,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 234030,
@@ -5007,7 +6214,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 199120,
@@ -5043,7 +6263,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 123961,
@@ -5079,7 +6310,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 215293,
@@ -5165,7 +6407,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 230728,
@@ -5201,7 +6458,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 154022,
@@ -5237,7 +6505,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 196088,
@@ -5273,7 +6552,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 198464,
@@ -5348,7 +6635,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 129020,
@@ -5384,7 +6686,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 204857,
@@ -5463,7 +6773,19 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "mountains"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110592,
@@ -5499,7 +6821,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 197869,
@@ -5578,7 +6911,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 203517,
@@ -5653,7 +7000,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 181464,
@@ -5689,7 +7049,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 130943,
@@ -5776,7 +7147,21 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 145813,
@@ -5812,7 +7197,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 170082,
@@ -5848,7 +7241,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 139755,
@@ -5884,7 +7285,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 122597,
@@ -5920,7 +7332,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 176080,
@@ -5956,7 +7379,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 185590,
@@ -5992,7 +7423,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 413413,
@@ -6028,7 +7467,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 164988,
@@ -6075,7 +7525,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 196097,
@@ -6111,7 +7572,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110714,
@@ -6147,7 +7616,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 227881,
@@ -6183,7 +7663,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 142115,
@@ -6219,7 +7707,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 234076,
@@ -6255,7 +7754,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 232982,
@@ -6334,7 +7841,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 238032,
@@ -6409,7 +7929,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 167358,
@@ -6456,7 +7989,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 187985,
@@ -6492,7 +8036,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 240453,
@@ -6528,7 +8083,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 204024,
@@ -6564,7 +8130,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 220978,
@@ -6600,7 +8174,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 190594,
@@ -6636,7 +8221,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 190512,
@@ -6672,7 +8268,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 482680,
@@ -6708,7 +8315,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 164076,
@@ -6787,7 +8402,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 190415,
@@ -6823,7 +8453,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 184782,
@@ -6859,7 +8500,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 182290,
@@ -6895,7 +8544,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 172644,
@@ -6931,7 +8591,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 140951,
@@ -6967,7 +8638,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 155399,
@@ -7003,7 +8685,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 141574,
@@ -7039,7 +8732,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 1,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 110510,
@@ -7075,7 +8779,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 127565,
@@ -7111,7 +8826,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Very large (15k+)"
+   }
   },
   {
    "unitid": 199218,
@@ -7198,7 +8924,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 366711,
@@ -7234,7 +8975,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 223232,
@@ -7270,7 +9019,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Mennonite",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 157289,
@@ -7306,7 +9066,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 196079,
@@ -7342,7 +9113,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 216764,
@@ -7378,7 +9157,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 144740,
@@ -7414,7 +9201,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 199148,
@@ -7450,7 +9248,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 454227,
@@ -7486,7 +9295,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 150136,
@@ -7522,7 +9339,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 433660,
@@ -7558,7 +9386,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 151111,
@@ -7594,7 +9430,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110538,
@@ -7630,7 +9477,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 130183,
@@ -7666,7 +9524,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190655,
@@ -7702,7 +9571,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 237011,
@@ -7738,7 +9618,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 136172,
@@ -7774,7 +9665,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 179566,
@@ -7810,7 +9712,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 195003,
@@ -7846,7 +9759,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 209807,
@@ -7882,7 +9803,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 135726,
@@ -7969,7 +9901,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "skiing"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 201441,
@@ -8044,7 +9989,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "mountains"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 220862,
@@ -8080,7 +10038,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 228529,
@@ -8116,7 +10085,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 172699,
@@ -8191,7 +10168,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "lake",
+     "major city",
+     "skiing"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 196060,
@@ -8227,7 +10217,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 225432,
@@ -8263,7 +10264,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190664,
@@ -8299,7 +10311,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110547,
@@ -8335,7 +10358,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190567,
@@ -8371,7 +10405,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 160658,
@@ -8407,7 +10452,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 171571,
@@ -8443,7 +10499,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 156620,
@@ -8479,7 +10543,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 199102,
@@ -8515,7 +10587,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 450933,
@@ -8551,7 +10634,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 157951,
@@ -8587,7 +10678,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 188030,
@@ -8623,7 +10725,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 146719,
@@ -8659,7 +10769,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 173920,
@@ -8695,7 +10816,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 100663,
@@ -8731,7 +10863,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190600,
@@ -8767,7 +10910,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 196680,
@@ -8803,7 +10957,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 166638,
@@ -8852,7 +11017,18 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 181394,
@@ -8888,7 +11064,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 166513,
@@ -8924,7 +11111,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 185262,
@@ -8960,7 +11155,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 447689,
@@ -8996,7 +11199,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 147703,
@@ -9032,7 +11243,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 131469,
@@ -9068,7 +11287,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 228875,
@@ -9104,7 +11334,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Jewish",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 119605,
@@ -9140,7 +11381,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 156125,
@@ -9176,7 +11428,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 163268,
@@ -9212,7 +11475,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190637,
@@ -9248,7 +11519,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 137847,
@@ -9284,7 +11566,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190549,
@@ -9320,7 +11613,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 126562,
@@ -9356,7 +11660,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 191241,
@@ -9392,7 +11707,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 218724,
@@ -9428,7 +11754,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 180814,
@@ -9464,7 +11801,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 206941,
@@ -9500,7 +11845,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 131520,
@@ -9536,7 +11889,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 164924,
@@ -9583,7 +11947,18 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 176372,
@@ -9619,7 +11994,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 221740,
@@ -9655,7 +12041,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 169798,
@@ -9691,7 +12088,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 169248,
@@ -9727,7 +12132,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 200004,
@@ -9802,7 +12215,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "skiing"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 220075,
@@ -9881,7 +12307,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 200280,
@@ -9917,7 +12358,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 224554,
@@ -9953,7 +12405,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110574,
@@ -9989,7 +12449,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 102368,
@@ -10025,7 +12493,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 206084,
@@ -10112,7 +12588,20 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 155061,
@@ -10148,7 +12637,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190558,
@@ -10184,7 +12681,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 196042,
@@ -10220,7 +12728,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 243197,
@@ -10256,7 +12772,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 160612,
@@ -10292,7 +12819,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 195809,
@@ -10328,7 +12866,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 200332,
@@ -10364,7 +12913,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 240189,
@@ -10400,7 +12960,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 459994,
@@ -10436,7 +13004,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 138354,
@@ -10472,7 +13051,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 41
+   "locale": 41,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 230603,
@@ -10508,7 +13095,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 240329,
@@ -10544,7 +13139,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 498562,
@@ -10580,7 +13186,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 147767,
@@ -10616,7 +13230,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 219356,
@@ -10652,7 +13277,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 1,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 426314,
@@ -10688,7 +13321,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 125231,
@@ -10724,7 +13368,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 4,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 106458,
@@ -10760,7 +13415,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 200800,
@@ -10796,7 +13462,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 163453,
@@ -10832,7 +13509,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 185828,
@@ -10868,7 +13556,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 190150,
@@ -10904,7 +13603,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 202134,
@@ -10940,7 +13650,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 240268,
@@ -10976,7 +13697,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 102094,
@@ -11012,7 +13744,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 227526,
@@ -11048,7 +13791,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 42
+   "locale": 42,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 152080,
@@ -11084,7 +13835,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Baptist",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 229179,
@@ -11120,7 +13879,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 149231,
@@ -11156,7 +13926,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 228431,
@@ -11192,7 +13970,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 221847,
@@ -11228,7 +14014,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 126580,
@@ -11264,7 +14058,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110486,
@@ -11300,7 +14105,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 243221,
@@ -11336,7 +14152,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 149222,
@@ -11372,7 +14199,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110495,
@@ -11408,7 +14243,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 445188,
@@ -11444,7 +14287,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 159647,
@@ -11480,7 +14331,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 157447,
@@ -11516,7 +14375,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 110361,
@@ -11552,7 +14419,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Religious affiliation",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 226091,
@@ -11588,7 +14466,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 169910,
@@ -11624,7 +14513,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 224147,
@@ -11660,7 +14557,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 22,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 206695,
@@ -11696,7 +14604,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 240727,
@@ -11732,7 +14651,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 1,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 131113,
@@ -11768,7 +14695,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 479956,
@@ -11804,7 +14739,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 8,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 243601,
@@ -11840,7 +14786,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 133553,
@@ -11876,7 +14830,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 179867,
@@ -11912,7 +14877,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 234827,
@@ -11948,7 +14921,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 165024,
@@ -11984,7 +14965,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 128771,
@@ -12020,7 +15009,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 160755,
@@ -12056,7 +15053,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 106704,
@@ -12092,7 +15100,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 142285,
@@ -12128,7 +15147,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 186399,
@@ -12164,7 +15191,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 202480,
@@ -12200,7 +15238,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 194310,
@@ -12236,7 +15285,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 239105,
@@ -12272,7 +15332,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 166027,
@@ -12308,7 +15379,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 196264,
@@ -12344,7 +15426,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 23
+   "locale": 23,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 142276,
@@ -12380,7 +15470,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 133650,
@@ -12416,7 +15517,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 15,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 131496,
@@ -12452,7 +15564,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 144050,
@@ -12488,7 +15611,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 11
+   "locale": 11,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 219602,
@@ -12524,7 +15658,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 243744,
@@ -12560,7 +15705,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 186876,
@@ -12596,7 +15749,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 41
+   "locale": 41,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 7,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 154095,
@@ -12632,7 +15793,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 141334,
@@ -12668,7 +15840,15 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 9,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 180489,
@@ -12704,7 +15884,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "unitid": 111948,
@@ -12740,7 +15931,18 @@
     "libraries": [],
     "notes": ""
    },
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Jewish",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Large (6k–15k)"
+   }
   },
   {
    "id": "sc-123943",
@@ -12814,7 +16016,19 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 21
+   "locale": 21,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 34,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "skiing"
+    ]
+   }
   },
   {
    "id": "sc-237905",
@@ -12896,7 +16110,22 @@
     },
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 13
+   "locale": 13,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "proximity": [
+     "beach",
+     "lake",
+     "major city",
+     "mountains",
+     "skiing"
+    ],
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-231059",
@@ -12942,7 +16171,15 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 2,
+    "religion": "Baptist",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-195216",
@@ -12988,7 +16225,15 @@
     "rigorRating": "very important",
     "source": "Muse research (2026-10-05)"
    },
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 28,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-199865",
@@ -13026,7 +16271,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 41
+   "locale": 41,
+   "lifestyle": {
+    "politicalLean": "Swing / mixed",
+    "gunLaws": "Moderate gun laws",
+    "lgbtqPolicy": "Moderate LGBTQ protections",
+    "collegesInState": 11,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-148593",
@@ -13064,7 +16317,18 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 12
+   "locale": 12,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 12,
+    "religion": "Baptist",
+    "proximity": [
+     "major city"
+    ],
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-127185",
@@ -13102,7 +16366,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "id": "sc-128391",
@@ -13140,7 +16412,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-180692",
@@ -13178,7 +16458,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 33
+   "locale": 33,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 3,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-167288",
@@ -13216,7 +16504,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 31
+   "locale": 31,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 10,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   },
   {
    "id": "sc-235167",
@@ -13254,7 +16550,15 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 22
+   "locale": 22,
+   "lifestyle": {
+    "politicalLean": "Lean Democrat",
+    "gunLaws": "Stricter gun laws",
+    "lgbtqPolicy": "Strong LGBTQ protections",
+    "collegesInState": 5,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Medium (2k–6k)"
+   }
   },
   {
    "id": "sc-156295",
@@ -13292,7 +16596,16 @@
    },
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
-   "locale": 32
+   "locale": 32,
+   "lifestyle": {
+    "politicalLean": "Lean Republican",
+    "gunLaws": "Permissive gun laws",
+    "lgbtqPolicy": "Limited LGBTQ protections",
+    "collegesInState": 6,
+    "religion": "Secular / nonsectarian",
+    "sizeBand": "Small (<2k)"
+   }
   }
- ]
+ ],
+ "lifestyleSources": "State context: presidential results + Cook PVI (political lean), Giffords Law Center (gun laws), Movement Advancement Project (LGBTQ policy). Religion: US Dept. of Education. These are state/area-level context, not judgments about a school."
 }
