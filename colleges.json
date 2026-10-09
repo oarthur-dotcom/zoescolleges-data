@@ -1,7 +1,7 @@
 {
- "version": 2,
+ "version": 3,
  "updated": "2026-10-09",
- "source": "U.S. Dept. of Education College Scorecard (official) + curated scene data; per-student fit comes from the student profile",
+ "source": "College Scorecard (official) + Muse research (deadlines, CDS weightings, Greek, clubs, athletics, nearby, weather)",
  "colleges": [
   {
    "unitid": 228778,
@@ -71,6 +71,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -106,6 +111,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -141,6 +151,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -211,6 +226,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -421,6 +441,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "very important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -456,6 +481,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -491,6 +521,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -526,6 +561,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -561,6 +601,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -701,6 +746,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -736,6 +786,11 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "very important",
+    "rigorRating": "important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -763,7 +818,7 @@
    "vibe": "City plus mountains",
    "greekLife": "Present",
    "athleticsNetwork": "Regional, Mountain West",
-   "earlyDeadline": "Check site",
+   "earlyDeadline": "early action Dec 1, 2026",
    "regularDeadline": "Check site",
    "scene": {
     "music": [],
@@ -771,6 +826,16 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Dec 1, 2026",
+     "priority_note": "Dec 1, 2026 = Early Action + merit scholarship consideration deadline (application is the scholarship application). Applications open Aug 1; rolling admission after Dec 1. Feb 1 financial aid priority date; merit notifications begin Jan 18, 2027.",
+     "deadlines_url": "https://financialaid.utah.edu/types-of-aid/scholarships/freshman/index.php",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -799,13 +864,22 @@
    "greekLife": "Present",
    "athleticsNetwork": "Regional, Mountain West",
    "earlyDeadline": "Check site",
-   "regularDeadline": "Check site",
+   "regularDeadline": "Jul 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "regular_date": "Jul 1, 2027",
+     "priority_note": "Rolling admission — no EA/ED; MSU recommends applications on file by July 1 for fall semester. Presidential Scholarship (also the Honors College application): opens Oct 1, 2026, closes Dec 1, 2026 at midnight MST. WUE scholarship deadline: Jan 7, 2027. Departmental Cat $cholarships priority: Feb 1, 2027.",
+     "deadlines_url": "https://catalog.montana.edu/undergraduate-admissions/",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -833,14 +907,25 @@
    "vibe": "Pacific Northwest college town",
    "greekLife": "Present",
    "athleticsNetwork": "Regional, Pacific NW",
-   "earlyDeadline": "Check site",
-   "regularDeadline": "Check site",
+   "earlyDeadline": "early action Nov 2, 2026",
+   "regularDeadline": "Feb 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 2, 2026",
+     "regular_date": "Feb 1, 2027",
+     "priority_note": "EA is non-binding; EA decisions no later than mid-December; RD decisions no later than mid-March; supporting documents due February 12. After Feb 1, applications are reviewed on a rolling/space-available basis. Honors College: EA applicants receive HC decisions by Dec 31; RD applicants by Mar 31.",
+     "deadlines_url": "https://admissions.oregonstate.edu/application-workshops",
+     "deadlines_confidence": "medium"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -868,14 +953,25 @@
    "vibe": "Spirited Eugene flagship",
    "greekLife": "Present",
    "athleticsNetwork": "Regional, Pacific NW",
-   "earlyDeadline": "Check site",
-   "regularDeadline": "Check site",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 15, 2027",
+     "priority_note": "EA decision by January 5; RD decision no later than April 1; supporting documents EA Nov 15 / RD Feb 15; automatic first-year scholarships require applying by the RD deadline with documents by Feb 15; Clark Honors College shares the same Nov 1 / Jan 15 deadlines; FAFSA priority March 1; enrollment decision by May 1.",
+     "deadlines_url": "http://www.uoregon.edu/admissions/apply/",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -903,7 +999,7 @@
    "vibe": "Large Southwest flagship",
    "greekLife": "Present",
    "athleticsNetwork": "National, Southwest",
-   "earlyDeadline": "Check site",
+   "earlyDeadline": "early action Nov 1, 2026",
    "regularDeadline": "Check site",
    "scene": {
     "music": [],
@@ -911,6 +1007,18 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "priority_note": "No fixed Regular Decision deadline published — applications received after Nov 1 move to a Regular Decision timeline released in batches on a space-available basis during the spring after EA decisions. EA applicants get priority consideration for admission, merit aid, and W.A. Franke Honors College admission. EA decisions begin January 15, 2027. Enrollment fee deadline May 1.",
+     "deadlines_url": "https://arizona.edu/admissions/deadlines",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -1355,9 +1463,9 @@
     "size": 42284
    },
    "id": "sc-214777",
-   "vibe": "",
+   "vibe": "255 mi to Belmar, NJ · 137 mi to Pittsburgh, PA · Jan ~34°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA Division I · Big Ten Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -1366,6 +1474,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "important",
+    "studentFacultyRatio": "15",
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes (Team Sport under Intercollegiate Athletics; D1 Elite)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten Conference",
+     "football": "FBS power",
+     "d1Hockey": "True",
+     "mascot": "Nittany Lion"
+    },
+    "nearby": [
+     {
+      "place": "Belmar, NJ",
+      "miles": "255"
+     },
+     {
+      "place": "Pittsburgh, PA",
+      "miles": "137"
+     },
+     {
+      "place": "Tussey Mountain Ski Area, PA",
+      "miles": "8"
+     },
+     {
+      "place": "Raystown Lake, PA",
+      "miles": "49"
+     }
+    ],
+    "januaryTempF": {
+     "high": "34",
+     "low": "21"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -1425,9 +1572,9 @@
     "size": 40922
    },
    "id": "sc-171100",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "704 mi to Atlantic City, NJ (NJ shore — nearest ocean coast to inland Michigan) · 86 mi to Detroit, MI · Jan ~31°F",
+   "greekLife": "Greek: 12% men · 13% women",
+   "athleticsNetwork": "NCAA Division I · Big Ten Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -1436,6 +1583,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "important",
+    "studentFacultyRatio": "16.7",
+    "greek": {
+     "men": "12",
+     "women": "13"
+    },
+    "clubs": {
+     "fieldHockey": "No club (varsity only)",
+     "womensRugby": "Yes (BIG 10 League)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten Conference",
+     "football": "FBS Power 4",
+     "d1Hockey": "True",
+     "mascot": "Sparty"
+    },
+    "nearby": [
+     {
+      "place": "Atlantic City, NJ (NJ shore — nearest ocean coast to inland Michigan)",
+      "miles": "704"
+     },
+     {
+      "place": "Detroit, MI",
+      "miles": "86"
+     },
+     {
+      "place": "Mt. Holly Ski & Snowboard Resort, Holly, MI",
+      "miles": "61"
+     },
+     {
+      "place": "Grand Haven State Park on Lake Michigan, Grand Haven, MI",
+      "miles": "106"
+     }
+    ],
+    "januaryTempF": {
+     "high": "31",
+     "low": "17"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -1600,17 +1790,68 @@
     "size": 37806
    },
    "id": "sc-151351",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "716 mi to Gulf Shores, AL · 51 mi to Indianapolis, IN · Jan ~37°F",
+   "greekLife": "Greek: 22.87% men · 21.66% women",
+   "athleticsNetwork": "NCAA Division I · Big Ten Conference",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Feb 1, 2027",
+     "priority_note": "For highest admission and scholarship consideration, apply by the early action (non-binding) November 1 deadline. After February 1, applications will only be accepted on a space-available basis. IU page states annual dates without a year label; Fall 2027 cycle (Nov 1 2026 / Feb 1 2027) corroborated by secondary citing IU's official deadlines page.",
+     "deadlines_url": "https://bloomington.iu.edu/admissions/apply/freshman/deadlines.html",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "22.87",
+     "women": "21.66"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (club; varsity program also exists)",
+     "womensRugby": "Yes (NCR Division I-AA, Big Ten Women's Rugby grouping)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten Conference",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Hoosier the Bison"
+    },
+    "nearby": [
+     {
+      "place": "Gulf Shores, AL",
+      "miles": "716"
+     },
+     {
+      "place": "Indianapolis, IN",
+      "miles": "51"
+     },
+     {
+      "place": "Paoli Peaks, IN",
+      "miles": "53"
+     },
+     {
+      "place": "Lake Monroe (Monroe Lake), IN",
+      "miles": "13"
+     }
+    ],
+    "januaryTempF": {
+     "high": "37",
+     "low": "21"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -1635,9 +1876,9 @@
     "size": 37751
    },
    "id": "sc-186380",
-   "vibe": "",
+   "vibe": "30 mi to Sandy Hook, NJ (Gateway National Recreation Area) · 38 mi to New York, NY · Jan ~40°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA Division I · Big Ten Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -1646,6 +1887,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "15",
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten Conference",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Scarlet Knight"
+    },
+    "nearby": [
+     {
+      "place": "Sandy Hook, NJ (Gateway National Recreation Area)",
+      "miles": "30"
+     },
+     {
+      "place": "New York, NY",
+      "miles": "38"
+     },
+     {
+      "place": "Mountain Creek Resort, Vernon, NJ",
+      "miles": "73"
+     },
+     {
+      "place": "Ashokan Reservoir, NY",
+      "miles": "137"
+     }
+    ],
+    "januaryTempF": {
+     "high": "40",
+     "low": "23"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -1705,17 +1985,68 @@
     "size": 36902
    },
    "id": "sc-240444",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "973 mi to Asbury Park, NJ · 79 mi to Milwaukee, WI · Jan ~27°F",
+   "greekLife": "Greek: 9% men · 8% women",
+   "athleticsNetwork": "NCAA Division I · Big Ten Conference",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 15, 2027",
+     "priority_note": "EA materials deadline Nov 9, decisions on or before Jan 31; RD materials deadline Jan 22, decisions on or before March 31. EA is non-binding; commitment by May 1.",
+     "deadlines_url": "https://admissions.wisc.edu/deadlines/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "18",
+    "greek": {
+     "men": "9",
+     "women": "8"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten Conference",
+     "football": "FBS power",
+     "d1Hockey": "True",
+     "mascot": "Bucky Badger"
+    },
+    "nearby": [
+     {
+      "place": "Asbury Park, NJ",
+      "miles": "973"
+     },
+     {
+      "place": "Milwaukee, WI",
+      "miles": "79"
+     },
+     {
+      "place": "Devil's Head Resort, WI",
+      "miles": "38"
+     },
+     {
+      "place": "Lake Mendota, WI",
+      "miles": "8"
+     }
+    ],
+    "januaryTempF": {
+     "high": "27",
+     "low": "12"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2055,10 +2386,10 @@
     "size": 33227
    },
    "id": "sc-100751",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
+   "vibe": "249 mi to Gulf Shores, AL · 57 mi to Birmingham, AL · Jan ~55°F",
+   "greekLife": "Greek: 30.5% men · 44.9% women",
+   "athleticsNetwork": "NCAA Division I · Southeastern Conference (SEC)",
+   "earlyDeadline": "priority Dec 4, 2026",
    "regularDeadline": "Check school site",
    "scene": {
     "music": [],
@@ -2066,6 +2397,56 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "priority",
+     "early_date": "Dec 4, 2026",
+     "priority_note": "No final deadline published; UA reviews freshman applications rolling on a space-available basis after the priority date.",
+     "deadlines_url": "https://admissions.ua.edu/freshman/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "19",
+    "greek": {
+     "men": "30.5",
+     "women": "44.9"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Southeastern Conference (SEC)",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Big Al (Crimson Tide)"
+    },
+    "nearby": [
+     {
+      "place": "Gulf Shores, AL",
+      "miles": "249"
+     },
+     {
+      "place": "Birmingham, AL",
+      "miles": "57"
+     },
+     {
+      "place": "Ober Gatlinburg, TN",
+      "miles": "327"
+     },
+     {
+      "place": "Bankhead Lake, AL",
+      "miles": "38"
+     }
+    ],
+    "januaryTempF": {
+     "high": "55",
+     "low": "35"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2335,17 +2716,68 @@
     "size": 32137
    },
    "id": "sc-139959",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "234 mi to Tybee Island, GA · 70 mi to Atlanta, GA · Jan ~55°F",
+   "greekLife": "Greek: 37% men · 25% women",
+   "athleticsNetwork": "NCAA Division I · Southeastern Conference",
+   "earlyDeadline": "early action Oct 15, 2026",
+   "regularDeadline": "Jan 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Oct 15, 2026",
+     "regular_date": "Jan 1, 2027",
+     "priority_note": "Honors College: Jan 15; enrollment deposit May 1. EA application Oct 15 (materials by Oct 29); RD application Jan 1 (materials by Jan 15).",
+     "deadlines_url": "https://admissions.uga.edu/apply/deadlines/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "37",
+     "women": "25"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (NCR Division II, South Atlantic Women's Collegiate Rugby Conference)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Southeastern Conference",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Uga (live English Bulldog) / Hairy Dawg (costumed)"
+    },
+    "nearby": [
+     {
+      "place": "Tybee Island, GA",
+      "miles": "234"
+     },
+     {
+      "place": "Atlanta, GA",
+      "miles": "70"
+     },
+     {
+      "place": "Sapphire Valley, NC",
+      "miles": "112"
+     },
+     {
+      "place": "Lake Lanier, GA",
+      "miles": "51"
+     }
+    ],
+    "januaryTempF": {
+     "high": "55",
+     "low": "34"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2580,17 +3012,68 @@
     "size": 30418
    },
    "id": "sc-221759",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "383 mi to Folly Beach, SC · 178 mi to Nashville, TN · Jan ~48°F",
+   "greekLife": "Greek: 19% men · 36% women",
+   "athleticsNetwork": "NCAA Division I · Southeastern Conference (SEC)",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 5, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 5, 2027",
+     "priority_note": "EA materials deadline Nov 15, 2026; RD materials deadline Jan 20, 2027. Merit scholarship consideration: self-reported test scores by Jan 20. Confirmation deadline May 1.",
+     "deadlines_url": "https://admissions.utk.edu/important-dates-and-deadlines/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "18",
+    "greek": {
+     "men": "19",
+     "women": "36"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (National Collegiate Rugby)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Southeastern Conference (SEC)",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Smokey (bluetick coonhound)"
+    },
+    "nearby": [
+     {
+      "place": "Folly Beach, SC",
+      "miles": "383"
+     },
+     {
+      "place": "Nashville, TN",
+      "miles": "178"
+     },
+     {
+      "place": "Ober Gatlinburg, TN",
+      "miles": "47"
+     },
+     {
+      "place": "Fort Loudoun Lake, TN",
+      "miles": "19"
+     }
+    ],
+    "januaryTempF": {
+     "high": "48",
+     "low": "30"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2650,9 +3133,9 @@
     "size": 29882
    },
    "id": "sc-201885",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "629 mi to Virginia Beach, VA · 0 mi to Cincinnati, OH · Jan ~40.6°F",
+   "greekLife": "Greek: 7.21% men · 9.07% women",
+   "athleticsNetwork": "NCAA Division I · Big 12",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -2661,6 +3144,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "studentFacultyRatio": "19",
+    "greek": {
+     "men": "7.21",
+     "women": "9.07"
+    },
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big 12",
+     "football": "FBS Power 4",
+     "d1Hockey": "False",
+     "mascot": "Bearcat (Bearcats)"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach, VA",
+      "miles": "629"
+     },
+     {
+      "place": "Cincinnati, OH",
+      "miles": "0"
+     },
+     {
+      "place": "Perfect North Slopes, Lawrenceburg, IN",
+      "miles": "31"
+     },
+     {
+      "place": "Lake Erie (Sandusky, OH)",
+      "miles": "187"
+     }
+    ],
+    "januaryTempF": {
+     "high": "40.6",
+     "low": "33"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2685,17 +3211,68 @@
     "size": 29820
    },
    "id": "sc-218663",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "123 mi to Folly Beach, SC · 93 mi to Charlotte, NC · Jan ~57°F",
+   "greekLife": "Greek: 26.79% men · 34.1% women",
+   "athleticsNetwork": "NCAA Division I · Southeastern Conference (SEC)",
+   "earlyDeadline": "early action Oct 15, 2026",
+   "regularDeadline": "Dec 1, 2026",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Oct 15, 2026",
+     "regular_date": "Dec 1, 2026",
+     "priority_note": "Honors College/Top Scholars: apply by Nov. 15, 2026 (decision mid-February; credentials due Dec. 1). Credentials due Nov. 1 (EA) / Jan. 15 (RD). USC is test-optional through the fall, spring and summer 2027 terms.",
+     "deadlines_url": "https://sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_freshmen/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "studentFacultyRatio": "19",
+    "greek": {
+     "men": "26.79",
+     "women": "34.1"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes (NCR Division II)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Southeastern Conference (SEC)",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "Cocky"
+    },
+    "nearby": [
+     {
+      "place": "Folly Beach, SC",
+      "miles": "123"
+     },
+     {
+      "place": "Charlotte, NC",
+      "miles": "93"
+     },
+     {
+      "place": "Cataloochee Ski Area, NC",
+      "miles": "187"
+     },
+     {
+      "place": "Lake Murray, SC",
+      "miles": "27"
+     }
+    ],
+    "januaryTempF": {
+     "high": "57",
+     "low": "35"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -2895,9 +3472,9 @@
     "size": 27752
    },
    "id": "sc-232186",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "156 mi to Ocean City, MD (Atlantic Ocean beach, public swimming) · 21 mi to Washington, DC · Jan ~42.6°F",
+   "greekLife": "Greek: 3% men · 3% women",
+   "athleticsNetwork": "NCAA Division I · Atlantic 10 Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -2906,6 +3483,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "3",
+     "women": "3"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (league not stated)",
+     "womensRugby": "Yes (league/conference not stated)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Atlantic 10 Conference",
+     "football": "none",
+     "d1Hockey": "False",
+     "mascot": "Patriots"
+    },
+    "nearby": [
+     {
+      "place": "Ocean City, MD (Atlantic Ocean beach, public swimming)",
+      "miles": "156"
+     },
+     {
+      "place": "Washington, DC",
+      "miles": "21"
+     },
+     {
+      "place": "Liberty Mountain Resort, PA (chairlifts)",
+      "miles": "81"
+     },
+     {
+      "place": "Lake Anna State Park, VA (Lake Anna ~20 sq mi)",
+      "miles": "71"
+     }
+    ],
+    "januaryTempF": {
+     "high": "42.6",
+     "low": "25.2"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3175,9 +3795,9 @@
     "size": 24763
    },
    "id": "sc-157085",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "555 mi to Myrtle Beach, SC · 76 mi to Louisville, KY · Jan ~42.3°F",
+   "greekLife": "Greek: 17.3% men · 28.1% women",
+   "athleticsNetwork": "NCAA Division I · Southeastern Conference (SEC)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -3186,6 +3806,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "18",
+    "greek": {
+     "men": "17.3",
+     "women": "28.1"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Southeastern Conference (SEC)",
+     "football": "FBS Power 4",
+     "d1Hockey": "False",
+     "mascot": "Wildcats — costumed mascots Wildcat and Scratch"
+    },
+    "nearby": [
+     {
+      "place": "Myrtle Beach, SC",
+      "miles": "555"
+     },
+     {
+      "place": "Louisville, KY",
+      "miles": "76"
+     },
+     {
+      "place": "Perfect North Slopes, Lawrenceburg, IN",
+      "miles": "97"
+     },
+     {
+      "place": "Cave Run Lake (Twin Knobs Recreation Area, Daniel Boone National Forest)",
+      "miles": "65"
+     }
+    ],
+    "januaryTempF": {
+     "high": "42.3",
+     "low": "25.4"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3350,17 +4013,68 @@
     "size": 23300
    },
    "id": "sc-217882",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "250 mi to Folly Beach, SC · 122 mi to Atlanta, GA · Jan ~53°F",
+   "greekLife": "Greek: 18% men · 37% women",
+   "athleticsNetwork": "NCAA Division I · Atlantic Coast Conference",
+   "earlyDeadline": "early action Oct 15, 2026",
+   "regularDeadline": "Jan 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Oct 15, 2026",
+     "regular_date": "Jan 1, 2027",
+     "priority_note": "EA application by Oct 15, materials by Nov 1 (counselor guide, media.clemson.edu). Final application deadline May 1.",
+     "deadlines_url": "https://catalog.clemson.edu/content.php?catoid=46&navoid=1778",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "16",
+    "greek": {
+     "men": "18",
+     "women": "37"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes (NCR Division I-AA, South Atlantic Women's Collegiate Rugby Conference)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Atlantic Coast Conference",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "The Tiger"
+    },
+    "nearby": [
+     {
+      "place": "Folly Beach, SC",
+      "miles": "250"
+     },
+     {
+      "place": "Atlanta, GA",
+      "miles": "122"
+     },
+     {
+      "place": "Sapphire Valley, NC",
+      "miles": "50"
+     },
+     {
+      "place": "Lake Hartwell, SC",
+      "miles": "1"
+     }
+    ],
+    "januaryTempF": {
+     "high": "53",
+     "low": "33"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3560,9 +4274,9 @@
     "size": 22264
    },
    "id": "sc-153658",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "895 mi to Biloxi, Mississippi · 225 mi to Chicago, Illinois · Jan ~31°F",
+   "greekLife": "Greek: 15% men · 17% women",
+   "athleticsNetwork": "NCAA Division I · Big Ten",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -3571,6 +4285,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "15",
+     "women": "17"
+    },
+    "clubs": {
+     "fieldHockey": "No club (varsity only)",
+     "womensRugby": "Yes (National Collegiate Rugby - women's D1-AA division)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big Ten",
+     "football": "FBS Power 4",
+     "d1Hockey": "False",
+     "mascot": "Herky the Hawk"
+    },
+    "nearby": [
+     {
+      "place": "Biloxi, Mississippi",
+      "miles": "895"
+     },
+     {
+      "place": "Chicago, Illinois",
+      "miles": "225"
+     },
+     {
+      "place": "Sundown Mountain Resort (Dubuque, Iowa)",
+      "miles": "84"
+     },
+     {
+      "place": "Lake Red Rock (Pella/Knoxville, Iowa)",
+      "miles": "104"
+     }
+    ],
+    "januaryTempF": {
+     "high": "31",
+     "low": "15"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3665,17 +4422,68 @@
     "size": 21790
    },
    "id": "sc-139931",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "72 mi to Tybee Island, GA · 173 mi to Jacksonville, FL · Jan ~60°F",
+   "greekLife": "Greek: 9% men · 17% women",
+   "athleticsNetwork": "NCAA Division I · Sun Belt Conference",
+   "earlyDeadline": "priority Feb 1, 2027",
+   "regularDeadline": "Aug 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "priority",
+     "early_date": "Feb 1, 2027",
+     "regular_date": "Aug 1, 2027",
+     "priority_note": "Honors College: priority January 15 (scholarships), final April 15. University Housing Fall 2027: Statesboro Campus priority March 1, 2027. No EA/ED; rolling admission.",
+     "deadlines_url": "https://www.georgiasouthern.edu/admissions-aid/apply/deadlines-requirements",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "24",
+    "greek": {
+     "men": "9",
+     "women": "17"
+    },
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Sun Belt Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Eagles"
+    },
+    "nearby": [
+     {
+      "place": "Tybee Island, GA",
+      "miles": "72"
+     },
+     {
+      "place": "Jacksonville, FL",
+      "miles": "173"
+     },
+     {
+      "place": "Sapphire Valley, NC",
+      "miles": "257"
+     },
+     {
+      "place": "Clarks Hill Lake (J. Strom Thurmond Lake)",
+      "miles": "112"
+     }
+    ],
+    "januaryTempF": {
+     "high": "60",
+     "low": "39"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3945,17 +4753,68 @@
     "size": 20888
    },
    "id": "sc-232423",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "236 mi to Virginia Beach Oceanfront, VA · 130 mi to Richmond, VA · Jan ~42°F",
+   "greekLife": "Greek: 10% men · 12% women",
+   "athleticsNetwork": "NCAA Division I · Sun Belt Conference",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 15, 2027",
+     "priority_note": "EA is non-binding; EA decisions notified mid-January; tuition deposit May 1. No early decision plan. JMU's Nov 1 / Jan 15 pattern is long-standing and confirmed for the current cycle.",
+     "deadlines_url": "https://catalog.jmu.edu/undergraduate-admissions/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "10",
+     "women": "12"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (National Collegiate Rugby / USA Rugby)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Sun Belt Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Duke Dog"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach Oceanfront, VA",
+      "miles": "236"
+     },
+     {
+      "place": "Richmond, VA",
+      "miles": "130"
+     },
+     {
+      "place": "Massanutten Resort, VA",
+      "miles": "14"
+     },
+     {
+      "place": "Lake Anna (Lake Anna State Park), VA",
+      "miles": "84"
+     }
+    ],
+    "januaryTempF": {
+     "high": "42",
+     "low": "23"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -3980,9 +4839,9 @@
     "size": 20753
    },
    "id": "sc-234030",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "108 mi to Virginia Beach (Atlantic Ocean oceanfront) · 0 mi to Richmond · Jan ~47.8°F",
+   "greekLife": "Greek: 1.55% men · 3.01% women",
+   "athleticsNetwork": "NCAA D-I · Atlantic 10",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -3991,6 +4850,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "greek": {
+     "men": "1.55",
+     "women": "3.01"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (National Field Hockey League)",
+     "womensRugby": "Yes (D2 collegiate clubs in the area)"
+    },
+    "athletics": {
+     "division": "NCAA D-I",
+     "conference": "Atlantic 10",
+     "football": "none",
+     "d1Hockey": "False",
+     "mascot": "Rodney the Ram"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach (Atlantic Ocean oceanfront)",
+      "miles": "108"
+     },
+     {
+      "place": "Richmond",
+      "miles": "0"
+     },
+     {
+      "place": "Massanutten Resort",
+      "miles": "106"
+     },
+     {
+      "place": "Lake Anna (Lake Anna State Park)",
+      "miles": "64"
+     }
+    ],
+    "januaryTempF": {
+     "high": "47.8",
+     "low": "28.8"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4085,10 +4987,10 @@
     "size": 20370
    },
    "id": "sc-215293",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
+   "vibe": "349 mi to Rehoboth Beach, DE · 0 mi to Pittsburgh, PA (own metro ~2.4M) · Jan ~36°F",
+   "greekLife": "Greek: 9% men · 12% women",
+   "athleticsNetwork": "NCAA Division I · Atlantic Coast Conference (ACC)",
+   "earlyDeadline": "priority Dec 1, 2026",
    "regularDeadline": "Check school site",
    "scene": {
     "music": [],
@@ -4096,6 +4998,56 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "priority",
+     "early_date": "Dec 1, 2026",
+     "priority_note": "Rolling admission — no set deadline. Dec 1 = automatic consideration for academic scholarships (complete application + all materials). Nov 15 = Stamps Scholarship / Nordenberg Leadership Scholars deadline. Med School Guarantee: Nov 1. Enrollment via the Fall 2027 application (open now).",
+     "deadlines_url": "https://admissions.pitt.edu/first-year-student/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "14",
+    "greek": {
+     "men": "9",
+     "women": "12"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Atlantic Coast Conference (ACC)",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "ROC the Panther"
+    },
+    "nearby": [
+     {
+      "place": "Rehoboth Beach, DE",
+      "miles": "349"
+     },
+     {
+      "place": "Pittsburgh, PA (own metro ~2.4M)",
+      "miles": "0"
+     },
+     {
+      "place": "Seven Springs Mountain Resort, PA",
+      "miles": "58"
+     },
+     {
+      "place": "Presque Isle State Park (Lake Erie), PA",
+      "miles": "132"
+     }
+    ],
+    "januaryTempF": {
+     "high": "36",
+     "low": "21"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4225,9 +5177,9 @@
     "size": 19896
    },
    "id": "sc-198464",
-   "vibe": "",
+   "vibe": "89 mi to Atlantic Beach, NC · 78 mi to Raleigh, NC · Jan ~53.2°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA Division I · American Conference (The American)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -4236,6 +5188,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "American Conference (The American)",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Pirates"
+    },
+    "nearby": [
+     {
+      "place": "Atlantic Beach, NC",
+      "miles": "89"
+     },
+     {
+      "place": "Raleigh, NC",
+      "miles": "78"
+     },
+     {
+      "place": "Appalachian Ski Mountain (Blowing Rock, NC)",
+      "miles": "268"
+     },
+     {
+      "place": "Lake Mattamuskeet, NC",
+      "miles": "95"
+     }
+    ],
+    "januaryTempF": {
+     "high": "53.2",
+     "low": "33"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4295,9 +5286,9 @@
     "size": 19633
    },
    "id": "sc-204857",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "477 mi to Ocean City, MD · 75 mi to Columbus, OH · Jan ~38°F",
+   "greekLife": "Greek: 6% men · 4% women",
+   "athleticsNetwork": "NCAA Division I (FBS) · Mid-American Conference (MAC)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -4306,6 +5297,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "19",
+    "greek": {
+     "men": "6",
+     "women": "4"
+    },
+    "clubs": {
+     "fieldHockey": "No club (varsity only)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I (FBS)",
+     "conference": "Mid-American Conference (MAC)",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Bobcats (Rufus the Bobcat)"
+    },
+    "nearby": [
+     {
+      "place": "Ocean City, MD",
+      "miles": "477"
+     },
+     {
+      "place": "Columbus, OH",
+      "miles": "75"
+     },
+     {
+      "place": "Mad River Mountain, OH",
+      "miles": "126"
+     },
+     {
+      "place": "Burr Oak State Park, OH",
+      "miles": "24"
+     }
+    ],
+    "januaryTempF": {
+     "high": "38",
+     "low": "21.5"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4365,9 +5399,9 @@
     "size": 19444
    },
    "id": "sc-197869",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "270 mi to Myrtle Beach, SC · 100 mi to Charlotte, NC · Jan ~41.4°F",
+   "greekLife": "Greek: 9.37% men · 9.92% women",
+   "athleticsNetwork": "NCAA Division I · Sun Belt Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -4376,6 +5410,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "16",
+    "greek": {
+     "men": "9.37",
+     "women": "9.92"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (league not stated)",
+     "womensRugby": "Yes (National Collegiate Rugby, Division II — Central conference per the club's current fundraiser)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Sun Belt Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Yosef"
+    },
+    "nearby": [
+     {
+      "place": "Myrtle Beach, SC",
+      "miles": "270"
+     },
+     {
+      "place": "Charlotte, NC",
+      "miles": "100"
+     },
+     {
+      "place": "Appalachian Ski Mountain (Blowing Rock, NC)",
+      "miles": "5"
+     },
+     {
+      "place": "Watauga Lake, TN",
+      "miles": "32"
+     }
+    ],
+    "januaryTempF": {
+     "high": "41.4",
+     "low": "21.6"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4400,9 +5477,9 @@
     "size": 19320
    },
    "id": "sc-203517",
-   "vibe": "",
+   "vibe": "462 mi to Ocean City, MD · 40 mi to Cleveland, OH · Jan ~36°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA Division I · Mid-American Conference (MAC)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -4411,6 +5488,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "studentFacultyRatio": "21",
+    "clubs": {
+     "fieldHockey": "No club (varsity only)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Mid-American Conference (MAC)",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Flash the Golden Eagle"
+    },
+    "nearby": [
+     {
+      "place": "Ocean City, MD",
+      "miles": "462"
+     },
+     {
+      "place": "Cleveland, OH",
+      "miles": "40"
+     },
+     {
+      "place": "Brandywine Ski Resort, OH",
+      "miles": "21"
+     },
+     {
+      "place": "Lake Erie (Headlands Beach State Park), OH",
+      "miles": "54"
+     }
+    ],
+    "januaryTempF": {
+     "high": "36",
+     "low": "20"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4470,17 +5586,68 @@
     "size": 19071
    },
    "id": "sc-130943",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "87 mi to Rehoboth Beach, DE · 46 mi to Philadelphia, PA · Jan ~41°F",
+   "greekLife": "Greek: 20% men · 25% women",
+   "athleticsNetwork": "NCAA Division I · Conference USA",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 15, 2027",
+     "priority_note": "Honors College: apply by the Nov 1 early action deadline; Dec 1 Honors priority (sites.udel.edu/honors). May 1 enrollment deposit. The fall 2027 application is open (Newark campus).",
+     "deadlines_url": "https://www.udel.edu/apply/undergraduate-admissions/apply-to-ud/freshman-admissions/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "13",
+    "greek": {
+     "men": "20",
+     "women": "25"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL; separate from the varsity program)",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Conference USA",
+     "football": "FBS other",
+     "d1Hockey": "True",
+     "mascot": "YoUDee (the Blue Hen)"
+    },
+    "nearby": [
+     {
+      "place": "Rehoboth Beach, DE",
+      "miles": "87"
+     },
+     {
+      "place": "Philadelphia, PA",
+      "miles": "46"
+     },
+     {
+      "place": "Spring Mountain Ski Area, PA",
+      "miles": "54"
+     },
+     {
+      "place": "Raystown Lake, PA",
+      "miles": "176"
+     }
+    ],
+    "januaryTempF": {
+     "high": "41",
+     "low": "26"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4753,14 +5920,25 @@
    "vibe": "",
    "greekLife": "",
    "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "earlyDeadline": "early decision Nov 2, 2026",
+   "regularDeadline": "Jan 5, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early decision",
+     "early_date": "Nov 2, 2026",
+     "regular_date": "Jan 5, 2027",
+     "priority_note": "Early Decision I (binding): apply Nov 2, 2026, notified Dec 15, deposit early-mid Jan. Early Decision II (binding): apply Jan 5, 2027, notified Feb 9, deposit late Feb. Regular Decision: apply Jan 5, 2027, notified Mar 28, deposit May 1. Some merit scholarships require applying by Dec 1, 2026 (Trustee & Presidential).",
+     "deadlines_url": "https://www.bu.edu/admissions/apply/deadlines/",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4960,9 +6138,9 @@
     "size": 17514
    },
    "id": "sc-232982",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "22 mi to Virginia Beach (Oceanfront) · 0 mi to Norfolk (own metro: Virginia Beach-Norfolk-Newport News, ~1.8M) · Jan ~51°F",
+   "greekLife": "Greek: 5% men · 5% women",
+   "athleticsNetwork": "NCAA Division I FBS · Sun Belt Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -4971,6 +6149,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "14",
+    "greek": {
+     "men": "5",
+     "women": "5"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes (Virginia Rugby Union)"
+    },
+    "athletics": {
+     "division": "NCAA Division I FBS",
+     "conference": "Sun Belt Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Big Blue (teams: Monarchs)"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach (Oceanfront)",
+      "miles": "22"
+     },
+     {
+      "place": "Norfolk (own metro: Virginia Beach-Norfolk-Newport News, ~1.8M)",
+      "miles": "0"
+     },
+     {
+      "place": "Wintergreen Resort",
+      "miles": "202"
+     },
+     {
+      "place": "Lake Gaston (~31.7 sq mi)",
+      "miles": "108"
+     }
+    ],
+    "januaryTempF": {
+     "high": "51",
+     "low": "34"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -4995,9 +6216,9 @@
     "size": 17385
    },
    "id": "sc-238032",
-   "vibe": "",
+   "vibe": "329 mi to Ocean City, MD · 74 mi to Pittsburgh, PA · Jan ~40.1°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA Division I · Big 12 Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -5006,6 +6227,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "not considered",
+    "studentFacultyRatio": "19",
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Big 12 Conference",
+     "football": "FBS Power 4",
+     "d1Hockey": "False",
+     "mascot": "Mountaineers"
+    },
+    "nearby": [
+     {
+      "place": "Ocean City, MD",
+      "miles": "329"
+     },
+     {
+      "place": "Pittsburgh, PA",
+      "miles": "74"
+     },
+     {
+      "place": "Wisp Resort, MD",
+      "miles": "43"
+     },
+     {
+      "place": "Deep Creek Lake (Deep Creek Lake State Park), MD",
+      "miles": "51"
+     }
+    ],
+    "januaryTempF": {
+     "high": "40.1",
+     "low": "24"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -5033,14 +6293,25 @@
    "vibe": "",
    "greekLife": "",
    "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "earlyDeadline": "early decision Nov 1, 2026",
+   "regularDeadline": "Jan 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early decision",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 1, 2027",
+     "priority_note": "Early Decision I and Early Action: November 1 (2026). Early Decision II and Regular Decision: January 1 (2027). EA and RD are non-binding; ED I/II are binding for fall admission. CSS Profile priority dates: ED I Nov 15, EA Dec 1, ED II Jan 15, RD Feb 15. Deposit deadline May 1. Merit scholarships: no separate application — the admissions application serves as the scholarship application.",
+     "deadlines_url": "https://admissions.northeastern.edu/visit/counselor-resources/",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -5310,9 +6581,9 @@
     "size": 16136
    },
    "id": "sc-164076",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "136 mi to Ocean City, MD · 10 mi to Baltimore, MD · Jan ~43°F",
+   "greekLife": "Greek: 4% men · 5% women",
+   "athleticsNetwork": "NCAA Division I · Coastal Athletic Association (CAA)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -5321,6 +6592,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "14",
+    "greek": {
+     "men": "4",
+     "women": "5"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (Potomac Rugby Union / MARFU, Division II)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Coastal Athletic Association (CAA)",
+     "football": "FCS",
+     "d1Hockey": "False",
+     "mascot": "Doc (the Tiger)"
+    },
+    "nearby": [
+     {
+      "place": "Ocean City, MD",
+      "miles": "136"
+     },
+     {
+      "place": "Baltimore, MD",
+      "miles": "10"
+     },
+     {
+      "place": "Liberty Mountain Resort, PA",
+      "miles": "58"
+     },
+     {
+      "place": "Deep Creek Lake (Deep Creek Lake State Park), MD",
+      "miles": "185"
+     }
+    ],
+    "januaryTempF": {
+     "high": "43",
+     "low": "25"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -5660,17 +6974,68 @@
     "size": 14922
    },
    "id": "sc-199218",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "6 mi to Wrightsville Beach, NC · 127 mi to Raleigh, NC · Jan ~57°F",
+   "greekLife": "Greek: 3.7% men · 5.3% women",
+   "athleticsNetwork": "NCAA Division I · Coastal Athletic Association (CAA)",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Feb 1, 2027",
+     "priority_note": "Decision notification mailing dates: January 20 (EA) / March 15 (RD); $100 enrollment deposit due May 1.",
+     "deadlines_url": "https://catalogue.uncw.edu/content.php?catoid=77&navoid=11713",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "18",
+    "greek": {
+     "men": "3.7",
+     "women": "5.3"
+    },
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (NCR Women's Division III)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Coastal Athletic Association (CAA)",
+     "football": "none",
+     "d1Hockey": "False",
+     "mascot": "Sammy C. Hawk (Seahawks)"
+    },
+    "nearby": [
+     {
+      "place": "Wrightsville Beach, NC",
+      "miles": "6"
+     },
+     {
+      "place": "Raleigh, NC",
+      "miles": "127"
+     },
+     {
+      "place": "Appalachian Ski Mountain, NC",
+      "miles": "296"
+     },
+     {
+      "place": "Lake Marion, SC",
+      "miles": "123"
+     }
+    ],
+    "januaryTempF": {
+     "high": "57",
+     "low": "36"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -6360,17 +7725,68 @@
     "size": 12913
    },
    "id": "sc-135726",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "647 mi to Virginia Beach, VA · 40 mi to Cincinnati, OH · Jan ~40°F",
+   "greekLife": "Greek: 23% men · 31% women",
+   "athleticsNetwork": "NCAA Division I · Mid-American Conference (primary); NCHC (men's ice hockey)",
+   "earlyDeadline": "early decision Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early decision",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Feb 1, 2027",
+     "priority_note": "Early Action I: Nov 1 (notification Dec 15); Early Action II: Dec 1 (notification Feb 1). Dec 1 is the priority deadline for most merit scholarships, Honors College, nursing, and Farmer School of Business majors, and the firm deadline for the Presidential Fellows Scholarship. FAFSA deadline Feb 1.",
+     "deadlines_url": "https://miamioh.edu/admission-aid/apply/dates-deadlines/undergraduate-students.html",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "16",
+    "greek": {
+     "men": "23",
+     "women": "31"
+    },
+    "clubs": {
+     "fieldHockey": "Yes",
+     "womensRugby": "Yes (Ohio Rugby Union, Division II)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Mid-American Conference (primary); NCHC (men's ice hockey)",
+     "football": "FBS other",
+     "d1Hockey": "True",
+     "mascot": "Swoop (the RedHawk)"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach, VA",
+      "miles": "647"
+     },
+     {
+      "place": "Cincinnati, OH",
+      "miles": "40"
+     },
+     {
+      "place": "Perfect North Slopes, Lawrenceburg, IN",
+      "miles": "50"
+     },
+     {
+      "place": "Lake Erie (Maumee Bay State Park)",
+      "miles": "204"
+     }
+    ],
+    "januaryTempF": {
+     "high": "40",
+     "low": "23"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -6395,9 +7811,9 @@
     "size": 12812
    },
    "id": "sc-201441",
-   "vibe": "",
+   "vibe": "597 mi to Asbury Park, NJ (ocean) · 81 mi to Detroit, MI · Jan ~33°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA D-I · Mid-American Conference (primary); CCHA (men's ice hockey)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -6406,6 +7822,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "18",
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes (NCR Great Lakes Women's Collegiate Rugby Conference, Division II)"
+    },
+    "athletics": {
+     "division": "NCAA D-I",
+     "conference": "Mid-American Conference (primary); CCHA (men's ice hockey)",
+     "football": "FBS other",
+     "d1Hockey": "True",
+     "mascot": "Freddie and Frieda Falcon"
+    },
+    "nearby": [
+     {
+      "place": "Asbury Park, NJ (ocean)",
+      "miles": "597"
+     },
+     {
+      "place": "Detroit, MI",
+      "miles": "81"
+     },
+     {
+      "place": "Mad River Mountain, Zanesfield, OH",
+      "miles": "80"
+     },
+     {
+      "place": "Maumee Bay State Park (Lake Erie), OH",
+      "miles": "33"
+     }
+    ],
+    "januaryTempF": {
+     "high": "33",
+     "low": "19"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -6500,9 +7955,9 @@
     "size": 12568
    },
    "id": "sc-172699",
-   "vibe": "",
+   "vibe": "741 mi to Asbury Park, NJ · 52 mi to Grand Rapids, MI · Jan ~32°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA D-I · Mid-American Conference (primary); NCHC (men's ice hockey)",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -6511,6 +7966,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "studentFacultyRatio": "15",
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes (NCR Great Lakes Women's Collegiate Rugby Conference, Division II)"
+    },
+    "athletics": {
+     "division": "NCAA D-I",
+     "conference": "Mid-American Conference (primary); NCHC (men's ice hockey)",
+     "football": "FBS other",
+     "d1Hockey": "True",
+     "mascot": "Buster Bronco"
+    },
+    "nearby": [
+     {
+      "place": "Asbury Park, NJ",
+      "miles": "741"
+     },
+     {
+      "place": "Grand Rapids, MI",
+      "miles": "52"
+     },
+     {
+      "place": "Bittersweet Ski Resort (via Otsego, Allegan County, MI)",
+      "miles": "18"
+     },
+     {
+      "place": "Van Buren State Park (Lake Michigan), MI",
+      "miles": "38"
+     }
+    ],
+    "januaryTempF": {
+     "high": "32",
+     "low": "18"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -7133,14 +8627,27 @@
    "vibe": "",
    "greekLife": "",
    "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Feb 15, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Feb 15, 2027",
+     "priority_note": "Two non-binding Early Action rounds: EA I November 1 (recommended for Nursing), EA II January 1. Regular Decision: February 15. Rolling admission through July 15. EA applicants get priority consideration for merit scholarships and financial aid, and first access to on-campus housing. Page states annual dates without year labels; Fall 2027 mapping (Nov 1, 2026 / Jan 1, 2027 / Feb 15, 2027) is corroborated by a secondary table listing Fall Nov 1, 2026 / Jan 1, 2027 / Jul 15, 2027.",
+     "deadlines_url": "https://www.umb.edu/admissions/first-year-students/apply/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -7833,14 +9340,25 @@
    "vibe": "",
    "greekLife": "",
    "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "earlyDeadline": "early decision Nov 1, 2026",
+   "regularDeadline": "Jan 4, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "early decision",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 4, 2027",
+     "priority_note": "Early Decision I (binding): apply Nov 1, 2026, notified by Dec 15. Early Decision II (binding): apply Jan 4, 2027, notified by Feb 15. Regular Decision (non-binding): apply Jan 4, 2027, notified by Apr 1. Gabelli Presidential Scholars (full-tuition, 18 students): Nov 1 priority scholarship deadline; ED and RD candidates eligible.",
+     "deadlines_url": "https://www.bc.edu/bc-web/admission/apply.html",
+     "deadlines_confidence": "high"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -8005,9 +9523,9 @@
     "size": 10024
    },
    "id": "sc-200004",
-   "vibe": "",
+   "vibe": "319 mi to Folly Beach, SC (Charleston area) · 153 mi to Atlanta, GA · Jan ~49°F",
    "greekLife": "",
-   "athleticsNetwork": "",
+   "athleticsNetwork": "NCAA D-I · Southern Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -8016,6 +9534,45 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "16",
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes (league not stated)"
+    },
+    "athletics": {
+     "division": "NCAA D-I",
+     "conference": "Southern Conference",
+     "football": "FCS",
+     "d1Hockey": "False",
+     "mascot": "Paws"
+    },
+    "nearby": [
+     {
+      "place": "Folly Beach, SC (Charleston area)",
+      "miles": "319"
+     },
+     {
+      "place": "Atlanta, GA",
+      "miles": "153"
+     },
+     {
+      "place": "Cataloochee Ski Area, Maggie Valley, NC",
+      "miles": "35"
+     },
+     {
+      "place": "Fontana Lake, NC",
+      "miles": "37"
+     }
+    ],
+    "januaryTempF": {
+     "high": "49",
+     "low": "26"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -8040,9 +9597,9 @@
     "size": 10004
    },
    "id": "sc-220075",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
+   "vibe": "336 mi to Folly Beach, SC · 147 mi to Charlotte, NC · Jan ~47°F",
+   "greekLife": "Greek: 5% men · 5% women",
+   "athleticsNetwork": "NCAA Division I (FCS) · Southern Conference",
    "earlyDeadline": "Check school site",
    "regularDeadline": "Check school site",
    "scene": {
@@ -8051,6 +9608,49 @@
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "15",
+    "greek": {
+     "men": "5",
+     "women": "5"
+    },
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Not found"
+    },
+    "athletics": {
+     "division": "NCAA Division I (FCS)",
+     "conference": "Southern Conference",
+     "football": "FCS",
+     "d1Hockey": "False",
+     "mascot": "Bucky (Buccaneers)"
+    },
+    "nearby": [
+     {
+      "place": "Folly Beach, SC",
+      "miles": "336"
+     },
+     {
+      "place": "Charlotte, NC",
+      "miles": "147"
+     },
+     {
+      "place": "Sugar Mountain Resort, NC",
+      "miles": "42"
+     },
+     {
+      "place": "South Holston Lake (~11.8 sq mi)",
+      "miles": "31"
+     }
+    ],
+    "januaryTempF": {
+     "high": "47",
+     "low": "26"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -8215,17 +9815,68 @@
     "size": 9770
    },
    "id": "sc-206084",
-   "vibe": "",
-   "greekLife": "",
-   "athleticsNetwork": "",
-   "earlyDeadline": "Check school site",
-   "regularDeadline": "Check school site",
+   "vibe": "580 mi to Rehoboth Beach, DE · 61 mi to Detroit, MI · Jan ~33°F",
+   "greekLife": "Greek: 9% men · 8% women",
+   "athleticsNetwork": "NCAA Division I · Mid-American Conference",
+   "earlyDeadline": "priority Jan 19, 2027",
+   "regularDeadline": "Jul 1, 2027",
    "scene": {
     "music": [],
     "art": [],
     "sports": [],
     "libraries": [],
     "notes": ""
+   },
+   "muse": {
+    "deadlines": {
+     "early_type": "priority",
+     "early_date": "Jan 19, 2027",
+     "regular_date": "Jul 1, 2027",
+     "priority_note": "Merit scholarship priority Jan 19 per utoledo.edu (primary). Nursing direct-admit priority Jan 3 (catalog). Enrollment deposit May 1 (finance brochure). A secondary 2027-enrollment page mentions a December priority date and July 1 fall deadline. No EA/ED; rolling admission.",
+     "deadlines_url": "https://www.utoledo.edu/admission/undergraduate/tuition-scholarship/",
+     "deadlines_confidence": "medium"
+    },
+    "ecRating": "not considered",
+    "rigorRating": "not considered",
+    "studentFacultyRatio": "18",
+    "greek": {
+     "men": "9",
+     "women": "8"
+    },
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Not found"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Mid-American Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Rocky the Rocket"
+    },
+    "nearby": [
+     {
+      "place": "Rehoboth Beach, DE",
+      "miles": "580"
+     },
+     {
+      "place": "Detroit, MI",
+      "miles": "61"
+     },
+     {
+      "place": "Mt. Brighton, MI",
+      "miles": "70"
+     },
+     {
+      "place": "Maumee Bay State Park (Lake Erie)",
+      "miles": "17"
+     }
+    ],
+    "januaryTempF": {
+     "high": "33",
+     "low": "18"
+    },
+    "source": "Muse research (2026-10-05)"
    }
   },
   {
@@ -10782,6 +12433,546 @@
     "libraries": [],
     "notes": ""
    }
+  },
+  {
+   "id": "sc-123943",
+   "unitid": 123943,
+   "name": "Marshall University",
+   "city": "Fullerton",
+   "state": "CA",
+   "sizeApprox": "",
+   "costApprox": "",
+   "link": "https://www.ketchum.edu/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "actMid": null,
+    "costAvg": null,
+    "netPrice": null,
+    "tuitionInState": null,
+    "tuitionOutState": null,
+    "medianEarnings10yr": null,
+    "gradRate": null,
+    "size": null
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "athleticsNetwork": "NCAA D-I · Sun Belt Conference",
+   "vibe": "474 mi to Virginia Beach, VA · 136 mi to Columbus, OH · Jan ~43°F",
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "considered",
+    "studentFacultyRatio": "16",
+    "clubs": {
+     "fieldHockey": "Not found",
+     "womensRugby": "Yes (league not stated)"
+    },
+    "athletics": {
+     "division": "NCAA D-I",
+     "conference": "Sun Belt Conference",
+     "football": "FBS other",
+     "d1Hockey": "False",
+     "mascot": "Marco the Bison"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach, VA",
+      "miles": "474"
+     },
+     {
+      "place": "Columbus, OH",
+      "miles": "136"
+     },
+     {
+      "place": "Winterplace Ski Resort, Ghent, WV",
+      "miles": "125"
+     },
+     {
+      "place": "Cave Run Lake, KY",
+      "miles": "92"
+     }
+    ],
+    "januaryTempF": {
+     "high": "43",
+     "low": "26"
+    },
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-237905",
+   "unitid": 237905,
+   "name": "Virginia Tech",
+   "city": "Morgantown",
+   "state": "WV",
+   "sizeApprox": "62",
+   "costApprox": "",
+   "link": "https://wvumedicine.org/radtech",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "actMid": null,
+    "costAvg": null,
+    "netPrice": null,
+    "tuitionInState": null,
+    "tuitionOutState": null,
+    "medianEarnings10yr": 69666,
+    "gradRate": null,
+    "size": 62
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Jan 15, 2027",
+   "athleticsNetwork": "NCAA Division I · Atlantic Coast Conference (ACC)",
+   "vibe": "324 mi to Virginia Beach Oceanfront, VA · 170 mi to Charlotte, NC · Jan ~42°F",
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Jan 15, 2027",
+     "priority_note": "EA decisions released Feb 15; RD decisions mid-March. General Scholarship application + FAFSA: Jan 22 for maximum consideration; FAFSA priority March 1. Enrollment deposit May 1. No Early Decision plan (EA non-binding; RD only otherwise).",
+     "deadlines_url": "https://catalog.vt.edu/undergraduate/admissions-information/",
+     "deadlines_confidence": "medium"
+    },
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "studentFacultyRatio": "17",
+    "clubs": {
+     "fieldHockey": "Yes (NFHL)",
+     "womensRugby": "Yes (Blue Ridge Conference, Division I)"
+    },
+    "athletics": {
+     "division": "NCAA Division I",
+     "conference": "Atlantic Coast Conference (ACC)",
+     "football": "FBS power",
+     "d1Hockey": "False",
+     "mascot": "HokieBird"
+    },
+    "nearby": [
+     {
+      "place": "Virginia Beach Oceanfront, VA",
+      "miles": "324"
+     },
+     {
+      "place": "Charlotte, NC",
+      "miles": "170"
+     },
+     {
+      "place": "Winterplace Ski Resort, WV",
+      "miles": "68"
+     },
+     {
+      "place": "Smith Mountain Lake, VA (via state park)",
+      "miles": "73"
+     }
+    ],
+    "januaryTempF": {
+     "high": "42",
+     "low": "22"
+    },
+    "source": "Muse research (2026-10-05)"
+   }
+  },
+  {
+   "id": "sc-231059",
+   "unitid": 231059,
+   "name": "Saint Michael's College",
+   "city": "Colchester",
+   "state": "VT",
+   "sizeApprox": "~1k",
+   "costApprox": "~$69k",
+   "link": "https://www.smcvt.edu/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": 0.8451,
+    "satAvg": 1245,
+    "actMid": null,
+    "costAvg": 69079,
+    "netPrice": 25239,
+    "tuitionInState": 51450,
+    "tuitionOutState": 51450,
+    "medianEarnings10yr": 61317,
+    "gradRate": 0.7277,
+    "size": 1092
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "earlyDeadline": "early action Nov 1, 2026",
+   "regularDeadline": "Feb 1, 2027",
+   "muse": {
+    "deadlines": {
+     "early_type": "early action",
+     "early_date": "Nov 1, 2026",
+     "regular_date": "Feb 1, 2027",
+     "priority_note": "Applications reviewed throughout the year around key dates; decisions within a few weeks of those dates. Applications accepted after the Feb 1 deadline on a space-available basis. Spring entry: priority Dec 1, also space-available after. Free to apply; test-optional since 2009.",
+     "deadlines_url": "https://www.smcvt.edu/admission-aid/apply/first-year-students/",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   }
+  },
+  {
+   "id": "sc-195216",
+   "unitid": 195216,
+   "name": "St. Lawrence University",
+   "city": "Canton",
+   "state": "NY",
+   "sizeApprox": "~2k",
+   "costApprox": "~$82k",
+   "link": "https://www.stlawu.edu/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": 0.5434,
+    "satAvg": 1371,
+    "actMid": 31,
+    "costAvg": 82000,
+    "netPrice": 28651,
+    "tuitionInState": 65900,
+    "tuitionOutState": 65900,
+    "medianEarnings10yr": 67258,
+    "gradRate": 0.7906,
+    "size": 1918
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "earlyDeadline": "early decision Nov 2, 2026",
+   "regularDeadline": "Mar 1, 2027",
+   "muse": {
+    "deadlines": {
+     "early_type": "early decision",
+     "early_date": "Nov 2, 2026",
+     "regular_date": "Mar 1, 2027",
+     "priority_note": "Also offers non-binding Early Action (Dec 1, 2026; materials Dec 11; notification no later than mid-to-late January) and Early Decision 2 (Feb 1, 2027). EA applicants automatically considered for academic merit scholarships; specialty scholarship applications due with the EA application. RD applications received after Mar 1 reviewed on a space-available basis. Financial-aid deadlines: EA Dec 1, RD Feb 20. Deposit deadline May 3. No application fee; test-optional for domestic students.",
+     "deadlines_url": "https://stlawu.edu/applying-st-lawrence",
+     "deadlines_confidence": "high"
+    },
+    "ecRating": "important",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   }
+  },
+  {
+   "id": "sc-199865",
+   "unitid": 199865,
+   "name": "Warren Wilson College",
+   "city": "Swannanoa",
+   "state": "NC",
+   "sizeApprox": "707",
+   "costApprox": "~$57k",
+   "link": "https://www.warren-wilson.edu/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": 0.7134,
+    "satAvg": 1350,
+    "actMid": 27,
+    "costAvg": 56966,
+    "netPrice": 21249,
+    "tuitionInState": 41500,
+    "tuitionOutState": 41500,
+    "medianEarnings10yr": 36260,
+    "gradRate": 0.42,
+    "size": 707
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-148593",
+   "unitid": 148593,
+   "name": "St. John's College (Annapolis)",
+   "city": "Springfield",
+   "state": "IL",
+   "sizeApprox": "126",
+   "costApprox": "",
+   "link": "https://www.hshs.org/stjohnscollege/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": null,
+    "satAvg": null,
+    "actMid": null,
+    "costAvg": null,
+    "netPrice": null,
+    "tuitionInState": null,
+    "tuitionOutState": null,
+    "medianEarnings10yr": 86331,
+    "gradRate": null,
+    "size": 126
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-127185",
+   "unitid": 127185,
+   "name": "Fort Lewis College",
+   "city": "Durango",
+   "state": "CO",
+   "sizeApprox": "~3k",
+   "costApprox": "~$27k",
+   "link": "https://fortlewis.edu/",
+   "ownership": "Public",
+   "scorecard": {
+    "admissionRate": 0.773,
+    "satAvg": 1111,
+    "actMid": 20,
+    "costAvg": 27030,
+    "netPrice": 17296,
+    "tuitionInState": 9958,
+    "tuitionOutState": 21526,
+    "medianEarnings10yr": 46349,
+    "gradRate": 0.3564,
+    "size": 3079
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-128391",
+   "unitid": 128391,
+   "name": "Western Colorado University",
+   "city": "Gunnison",
+   "state": "CO",
+   "sizeApprox": "~2k",
+   "costApprox": "~$26k",
+   "link": "https://www.western.edu/",
+   "ownership": "Public",
+   "scorecard": {
+    "admissionRate": 0.9971,
+    "satAvg": 1230,
+    "actMid": 24,
+    "costAvg": 25736,
+    "netPrice": 16425,
+    "tuitionInState": 11318,
+    "tuitionOutState": 24434,
+    "medianEarnings10yr": 46833,
+    "gradRate": 0.505,
+    "size": 1586
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-180692",
+   "unitid": 180692,
+   "name": "University of Montana Western",
+   "city": "Dillon",
+   "state": "MT",
+   "sizeApprox": "~1k",
+   "costApprox": "~$21k",
+   "link": "https://umwestern.edu/",
+   "ownership": "Public",
+   "scorecard": {
+    "admissionRate": 0.9978,
+    "satAvg": null,
+    "actMid": null,
+    "costAvg": 21403,
+    "netPrice": 16558,
+    "tuitionInState": 6670,
+    "tuitionOutState": 20130,
+    "medianEarnings10yr": 43229,
+    "gradRate": 0.5125,
+    "size": 1198
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "not considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-167288",
+   "unitid": 167288,
+   "name": "Massachusetts College of Liberal Arts",
+   "city": "North Adams",
+   "state": "MA",
+   "sizeApprox": "713",
+   "costApprox": "~$26k",
+   "link": "https://www.mcla.edu/",
+   "ownership": "Public",
+   "scorecard": {
+    "admissionRate": 0.8974,
+    "satAvg": null,
+    "actMid": null,
+    "costAvg": 26026,
+    "netPrice": 16068,
+    "tuitionInState": 12436,
+    "tuitionOutState": 21381,
+    "medianEarnings10yr": 48102,
+    "gradRate": 0.5564,
+    "size": 713
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-235167",
+   "unitid": 235167,
+   "name": "Evergreen State College",
+   "city": "Olympia",
+   "state": "WA",
+   "sizeApprox": "~2k",
+   "costApprox": "~$28k",
+   "link": "https://www.evergreen.edu/",
+   "ownership": "Public",
+   "scorecard": {
+    "admissionRate": 0.9637,
+    "satAvg": 1216,
+    "actMid": 23,
+    "costAvg": 28477,
+    "netPrice": 24319,
+    "tuitionInState": 9264,
+    "tuitionOutState": 31905,
+    "medianEarnings10yr": 45320,
+    "gradRate": 0.4074,
+    "size": 2160
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "very important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
+  },
+  {
+   "id": "sc-156295",
+   "unitid": 156295,
+   "name": "Berea College",
+   "city": "Berea",
+   "state": "KY",
+   "sizeApprox": "~2k",
+   "costApprox": "~$61k",
+   "link": "https://www.berea.edu/",
+   "ownership": "Private nonprofit",
+   "scorecard": {
+    "admissionRate": 0.1934,
+    "satAvg": 1249,
+    "actMid": 26,
+    "costAvg": 60718,
+    "netPrice": 6106,
+    "tuitionInState": 51658,
+    "tuitionOutState": 51658,
+    "medianEarnings10yr": 43150,
+    "gradRate": 0.5822,
+    "size": 1513
+   },
+   "scene": {
+    "music": [],
+    "art": [],
+    "sports": [],
+    "libraries": [],
+    "notes": ""
+   },
+   "muse": {
+    "ecRating": "considered",
+    "rigorRating": "important",
+    "source": "Muse research (2026-10-05)"
+   },
+   "earlyDeadline": "Check school site",
+   "regularDeadline": "Check school site"
   }
  ]
 }
