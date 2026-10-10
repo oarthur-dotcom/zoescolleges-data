@@ -1,0 +1,1769 @@
+id,name,city,state
+sc-101028,Chattahoochee Valley Community College,Phenix City,AL
+sc-101143,Enterprise State Community College,Enterprise,AL
+sc-101365,Herzing University-Birmingham,Birmingham,AL
+sc-101505,Jefferson State Community College,Birmingham,AL
+sc-101569,Lawson State Community College,Birmingham,AL
+sc-101602,Lurleen B Wallace Community College,Andalusia,AL
+sc-101648,Marion Military Institute,Marion,AL
+sc-102669,Alaska Pacific University,Anchorage,AK
+sc-104090,Brookline College-Phoenix,Phoenix,AZ
+sc-104425,Cochise County Community College District,Sierra Vista,AZ
+sc-105297,Dine College,Tsaile,AZ
+sc-105534,Pima Medical Institute-Tucson,Tucson,AZ
+sc-106041,Universal Technical Institute of Arizona Inc,Avondale,AZ
+sc-107123,Jefferson Regional School of Nursing,Pine Bluff,AR
+sc-107840,Shorter College,N Little Rock,AR
+sc-108092,University of Arkansas-Fort Smith,Fort Smith,AR
+sc-108667,College of Alameda,Alameda,CA
+sc-109208,American River College,Sacramento,CA
+sc-109350,Antelope Valley Community College District,Lancaster,CA
+sc-109819,Bakersfield College,Bakersfield,CA
+sc-110246,Butte College,Oroville,CA
+sc-110334,Cabrillo College,Aptos,CA
+sc-111434,Canada College,Redwood City,CA
+sc-111461,College of the Canyons,Santa Clarita,CA
+sc-111638,Casa Loma College-Los Angeles,Sherman Oaks,CA
+sc-111896,Cerro Coso Community College,Ridgecrest,CA
+sc-111939,Chaffey College,Rancho Cucamonga,CA
+sc-112385,Coastline Community College,Fountain Valley,CA
+sc-112561,Columbia College,Sonora,CA
+sc-112686,Compton College,Compton,CA
+sc-112826,Contra Costa College,San Pablo,CA
+sc-113096,Cosumnes River College,Sacramento,CA
+sc-113111,Crafton Hills College,Yucaipa,CA
+sc-113218,Cuyamaca College,El Cajon,CA
+sc-113333,De Anza College,Cupertino,CA
+sc-113634,Diablo Valley College,Pleasant Hill,CA
+sc-113980,El Camino Community College District,Torrance,CA
+sc-114266,Evergreen Valley College,San Jose,CA
+sc-114433,Feather River Community College District,Quincy,CA
+sc-114859,Fullerton College,Fullerton,CA
+sc-114938,Gavilan College,Gilroy,CA
+sc-115001,Glendale Community College,Glendale,CA
+sc-115010,Glendale Career College,Glendale,CA
+sc-115126,Golden West College,Huntington Beach,CA
+sc-115296,Grossmont College,El Cajon,CA
+sc-115393,Hartnell College,Salinas,CA
+sc-115861,Imperial Valley College,Imperial,CA
+sc-116226,Interior Designers Institute,Newport Beach,CA
+sc-116439,Irvine Valley College,Irvine,CA
+sc-117195,Lake Tahoe Community College,South Lake Tahoe,CA
+sc-117247,Laney College,Oakland,CA
+sc-117274,Lassen Community College,Susanville,CA
+sc-117283,Latin American Bible Institute,La Puente,CA
+sc-117690,Los Angeles Harbor College,Wilmington,CA
+sc-117706,Los Angeles Pierce College,Woodland Hills,CA
+sc-117715,Los Angeles Southwest College,Los Angeles,CA
+sc-117788,Los Angeles City College,Los Angeles,CA
+sc-117803,Los Angeles County College of Nursing and Allied Health,Los Angeles,CA
+sc-117867,Los Angeles Mission College,Sylmar,CA
+sc-117894,Los Medanos College,Pittsburg,CA
+sc-118347,College of Marin,Kentfield,CA
+sc-118684,Mendocino College,Ukiah,CA
+sc-118912,MiraCosta College,Oceanside,CA
+sc-118930,Mission College,Santa Clara,CA
+sc-118976,Modesto Junior College,Modesto,CA
+sc-119067,Monterey Peninsula College,Monterey,CA
+sc-119137,Moorpark College,Moorpark,CA
+sc-119164,Mt San Antonio College,Walnut,CA
+sc-119216,Mt San Jacinto Community College District,San Jacinto,CA
+sc-119331,Napa Valley College,Napa,CA
+sc-120290,Ohlone College,Fremont,CA
+sc-120421,Oxnard College,Oxnard,CA
+sc-120865,Pacific Union College,Angwin,CA
+sc-121044,Pasadena City College,Pasadena,CA
+sc-121363,Porterville College,Porterville,CA
+sc-121707,College of the Redwoods,Eureka,CA
+sc-121901,Riverside City College,Riverside,CA
+sc-122180,Sacramento City College,Sacramento,CA
+sc-122205,Saddleback College,Mission Viejo,CA
+sc-122339,San Diego City College,San Diego,CA
+sc-122375,San Diego Mesa College,San Diego,CA
+sc-122384,San Diego Miramar College,San Diego,CA
+sc-122658,San Joaquin Delta College,Stockton,CA
+sc-122746,San Jose City College,San Jose,CA
+sc-122791,College of San Mateo,San Mateo,CA
+sc-122889,Santa Barbara City College,Santa Barbara,CA
+sc-122977,Santa Monica College,Santa Monica,CA
+sc-123299,Shasta College,Redding,CA
+sc-123341,Sierra College,Rocklin,CA
+sc-123484,College of the Siskiyous,Weed,CA
+sc-123509,Skyline College,San Bruno,CA
+sc-123527,San Bernardino Valley College,San Bernardino,CA
+sc-123563,Solano Community College,Fairfield,CA
+sc-123800,Southwestern College,Chula Vista,CA
+sc-124113,Taft College,Taft,CA
+sc-125028,Ventura College,Ventura,CA
+sc-125091,Victor Valley College,Victorville,CA
+sc-125170,Berkeley City College,Berkeley,CA
+sc-125499,West Valley College,Saratoga,CA
+sc-126119,Yuba College,Marysville,CA
+sc-126359,Bel-Rea Institute of Animal Technology,Denver,CO
+sc-126605,Spartan College of Aeronautics and Technology,Broomfield,CO
+sc-126784,Colorado School of Trades,Lakewood,CO
+sc-126863,Community College of Aurora,Aurora,CO
+sc-126942,Community College of Denver,Denver,CO
+sc-127389,Lamar Community College,Lamar,CO
+sc-127820,Pikes Peak State College,Colorado Springs,CO
+sc-128586,Bais Binyomin Academy,Monsey,NY
+sc-129154,Goodwin University,East Hartford,CT
+sc-129367,Connecticut State Community College,New Britain,CT
+sc-130907,Delaware Technical Community College-Terry,Dover,DE
+sc-131399,University of the District of Columbia,Washington,DC
+sc-132693,Eastern Florida State College,Melbourne,FL
+sc-132709,Broward College,Fort Lauderdale,FL
+sc-133386,Daytona State College,Daytona Beach,FL
+sc-133508,Florida SouthWestern State College,Fort Myers,FL
+sc-133702,Florida State College at Jacksonville,Jacksonville,FL
+sc-133960,The College of the Florida Keys,Key West,FL
+sc-134343,Gulf Coast State College,Panama City,FL
+sc-134608,Indian River State College,Fort Pierce,FL
+sc-135081,Keiser University-Ft Lauderdale,Fort Lauderdale,FL
+sc-135188,Lake-Sumter State College,Leesburg,FL
+sc-135391,State College of Florida-Manatee-Sarasota,Bradenton,FL
+sc-136145,North Florida College,Madison,FL
+sc-136233,Northwest Florida State College,Niceville,FL
+sc-136358,Palm Beach State College,Lake Worth,FL
+sc-136400,Pasco-Hernando State College,New Port Richey,FL
+sc-136473,Pensacola State College,Pensacola,FL
+sc-136516,Polk State College,Winter Haven,FL
+sc-137078,St Petersburg College,St. Petersburg,FL
+sc-137096,Santa Fe College,Gainesville,FL
+sc-137281,Saint Johns River State College,Palatka,FL
+sc-137315,South Florida State College,Avon Park,FL
+sc-137759,Tallahassee State College,Tallahassee,FL
+sc-138309,Rasmussen University-Florida,Ocala,FL
+sc-138664,Interactive College of Technology-Morrow,Morrow,GA
+sc-138761,Andrew College,Cuthbert,GA
+sc-138901,Atlanta Metropolitan State College,Atlanta,GA
+sc-139205,Brewton-Parker Christian University,Mount Vernon,GA
+sc-139250,College of Coastal Georgia,Brunswick,GA
+sc-139621,East Georgia State College,Swainsboro,GA
+sc-139700,Georgia Highlands College,Rome,GA
+sc-139995,Gupton Jones College of Funeral Service,Decatur,GA
+sc-141680,Honolulu Community College,Honolulu,HI
+sc-141796,Kapiolani Community College,Honolulu,HI
+sc-141811,Leeward Community College,Pearl City,HI
+sc-141839,University of Hawaii Maui College,Kahului,HI
+sc-141990,Windward Community College,Kaneohe,HI
+sc-142179,College of Eastern Idaho,Idaho Falls,ID
+sc-142443,North Idaho College,Coeur d'Alene,ID
+sc-142559,College of Southern Idaho,Twin Falls,ID
+sc-143613,Carl Sandburg College,Galesburg,IL
+sc-144209,City Colleges of Chicago-Harold Washington College,Chicago,IL
+sc-144218,City Colleges of Chicago-Wilbur Wright College,Chicago,IL
+sc-144865,College of DuPage,Glen Ellyn,IL
+sc-145239,Fox College,Tinley Park,IL
+sc-146205,John A Logan College,Carterville,IL
+sc-146278,John Wood Community College,Quincy,IL
+sc-146418,Kishwaukee College,Malta,IL
+sc-146816,Generations College,Chicago,IL
+sc-147396,Morrison Institute of Technology,Morrison,IL
+sc-147411,Morton College,Cicero,IL
+sc-147916,Parkland College,Champaign,IL
+sc-148380,Rock Valley College,Rockford,IL
+sc-149310,Taylor Business Institute,Chicago,IL
+sc-149727,Waubonsee Community College,Sugar Grove,IL
+sc-150251,College of Court Reporting Inc,Valparaiso,IN
+sc-151467,Vet Tech Institute of Indiana,Indianapolis,IN
+sc-151962,Mid-America College of Funeral Service,Jeffersonville,IN
+sc-153296,Ellsworth Community College,Iowa Falls,IA
+sc-153445,Hawkeye Community College,Waterloo,IA
+sc-153472,Indian Hills Community College,Ottumwa,IA
+sc-153524,Iowa Central Community College,Fort Dodge,IA
+sc-153533,Iowa Lakes Community College,Estherville,IA
+sc-153630,Iowa Western Community College,Council Bluffs,IA
+sc-153737,Kirkwood Community College,Cedar Rapids,IA
+sc-153922,Marshalltown Community College,Marshalltown,IA
+sc-154110,Northeast Iowa Community College,Calmar,IA
+sc-154129,Northwest Iowa Community College,Sheldon,IA
+sc-154262,St Luke's College,Sioux City,IA
+sc-154642,Allen County Community College,Iola,KS
+sc-154800,Butler Community College,El Dorado,KS
+sc-155007,Donnelly College,Kansas City,KS
+sc-155140,Haskell Indian Nations University,Lawrence,KS
+sc-155177,Hesston College,Hesston,KS
+sc-155201,Independence Community College,Independence,KS
+sc-155210,Johnson County Community College,Overland Park,KS
+sc-155450,Labette Community College,Parsons,KS
+sc-157021,American National University-Louisville,Louisville,KY
+sc-157793,Sullivan University,Louisville,KY
+sc-159197,ITI Technical College,Baton Rouge,LA
+sc-159407,Louisiana State University-Eunice,Eunice,LA
+sc-160649,Southern University at Shreveport,Shreveport,LA
+sc-160995,Beal University,Bangor,ME
+sc-161022,Maine College of Health Professions,Lewiston,ME
+sc-161077,Central Maine Community College,Auburn,ME
+sc-161138,Eastern Maine Community College,Bangor,ME
+sc-161192,Kennebec Valley Community College,Fairfield,ME
+sc-161484,Northern Maine Community College,Presque Isle,ME
+sc-161545,Southern Maine Community College,South Portland,ME
+sc-161688,Allegany College of Maryland,Cumberland,MD
+sc-161767,Anne Arundel Community College,Arnold,MD
+sc-161864,Baltimore City Community College,Baltimore,MD
+sc-162104,Cecil College,North East,MD
+sc-162168,Chesapeake College,Wye Mills,MD
+sc-162557,Frederick Community College,Frederick,MD
+sc-162609,Garrett College,McHenry,MD
+sc-162690,Hagerstown Community College,Hagerstown,MD
+sc-162706,Harford Community College,Bel Air,MD
+sc-162779,Howard Community College,Columbia,MD
+sc-163426,Montgomery College,Rockville,MD
+sc-163657,Prince George's Community College,Largo,MD
+sc-164313,Wor-Wic Community College,Salisbury,MD
+sc-164775,Berkshire Community College,Pittsfield,MA
+sc-165033,Bristol Community College,Fall River,MA
+sc-165112,Bunker Hill Community College,Boston,MA
+sc-165194,Cape Cod Community College,West Barnstable,MA
+sc-165264,Laboure College of Healthcare,Milton,MA
+sc-165981,Greenfield Community College,Greenfield,MA
+sc-166133,Holyoke Community College,Holyoke,MA
+sc-166407,Lawrence Memorial Hospital School of Nursing,Medford,MA
+sc-166647,Massachusetts Bay Community College,Wellesley Hills,MA
+sc-166823,Massasoit Community College,Brockton,MA
+sc-166887,Middlesex Community College,Bedford,MA
+sc-166957,Mount Wachusett Community College,Gardner,MA
+sc-167312,North Shore Community College,Danvers,MA
+sc-167376,Northern Essex Community College,Haverhill,MA
+sc-167525,Quincy College,Quincy,MA
+sc-167534,Quinsigamond Community College,Worcester,MA
+sc-167631,Roxbury Community College,Roxbury Crossing,MA
+sc-167792,Simon's Rock at Bard College,Barrytown,NY
+sc-167905,Springfield Technical Community College,Springfield,MA
+sc-168607,Alpena Community College,Alpena,MI
+sc-168883,Bay de Noc Community College,Escanaba,MI
+sc-169275,Mott Community College,Flint,MI
+sc-169521,Delta College,University Center,MI
+sc-169974,Glen Oaks Community College,Centreville,MI
+sc-169992,Gogebic Community College,Ironwood,MI
+sc-170055,Grand Rapids Community College,Grand Rapids,MI
+sc-170541,Kalamazoo Valley Community College,Kalamazoo,MI
+sc-170550,Kellogg Community College,Battle Creek,MI
+sc-170587,Kirtland Community College,Grayling,MI
+sc-170620,Lake Michigan College,Benton Harbor,MI
+sc-170657,Lansing Community College,Lansing,MI
+sc-170790,Macomb Community College,Warren,MI
+sc-171155,Mid Michigan College,Harrison,MI
+sc-171225,Monroe County Community College,Monroe,MI
+sc-171234,Montcalm Community College,Sidney,MI
+sc-171304,Muskegon Community College,Muskegon,MI
+sc-171395,North Central Michigan College,Petoskey,MI
+sc-171483,Northwestern Michigan College,Traverse City,MI
+sc-171535,Oakland Community College,Auburn Hills,MI
+sc-172200,Schoolcraft Community College District,Livonia,MI
+sc-172291,St Clair County Community College,Port Huron,MI
+sc-172307,Southwestern Michigan College,Dowagiac,MI
+sc-172635,Wayne County Community College District,Detroit,MI
+sc-172671,West Shore Community College,Scottville,MI
+sc-172918,Alexandria Technical & Community College,Alexandria,MN
+sc-172963,Anoka-Ramsey Community College,Coon Rapids,MN
+sc-173203,Central Lakes College-Brainerd,Brainerd,MN
+sc-173416,Dakota County Technical College,Rosemount,MN
+sc-173461,Lake Superior College,Duluth,MN
+sc-173559,Minnesota State Community and Technical College,Fergus Falls,MN
+sc-173735,Minnesota North College,Hibbing,MN
+sc-173799,Inver Hills Community College,Inver Grove Heights,MN
+sc-173911,South Central College,North Mankato,MN
+sc-174376,North Hennepin Community College,Brooklyn Park,MN
+sc-174428,Normandale Community College,Bloomington,MN
+sc-174473,Northland Community and Technical College,Thief River Falls,MN
+sc-174507,Northwestern Health Sciences University,Bloomington,MN
+sc-174738,Rochester Community and Technical College,Rochester,MN
+sc-174756,St Cloud Technical and Community College,Saint Cloud,MN
+sc-175227,Dunwoody College of Technology,Minneapolis,MN
+sc-175236,Ridgewater College,Willmar,MN
+sc-175573,Copiah-Lincoln Community College,Wesson,MS
+sc-175643,East Central Community College,Decatur,MS
+sc-175652,East Mississippi Community College,Scooba,MS
+sc-175786,Hinds Community College,Raymond,MS
+sc-175810,Holmes Community College,Goodman,MS
+sc-175829,Itawamba Community College,Fulton,MS
+sc-175883,Jones County Junior College,Ellisville,MS
+sc-175935,Meridian Community College,Meridian,MS
+sc-176008,Mississippi Delta Community College,Moorhead,MS
+sc-176071,Mississippi Gulf Coast Community College,Perkinston,MS
+sc-176169,Northeast Mississippi Community College,Booneville,MS
+sc-176178,Northwest Mississippi Community College,Senatobia,MS
+sc-176239,Pearl River Community College,Poplarville,MS
+sc-176336,Southeastern Baptist College,Laurel,MS
+sc-176354,Southwest Mississippi Community College,Summit,MS
+sc-176770,Cox College,Springfield,MO
+sc-177135,Crowder College,Neosho,MO
+sc-177250,East Central College,Union,MO
+sc-177472,Ozarks Technical Community College,Springfield,MO
+sc-177676,Jefferson College,Hillsboro,MO
+sc-177977,State Technical College of Missouri,Linn,MO
+sc-177995,Metropolitan Community College-Kansas City,Kansas City,MO
+sc-178217,Mineral Area College,Park Hills,MO
+sc-178448,Moberly Area Community College,Moberly,MO
+sc-179308,Saint Louis Community College,Bridgeton,MO
+sc-179344,Missouri State University-West Plains,West Plains,MO
+sc-179539,State Fair Community College,Sedalia,MO
+sc-179645,Three Rivers College,Poplar Bluff,MO
+sc-179715,North Central Missouri College,Trenton,MO
+sc-180054,Blackfeet Community College,Browning,MT
+sc-180151,Dawson Community College,Glendive,MT
+sc-180160,Chief Dull Knife College,Lame Deer,MT
+sc-180197,Flathead Valley Community College,Kalispell,MT
+sc-180203,Aaniiih Nakoda College,Harlem,MT
+sc-180212,Fort Peck Community College,Poplar,MT
+sc-180249,Great Falls College Montana State University,Great Falls,MT
+sc-180276,Helena College University of Montana,Helena,MT
+sc-180328,Little Big Horn College,Crow Agency,MT
+sc-180373,Miles Community College,Miles City,MT
+sc-180647,Salish Kootenai College,Pablo,MT
+sc-181303,Metropolitan Community College Area,Omaha,NE
+sc-181312,Mid-Plains Community College,North Platte,NE
+sc-181419,Nebraska Indian Community College,Macy,NE
+sc-181491,Northeast Community College,Norfolk,NE
+sc-181543,Summit Christian College,Gering,NE
+sc-181765,Nebraska College of Technical Agriculture,Curtis,NE
+sc-181817,Western Nebraska Community College,Scottsbluff,NE
+sc-182005,College of Southern Nevada,Las Vegas,NV
+sc-182148,Las Vegas College,Las Vegas,NV
+sc-182564,Western Nevada College,Carson City,NV
+sc-183099,NHTI-Concord's Community College,Concord,NH
+sc-183114,River Valley Community College,Claremont,NH
+sc-183123,Lakes Region Community College,Laconia,NH
+sc-183132,Manchester Community College,Manchester,NH
+sc-183141,Nashua Community College,Nashua,NH
+sc-183150,Great Bay Community College,Portsmouth,NH
+sc-183248,St Joseph School of Nursing,Nashua,NH
+sc-183488,Eastwick College-Hackensack,Hackensack,NJ
+sc-183600,Assumption College for Sisters,Denville,NJ
+sc-183655,Atlantic Cape Community College,Mays Landing,NJ
+sc-183743,Bergen Community College,Paramus,NJ
+sc-183859,Brookdale Community College,Lincroft,NJ
+sc-183877,Rowan College at Burlington County,Mount Laurel,NJ
+sc-183938,Camden County College,Blackwood,NJ
+sc-184180,County College of Morris,Randolph,NJ
+sc-184205,Rowan College of South Jersey-Cumberland Campus,Vineland,NJ
+sc-184481,Essex County College,Newark,NJ
+sc-184791,Rowan College of South Jersey-Gloucester Campus,Sewell,NJ
+sc-184959,Eastwick College-Ramsey,Ramsey,NJ
+sc-184995,Hudson County Community College,Jersey City,NJ
+sc-185509,Mercer County Community College,West Windsor,NJ
+sc-185536,Middlesex College,Edison,NJ
+sc-185721,Eastwick College-Nutley,Nutley,NJ
+sc-185873,Ocean County College,Toms River,NJ
+sc-186034,Passaic County Community College,Paterson,NJ
+sc-186469,Salem Community College,Carneys Point,NJ
+sc-186645,Raritan Valley Community College,Branchburg,NJ
+sc-186900,Talmudical Academy-New Jersey,Adelphia,NJ
+sc-187198,UCNJ Union College of Union County New Jersey,Cranford,NJ
+sc-187620,New Mexico State University-Dona Ana,Las Cruces,NM
+sc-187903,New Mexico Junior College,Hobbs,NM
+sc-187912,New Mexico Military Institute,Roswell,NM
+sc-187958,University of New Mexico-Gallup Campus,Gallup,NM
+sc-187976,University of New Mexico-Los Alamos Campus,Los Alamos,NM
+sc-187994,New Mexico State University-Alamogordo,Alamogordo,NM
+sc-188003,Southeast New Mexico College,Carlsbad,NM
+sc-188049,University of New Mexico-Valencia County Campus,Los Lunas,NM
+sc-188058,Northern New Mexico College,Espanola,NM
+sc-188216,Southwestern Indian Polytechnic Institute,Albuquerque,NM
+sc-188340,Vaughn College of Aeronautics and Technology,Flushing,NY
+sc-188438,SUNY Adirondack,Queensbury,NY
+sc-188517,Bryant & Stratton College-Albany,Albany,NY
+sc-188678,American Academy of Dramatic Arts-New York,New York,NY
+sc-188687,American Academy McAllister Institute of Funeral Service,New York,NY
+sc-188915,Arnot Ogden Medical Center,Elmira,NY
+sc-189273,Beth Hamedrash Shaarei Yosher Institute,Brooklyn,NY
+sc-189547,SUNY Broome Community College,Binghamton,NY
+sc-189583,Bryant & Stratton College-Buffalo,Buffalo,NY
+sc-189592,Bryant & Stratton College-Greece,Rochester,NY
+sc-189811,St Paul's School of Nursing-Queens,Rego Park,NY
+sc-189839,Cayuga County Community College,Auburn,NY
+sc-190053,Clinton Community College,Plattsburgh,NY
+sc-190071,Cochran School of Nursing,Yonkers,NY
+sc-190169,Columbia-Greene Community College,Hudson,NY
+sc-190442,SUNY Corning Community College,Corning,NY
+sc-190451,Pomeroy College of Nursing at Crouse Hospital,East Syracuse,NY
+sc-190503,Culinary Institute of America,Hyde Park,NY
+sc-190521,CUNY Borough of Manhattan Community College,New York,NY
+sc-190530,CUNY Bronx Community College,Bronx,NY
+sc-190585,CUNY Hostos Community College,Bronx,NY
+sc-190619,CUNY Kingsborough Community College,Brooklyn,NY
+sc-190628,CUNY LaGuardia Community College,Long Island City,NY
+sc-190673,CUNY Queensborough Community College,Bayside,NY
+sc-190840,Dutchess Community College,Poughkeepsie,NY
+sc-190956,Belanger School of Nursing,Schenectady,NY
+sc-191083,Erie Community College,Buffalo,NY
+sc-191126,Fashion Institute of Technology,New York,NY
+sc-191199,Finger Lakes Community College,Canandaigua,NY
+sc-191302,Fulton-Montgomery Community College,Johnstown,NY
+sc-191339,Genesee Community College,Batavia,NY
+sc-191597,Helene Fuld College of Nursing,New York,NY
+sc-191612,Herkimer County Community College,Herkimer,NY
+sc-191719,Hudson Valley Community College,Troy,NY
+sc-191986,Jamestown Community College,Jamestown,NY
+sc-192022,Jefferson Community College,Watertown,NY
+sc-192688,Mandl School-The College of Allied Health,New York,NY
+sc-192785,Maria College of Albany,Albany,NY
+sc-192961,St. Peter's Hospital College of Nursing,Albany,NY
+sc-193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,Brooklyn,NY
+sc-193247,Mirrer Yeshiva Cent Institute,Brooklyn,NY
+sc-193283,Mohawk Valley Community College,Utica,NY
+sc-193308,Monroe University,Bronx,NY
+sc-193326,Monroe Community College,Rochester,NY
+sc-193380,Montefiore School of Nursing,Mount Vernon,NY
+sc-193478,Nassau Community College,Garden City,NY
+sc-193946,Niagara County Community College,Sanborn,NY
+sc-194028,North Country Community College,Saranac Lake,NY
+sc-194189,Ohr Hameir Theological Seminary,Peekskill,NY
+sc-194222,Onondaga Community College,Syracuse,NY
+sc-194240,Orange County Community College,Middletown,NY
+sc-194499,Plaza College,Forest Hills,NY
+sc-194693,Rabbinical College Beth Shraga,Monsey,NY
+sc-194736,Rabbinical College of Long Island,Long Beach,NY
+sc-195058,Rockland Community College,Suffern,NY
+sc-195191,St. Joseph's College of Nursing,Syracuse,NY
+sc-195289,Samaritan Hospital School of Nursing,Troy,NY
+sc-195322,Schenectady County Community College,Schenectady,NY
+sc-195702,Saint Elizabeth College of Nursing,Utica,NY
+sc-195784,St Paul's School of Nursing-Staten Island,Staten Island,NY
+sc-195988,Sullivan County Community College,Loch Sheldrake,NY
+sc-196006,SUNY College of Technology at Alfred,Alfred,NY
+sc-196024,SUNY College of Technology at Delhi,Delhi,NY
+sc-196051,SUNY Morrisville,Morrisville,NY
+sc-196389,Swedish Institute a College of Health Sciences,New York,NY
+sc-196565,Tompkins Cortland Community College,Dryden,NY
+sc-196583,Torah Temimah Talmudical Seminary,Staten Island,NY
+sc-196653,Trocaire College,Buffalo,NY
+sc-196699,Ulster County Community College,Stone Ridge,NY
+sc-197294,SUNY Westchester Community College,Valhalla,NY
+sc-197647,Yeshiva Derech Chaim,Brooklyn,NY
+sc-197744,Yeshivath Zichron Moshe,South Fallsburg,NY
+sc-197814,College of the Albemarle,Elizabeth City,NC
+sc-197850,South Piedmont Community College,Polkton,NC
+sc-198011,Bladen Community College,Dublin,NC
+sc-198084,Brunswick Community College,Bolivia,NC
+sc-198109,Cabarrus College of Health Sciences,Concord,NC
+sc-198118,Caldwell Community College and Technical Institute,Hudson,NC
+sc-198154,Cape Fear Community College,Wilmington,NC
+sc-198233,Catawba Valley Community College,Hickory,NC
+sc-198251,Central Carolina Community College,Sanford,NC
+sc-198260,Central Piedmont Community College,Charlotte,NC
+sc-198330,Coastal Carolina Community College,Jacksonville,NC
+sc-198367,Craven Community College,New Bern,NC
+sc-198455,Durham Technical Community College,Durham,NC
+sc-198552,Forsyth Technical Community College,Winston-Salem,NC
+sc-198622,Guilford Technical Community College,Jamestown,NC
+sc-198640,Halifax Community College,Weldon,NC
+sc-198668,Haywood Community College,Clyde,NC
+sc-198774,Johnston Community College,Smithfield,NC
+sc-198871,Louisburg College,Louisburg,NC
+sc-198914,Mayland Community College,Spruce Pine,NC
+sc-198923,McDowell Technical Community College,Marion,NC
+sc-198987,Mitchell Community College,Statesville,NC
+sc-199467,Roanoke-Chowan Community College,Ahoskie,NC
+sc-199476,Robeson Community College,Lumberton,NC
+sc-199485,Rockingham Community College,Wentworth,NC
+sc-199634,Sandhills Community College,Pinehurst,NC
+sc-199722,Southeastern Community College,Whiteville,NC
+sc-199731,Southwestern Community College,Sylva,NC
+sc-199795,Tri-County Community College,Murphy,NC
+sc-199838,Vance-Granville Community College,Henderson,NC
+sc-199908,Western Piedmont Community College,Morganton,NC
+sc-199953,Wilson Community College,Wilson,NC
+sc-200013,Rasmussen University-North Dakota,Fargo,ND
+sc-200022,Bismarck State College,Bismarck,ND
+sc-200086,Nueta Hidatsa Sahnish College,New Town,ND
+sc-200192,Lake Region State College,Devils Lake,ND
+sc-200208,Cankdeska Cikana Community College,Fort Totten,ND
+sc-200305,North Dakota State College of Science,Wahpeton,ND
+sc-200314,Dakota College at Bottineau,Bottineau,ND
+sc-200341,Williston State College,Williston,ND
+sc-200466,Sitting Bull College,Fort Yates,ND
+sc-200554,United Tribes Technical College,Bismarck,ND
+sc-200785,Herzing University-Akron,Akron,OH
+sc-201177,Aultman College of Nursing and Health Sciences,Canton,OH
+sc-201283,Belmont College,St Clairsville,OH
+sc-201432,Bowling Green State University-Firelands,Huron,OH
+sc-201469,Bryant & Stratton College-Parma,Parma,OH
+sc-201672,Central Ohio Technical College,Newark,OH
+sc-201946,University of Cincinnati-Clermont College,Batavia,OH
+sc-201955,University of Cincinnati-Blue Ash College,Blue Ash,OH
+sc-202903,Gods Bible School and College,Cincinnati,OH
+sc-202912,Good Samaritan College of Nursing and Health Science,Cincinnati,OH
+sc-203155,Hocking College,Nelsonville,OH
+sc-203447,Kent State University at Ashtabula,Ashtabula,OH
+sc-203456,Kent State University at East Liverpool,East Liverpool,OH
+sc-203465,Kent State University at Stark,North Canton,OH
+sc-203474,Kent State University at Trumbull,Warren,OH
+sc-203483,Kent State University at Tuscarawas,New Philadelphia,OH
+sc-203492,Kent State University at Salem,Salem,OH
+sc-203526,Kent State University at Geauga,Burton,OH
+sc-203599,Lakeland Community College,Kirtland,OH
+sc-203881,Marion Technical College,Marion,OH
+sc-204255,Zane State College,Zanesville,OH
+sc-204422,North Central State College,Mansfield,OH
+sc-204440,Northwest State Community College,Archbold,OH
+sc-204486,University of Northwestern Ohio,Lima,OH
+sc-204662,Ohio State University Agricultural Technical Institute,Wooster,OH
+sc-204680,Ohio State University-Mansfield Campus,Mansfield,OH
+sc-204699,Ohio State University-Marion Campus,Marion,OH
+sc-204705,Ohio State University-Newark Campus,Newark,OH
+sc-204820,Ohio University-Chillicothe Campus,Chillicothe,OH
+sc-204839,Ohio University-Southern Campus,Ironton,OH
+sc-204866,Ohio University-Zanesville Campus,Zanesville,OH
+sc-204884,East Ohio College,East Liverpool,OH
+sc-205054,Professional Skills Institute,Maumee,OH
+sc-205203,University of Rio Grande,Rio Grande,OH
+sc-205391,The Modern College of Design,Kettering,OH
+sc-205966,Southern State Community College,Hillsboro,OH
+sc-206446,Washington State College of Ohio,Marietta,OH
+sc-206923,Carl Albert State College,Poteau,OK
+sc-207050,Eastern Oklahoma State College,Wilburton,OK
+sc-207069,Redlands Community College,El Reno,OK
+sc-207209,Langston University,Langston,OK
+sc-207236,Murray State College,Tishomingo,OK
+sc-207254,Spartan College of Aeronautics and Technology,Tulsa,OK
+sc-207281,Northern Oklahoma College,Tonkawa,OK
+sc-207290,Northeastern Oklahoma A&M College,Miami,OK
+sc-207397,Oklahoma State University-Oklahoma City,Oklahoma City,OK
+sc-207449,Oklahoma City Community College,Oklahoma City,OK
+sc-207564,Oklahoma State University Institute of Technology,Okmulgee,OK
+sc-207670,Rose State College,Midwest City,OK
+sc-207740,Seminole State College,Seminole,OK
+sc-207935,Tulsa Community College,Tulsa,OK
+sc-208035,Western Oklahoma State College,Altus,OK
+sc-208275,Blue Mountain Community College,Pendleton,OR
+sc-208318,Central Oregon Community College,Bend,OR
+sc-208390,Chemeketa Community College,Salem,OR
+sc-208406,Clackamas Community College,Oregon City,OR
+sc-208415,Clatsop Community College,Astoria,OR
+sc-209038,Lane Community College,Eugene,OR
+sc-209074,Linn-Benton Community College,Albany,OR
+sc-209250,Mt Hood Community College,Gresham,OR
+sc-209746,Portland Community College,Portland,OR
+sc-209940,Rogue Community College,Grants Pass,OR
+sc-210155,Southwestern Oregon Community College,Coos Bay,OR
+sc-210605,Community College of Allegheny County,Pittsburgh,PA
+sc-211079,Community College of Beaver County,Monaca,PA
+sc-211307,Bucks County Community College,Newtown,PA
+sc-211343,Butler County Community College,Butler,PA
+sc-211927,Delaware County Community College,Media,PA
+sc-212869,Harcum College,Bryn Mawr,PA
+sc-212878,Harrisburg Area Community College,Harrisburg,PA
+sc-213233,Johnson College,Scranton,PA
+sc-213376,Lackawanna College,Scranton,PA
+sc-213525,Lehigh Carbon Community College,Schnecksville,PA
+sc-213659,Luzerne County Community College,Nanticoke,PA
+sc-213774,Manor College,Jenkintown,PA
+sc-213914,Vet Tech Institute,Pittsburgh,PA
+sc-214023,ASPIRA City College,Philadelphia,PA
+sc-214111,Montgomery County Community College,Blue Bell,PA
+sc-214290,New Castle School of Trades,New Castle,PA
+sc-214379,Northampton County Area Community College,Bethlehem,PA
+sc-215239,Community College of Philadelphia,Philadelphia,PA
+sc-215309,University of Pittsburgh-Titusville,Titusville,PA
+sc-215390,Pittsburgh Institute of Mortuary Science Inc,Pittsburgh,PA
+sc-215585,Reading Area Community College,Reading,PA
+sc-215637,Walnut Hill College,Philadelphia,PA
+sc-215682,Rosedale Technical College,Pittsburgh,PA
+sc-215992,Laurel Technical Institute,Hermitage,PA
+sc-216083,South Hills School of Business & Technology,State College,PA
+sc-216296,Thaddeus Stevens College of Technology,Lancaster,PA
+sc-216551,Valley Forge Military College,Wayne,PA
+sc-216825,Westmoreland County Community College,Youngwood,PA
+sc-216940,Williamson College of the Trades,Media,PA
+sc-217040,Yeshivath Beth Moshe,Scranton,PA
+sc-217305,New England Institute of Technology,East Greenwich,RI
+sc-217475,Community College of Rhode Island,Warwick,RI
+sc-217615,Aiken Technical College,Graniteville,SC
+sc-217712,Technical College of the Lowcountry,Beaufort,SC
+sc-218353,Midlands Technical College,West Columbia,SC
+sc-218672,University of South Carolina-Lancaster,Lancaster,SC
+sc-218681,University of South Carolina-Salkehatchie,Allendale,SC
+sc-218690,University of South Carolina-Sumter,Sumter,SC
+sc-218706,University of South Carolina-Union,Union,SC
+sc-218821,Spartanburg Methodist College,Spartanburg,SC
+sc-218894,Trident Technical College,Charleston,SC
+sc-219143,Lake Area Technical College,Watertown,SD
+sc-219189,Mitchell Technical College,Mitchell,SD
+sc-219277,Oglala Lakota College,Kyle,SD
+sc-219374,Sinte Gleska University,Mission,SD
+sc-219408,Sisseton Wahpeton College,Sisseton,SD
+sc-219426,Southeast Technical College,Sioux Falls,SD
+sc-219480,Western Dakota Technical College,Rapid City,SD
+sc-219824,Chattanooga State Community College,Chattanooga,TN
+sc-219879,Cleveland State Community College,Cleveland,TN
+sc-219888,Columbia State Community College,Columbia,TN
+sc-220057,Dyersburg State Community College,Dyersburg,TN
+sc-220400,Jackson State Community College,Jackson,TN
+sc-220464,John A Gupton College,Nashville,TN
+sc-220552,South College,Knoxville,TN
+sc-221096,Motlow State Community College,Tullahoma,TN
+sc-221184,Nashville State Community College,Nashville,TN
+sc-221397,Roane State Community College,Harriman,TN
+sc-221485,Southwest Tennessee Community College,Memphis,TN
+sc-221643,Pellissippi State Community College,Knoxville,TN
+sc-221908,Northeast State Community College,Blountville,TN
+sc-222053,Volunteer State Community College,Gallatin,TN
+sc-222062,Walters State Community College,Morristown,TN
+sc-222567,Alvin Community College,Alvin,TX
+sc-222576,Amarillo College,Amarillo,TX
+sc-222992,Austin Community College District,Austin,TX
+sc-223083,Baptist Health System School of Health Professions,San Antonio,TX
+sc-223320,Coastal Bend College,Beeville,TX
+sc-223427,Blinn College District,Brenham,TX
+sc-223472,Vet Tech Institute of Houston,Houston,TX
+sc-223816,Central Texas College,Killeen,TX
+sc-223922,Clarendon College,Clarendon,TX
+sc-224110,North Central Texas College,Gainesville,TX
+sc-224271,Dallas Institute of Funeral Service,Dallas,TX
+sc-224350,Del Mar College,Corpus Christi,TX
+sc-224615,Dallas College,Dallas,TX
+sc-224642,El Paso Community College,El Paso,TX
+sc-224660,Western Technical College,El Paso,TX
+sc-225308,Trinity Valley Community College,Athens,TX
+sc-225371,Hill College,Hillsboro,TX
+sc-225423,Houston City College,Houston,TX
+sc-225520,Howard College,Big Spring,TX
+sc-225876,Jacksonville College-Main Campus,Jacksonville,TX
+sc-225991,KD Conservatory College of Film and Dramatic Arts,Dallas,TX
+sc-226019,Kilgore College,Kilgore,TX
+sc-226134,Laredo College,Laredo,TX
+sc-226408,College of the Mainland,Texas City,TX
+sc-226578,McLennan Community College,Waco,TX
+sc-226879,Wade College,Dallas,TX
+sc-227146,Navarro College,Corsicana,TX
+sc-227182,Lone Star College System,The Woodlands,TX
+sc-227304,Odessa College,Odessa,TX
+sc-227377,Texas Southmost College,Brownsville,TX
+sc-227401,Paris Junior College,Paris,TX
+sc-227687,Ranger College,Ranger,TX
+sc-227924,San Antonio College,San Antonio,TX
+sc-227979,San Jacinto Community College,Pasadena,TX
+sc-228158,South Plains College,Levelland,TX
+sc-228486,Southwestern Christian College,Terrell,TX
+sc-228547,Tarrant County College District,Fort Worth,TX
+sc-228608,Temple College,Temple,TX
+sc-228699,Texarkana College,Texarkana,TX
+sc-229355,Tyler Junior College,Tyler,TX
+sc-229504,Vernon College,Vernon,TX
+sc-229540,Victoria College,Victoria,TX
+sc-229799,Weatherford College,Weatherford,TX
+sc-229832,Western Texas College,Snyder,TX
+sc-229841,Wharton County Junior College,Wharton,TX
+sc-230597,Snow College,Ephraim,UT
+sc-230737,Utah Valley University,Orem,UT
+sc-230746,Salt Lake Community College,Salt Lake City,UT
+sc-230782,Weber State University,Ogden,UT
+sc-230861,Community College of Vermont,Montpelier,VT
+sc-231785,Bryant & Stratton College-Virginia Beach,Virginia Beach,VA
+sc-232195,Germanna Community College,Locust Grove,VA
+sc-232618,Centra College,Lynchburg,VA
+sc-232724,Sovah School of Health Professions,Danville,VA
+sc-232797,American National University,Salem,VA
+sc-232946,Northern Virginia Community College,Annandale,VA
+sc-233019,Patrick & Henry Community College,Martinsville,VA
+sc-233037,Paul D Camp Community College,Franklin,VA
+sc-233082,Southside College of Health Sciences,Colonial Heights,VA
+sc-233116,Piedmont Virginia Community College,Charlottesville,VA
+sc-233338,Richard Bland College,South Prince George,VA
+sc-233408,Riverside College of Health Sciences,Newport News,VA
+sc-233480,Bon Secours St Mary's Hospital School of Medical Imaging,Richmond,VA
+sc-233754,Virginia Peninsula Community College,Hampton,VA
+sc-233772,Tidewater Community College,Norfolk,VA
+sc-234669,Bellevue College,Bellevue,WA
+sc-234711,Big Bend Community College,Moses Lake,WA
+sc-234845,Centralia College,Centralia,WA
+sc-234933,Clark College,Vancouver,WA
+sc-234979,Columbia Basin College,Pasco,WA
+sc-235103,Edmonds College,Lynnwood,WA
+sc-235149,Everett Community College,Everett,WA
+sc-235237,Pierce College District,Lakewood,WA
+sc-235334,Grays Harbor College,Aberdeen,WA
+sc-235343,Green River College,Auburn,WA
+sc-235431,Highline College,Des Moines,WA
+sc-235750,Lower Columbia College,Longview,WA
+sc-236188,Olympic College,Bremerton,WA
+sc-236513,Seattle Central College,Seattle,WA
+sc-236610,Shoreline College,Shoreline,WA
+sc-236638,Skagit Valley College,Mount Vernon,WA
+sc-236656,South Puget Sound Community College,Olympia,WA
+sc-236692,Spokane Community College,Spokane,WA
+sc-236708,Spokane Falls Community College,Spokane,WA
+sc-236753,Tacoma Community College,Tacoma,WA
+sc-236887,Walla Walla Community College,Walla Walla,WA
+sc-236975,Wenatchee Valley College,Wenatchee,WA
+sc-237039,Whatcom Community College,Bellingham,WA
+sc-237109,Yakima Valley College,Yakima,WA
+sc-237437,Ameritas College,Huntington,WV
+sc-237686,West Virginia University at Parkersburg,Parkersburg,WV
+sc-237701,Potomac State College of West Virginia University,Keyser,WV
+sc-237817,Southern West Virginia Community and Technical College,Logan,WV
+sc-237987,West Virginia Junior College-Charleston,Cross Lanes,WV
+sc-237996,West Virginia Junior College-Morgantown,Morgantown,WV
+sc-238014,West Virginia Northern Community College,Wheeling,WV
+sc-240505,Casper College,Casper,WY
+sc-240514,Central Wyoming College,Riverton,WY
+sc-240596,Eastern Wyoming College,Torrington,WY
+sc-240620,Laramie County Community College,Cheyenne,WY
+sc-240657,Northwest College,Powell,WY
+sc-240666,Northern Wyoming Community College District,Sheridan,WY
+sc-240693,Western Wyoming Community College,Rock Springs,WY
+sc-240736,American Samoa Community College,Pago Pago,AS
+sc-240745,Guam Community College,Mangilao,GU
+sc-240790,Northern Marianas College,Saipan,MP
+sc-241720,Colegio Universitario de San Juan,San Juan,PR
+sc-241836,EDP University of Puerto Rico Inc-San Sebastian,San Sebastian,PR
+sc-242042,Instituto Tecnologico de Puerto Rico-Recinto de Manati,Manati,PR
+sc-242556,Instituto Tecnologico de Puerto Rico-Recinto de Guayama,Guayama,PR
+sc-242583,Instituto Tecnologico de Puerto Rico-Recinto de San Juan,San Juan,PR
+sc-242699,Inter American University of Puerto Rico-Guayama,Guayama,PR
+sc-243188,University of Puerto Rico-Utuado,Utuado,PR
+sc-243638,College of Micronesia-FSM,Pohnpei,FM
+sc-243647,Palau Community College,Koror,PW
+sc-243832,EDP University of Puerto Rico Inc-San Juan,San Juan,PR
+sc-244437,Georgia State University-Perimeter College,Atlanta,GA
+sc-245625,Warren County Community College,Washington,NJ
+sc-245962,Miller-Motte College-Tulsa,Tulsa,OK
+sc-246354,Palo Alto College,San Antonio,TX
+sc-247065,Beckfield College-Florence,Florence,KY
+sc-247603,Sussex County Community College,Newton,NJ
+sc-247649,Landmark College,Putney,VT
+sc-247834,Collin County Community College District,McKinney,TX
+sc-248934,ECPI University,Virginia Beach,VA
+sc-250027,Laurel Technical Institute,Uniontown,PA
+sc-260372,Lac Courte Oreilles Ojibwe University,Hayward,WI
+sc-260691,Pima Medical Institute-Mesa,Mesa,AZ
+sc-262031,St Charles Community College,Cottleville,MO
+sc-363934,University of Advancing Technology,Tempe,AZ
+sc-366003,South Florida Bible College and Theological Seminary,Deerfield Beach,FL
+sc-366252,Pennsylvania College of Technology,Williamsport,PA
+sc-366261,Commonwealth Institute of Funeral Service,Houston,TX
+sc-366340,Stone Child College,Box Elder,MT
+sc-366395,Suffolk County Community College,Selden,NY
+sc-366401,Las Positas College,Livermore,CA
+sc-367361,Interactive College of Technology,Houston,TX
+sc-369400,Universal Technical Institute-Orlando,Orlando,FL
+sc-369455,Worsham College of Mortuary Science,Wheeling,IL
+sc-369516,Bryan University,Springfield,MO
+sc-372073,Fremont University,Cerritos,CA
+sc-375939,YTI Career Institute-Altoona,Altoona,PA
+sc-376224,CEM College-Humacao,Humacao,PR
+sc-376695,College of the Marshall Islands,Majuro,MH
+sc-380368,Fond du Lac Tribal and Community College,Cloquet,MN
+sc-380377,Northwest Indian College,Bellingham,WA
+sc-383190,Hawaii Community College,Hilo,HI
+sc-384412,University of the Potomac-Washington DC Campus,Washington,DC
+sc-386472,Herzing University-Orlando,Winter Park,FL
+sc-389745,Mercaz Hatorah of Belle Harbor,Belle Harbor,NY
+sc-395362,Copper Mountain Community College,Joshua Tree,CA
+sc-399212,Santiago Canyon College,Orange,CA
+sc-404055,Brookline College-Tempe,Tempe,AZ
+sc-405058,Yeshivas Novominsk,Brooklyn,NY
+sc-405872,Carroll Community College,Westminster,MD
+sc-406024,Galen College of Nursing-Tampa Bay,Saint Petersburg,FL
+sc-406033,Galen College of Nursing-San Antonio,San Antonio,TX
+sc-408844,Florida National University-Main Campus,Hialeah,FL
+sc-409315,South Texas College,McAllen,TX
+sc-412173,Academy for Nursing and Health Occupations,West Palm Beach,FL
+sc-413617,College of Menominee Nation,Keshena,WI
+sc-413626,Leech Lake Tribal College,Cass Lake,MN
+sc-414595,Pacific College of Health and Science,New York,NY
+sc-414911,Pennsylvania Highlands Community College,Johnstown,PA
+sc-417734,Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO
+sc-419244,Atlanta Institute of Music and Media,Duluth,GA
+sc-420398,Northwest Vista College,San Antonio,TX
+sc-420440,York County Community College,Wells,ME
+sc-420556,Columbia Gorge Community College,The Dalles,OR
+sc-420723,Tillamook Bay Community College,Tillamook,OR
+sc-422695,Pacific College,Costa Mesa,CA
+sc-423652,Oregon Coast Community College,Newport,OR
+sc-428170,Southeastern College-Boynton Beach,Boynton Beach,FL
+sc-429128,Urban College of Boston,Boston,MA
+sc-430935,Colegio de Cinematografia Artes y Television,Bayamon,PR
+sc-431983,Yeshiva of the Telshe Alumni,Riverdale,NY
+sc-432384,Platt College-Ontario,Ontario,CA
+sc-433013,Career Networks Institute,Santa Ana,CA
+sc-433536,Herzing University-New Orleans,Metairie,LA
+sc-434016,Little Priest Tribal College,Winnebago,NE
+sc-434432,Myotherapy Institute,Lincoln,NE
+sc-434469,New Professions Technical Institute,Miami,FL
+sc-434672,Community College of Baltimore County,Baltimore,MD
+sc-434751,White Earth Tribal and Community College,Mahnomen,MN
+sc-434900,Dewey University-Carolina,Carolina,PR
+sc-436599,FINE Mortuary College,Norwood,MA
+sc-437750,Professional Golfers Career College,Temecula,CA
+sc-438504,Universal Technical Institute of California Inc,Rancho Cucamonga,CA
+sc-438708,Eastern West Virginia Community and Technical College,Moorefield,WV
+sc-439190,Cascadia College,Bothell,WA
+sc-439367,CBD College,Los Angeles,CA
+sc-439862,Pacific Islands University,Mangilao,GU
+sc-439871,PCI College,Cerritos,CA
+sc-439899,Rosedale Bible College,Irwin,OH
+sc-440651,Atenas University,Manati,PR
+sc-441070,Saginaw Chippewa Tribal College,Mount Pleasant,MI
+sc-441229,Smith Chason College,Los Angeles,CA
+sc-441371,Ultimate Medical Academy,Clearwater,FL
+sc-441609,Yeshiva Shaarei Torah of Rockland,Suffern,NY
+sc-441690,Universidad Pentecostal Mizpa,Rio Piedras,PR
+sc-442356,Saint Joseph's University - Lancaster,Lancaster,PA
+sc-442426,St Louis College of Health Careers-Fenton,Fenton,MO
+sc-442523,Alaska Christian College,Soldotna,AK
+sc-442611,Universal Technical Institute-Mooresville,Mooresville,NC
+sc-442781,Tohono O'odham Community College,Sells,AZ
+sc-443492,Pierpont Community and Technical College,Fairmont,WV
+sc-443650,Miller-Motte College-Chattanooga,Chattanooga,TN
+sc-444219,Folsom Lake College,Folsom,CA
+sc-444334,Advance Science International College,Miami Lakes,FL
+sc-444556,Auguste Escoffier School of Culinary Arts-Austin,Austin,TX
+sc-444565,Culinary Institute Inc,Houston,TX
+sc-444778,Charlotte Christian College and Theological Seminary,Charlotte,NC
+sc-444811,PITC Institute,Wyncote,PA
+sc-444954,Mountwest Community and Technical College,Huntington,WV
+sc-445708,Johnson & Wales University-Charlotte,Charlotte,NC
+sc-446163,Community Christian College,Quartzsite,AZ
+sc-446774,Blue Ridge Community and Technical College,Martinsburg,WV
+sc-447263,Joyce University of Nursing and Health Sciences,Draper,UT
+sc-447582,New River Community and Technical College,Beaver,WV
+sc-447713,California Career College,Canoga Park,CA
+sc-447759,National Polytechnic College,Lakewood,CA
+sc-447777,Asher College,Sacramento,CA
+sc-447935,ATA College,Louisville,KY
+sc-448372,San Joaquin Valley College-Rancho Cordova,Rancho Cordova,CA
+sc-448433,Universal Technical Institute of Northern California Inc,Sacramento,CA
+sc-448594,Lemoore College,Lemoore,CA
+sc-448600,Stautzenberger College-Brecksville,Brecksville,OH
+sc-448673,Rasmussen University-Illinois,Rockford,IL
+sc-449135,Dewey University-Juana Diaz,Juana Diaz,PR
+sc-449506,SABER College,Miami,FL
+sc-449524,Taylor College,Ocala,FL
+sc-449612,Louisiana Culinary Institute,Baton Rouge,LA
+sc-449728,ATA College,Tulsa,OK
+sc-450571,Rasmussen University-Wisconsin,Green Bay,WI
+sc-451103,Miami Regional University,Miami Springs,FL
+sc-451556,Southwest University at El Paso,El Paso,TX
+sc-451750,Bryant & Stratton College-Wauwatosa,Wauwatosa,WI
+sc-452948,Galen College of Nursing-Cincinnati,Cincinnati,OH
+sc-453792,Ohio Medical Career College,Dayton,OH
+sc-454786,Laurus College,San Luis Obispo,CA
+sc-454865,Cambridge College of Healthcare & Technology,Delray Beach,FL
+sc-455114,College of Western Idaho,Nampa,ID
+sc-455196,Jersey College,Teterboro,NJ
+sc-455336,MediaTech Institute-Dallas,Dallas,TX
+sc-455512,Woodland Community College,Woodland,CA
+sc-456454,Fortis College-Salt Lake City,Salt Lake City,UT
+sc-456542,Geisinger Commonwealth School of Medicine,Scranton,PA
+sc-457101,Carrington College-Las Vegas,Las Vegas,NV
+sc-457110,Carrington College-Reno,Reno,NV
+sc-457226,Horizon University,Indianapolis,IN
+sc-457527,Ambria College of Nursing,Hoffman Estates,IL
+sc-457536,Midwestern Career College,Chicago,IL
+sc-460394,Moreno Valley College,Moreno Valley,CA
+sc-460464,Norco College,Norco,CA
+sc-460543,Universal Technical Institute-Dallas Fort Worth,Irving,TX
+sc-461315,Keweenaw Bay Ojibwa Community College,LAnse,MI
+sc-461759,Simmons College of Kentucky,Louisville,KY
+sc-469416,Dewey University-Manati,Manati,PR
+sc-470047,WellSpring School of Allied Health-Lawrence,Lawrence,KS
+sc-475422,Finger Lakes Health College of Nursing & Health Sciences,Geneva,NY
+sc-475565,CUNY Stella and Charles Guttman Community College,New York,NY
+sc-476692,Yeshiva Gedolah Zichron Leyma,Union,NJ
+sc-477233,Evangel University-James River Assembly of God Church,Ozark,MO
+sc-480091,Bryant & Stratton College-Online,Orchard Park,NY
+sc-480204,Platt College-Riverside,Riverside,CA
+sc-480657,Rasmussen University-Kansas,Topeka,KS
+sc-480967,College of the Muscogee Nation,Okmulgee,OK
+sc-481252,Ultrasound Medical Institute,Wellington,FL
+sc-482699,South Georgia State College,Douglas,GA
+sc-484932,BridgeValley Community & Technical College,South  Charleston,WV
+sc-485111,Georgia Military College,Milledgeville,GA
+sc-485546,California Intercontinental University,Sioux Falls,SD
+sc-485768,Atlantis University,Miami,FL
+sc-486196,Beth Medrash Meor Yitzchok,Monsey,NY
+sc-486257,Valor Christian College,Canal Winchester,OH
+sc-486354,United International College,Dania Beach,FL
+sc-486372,San Francisco Film School,San Francisco,CA
+sc-486415,AMG School of Nursing,Brooklyn,NY
+sc-487092,Emory University-Oxford College,Oxford,GA
+sc-487311,Jones Technical Institute,Jacksonville,FL
+sc-487597,Universal Technical Institute-Southern California,Long Beach,CA
+sc-487861,Felbry College,Columbus,OH
+sc-488059,Med College,Hialeah,FL
+sc-488332,Hope College of Arts and Sciences,Pompano Beach,FL
+sc-488350,Yeshiva Gedolah Shaarei Shmuel,Lakewood,NJ
+sc-488730,Northeast Lakeview College,Universal City,TX
+sc-488776,John Patrick University of Health and Applied Sciences,South Bend,IN
+sc-489201,Clovis Community College,Fresno,CA
+sc-490054,HCI College,West Palm Beach,FL
+sc-490160,Sacramento Ultrasound Institute,Sacramento,CA
+sc-490203,Bolivar Technical College,Bolivar,MO
+sc-490346,Elyon College,Brooklyn,NY
+sc-490878,Platt College-Anaheim,Anaheim,CA
+sc-490975,Fortis College-Cutler Bay,Cutler Bay,FL
+sc-491181,Galen College of Nursing-ARH,Hazard,KY
+sc-491622,Yeshiva Chemdas Hatorah,Lakewood,NJ
+sc-491640,Yeshiva Gedolah Keren Hatorah,Lakewood,NJ
+sc-491844,Red Lake Nation College,Red Lake,MN
+sc-491914,Yeshiva Gedola Tiferes Yerachmiel,Lakewood,NJ
+sc-492476,EDP University of Puerto Rico-Villalba,Villalba,PR
+sc-493488,Premiere International College,Fort Myers,FL
+sc-493646,Ohel Margulia Seminary,Monsey,NY
+sc-493707,Yeshiva Gedolah of Woodlake Village,Lakewood,NJ
+sc-493716,Yeshiva Gedola Tiferes Yaakov Yitzchok,Lakewood,NJ
+sc-493798,New York Seminary,Brooklyn,NY
+sc-493974,College of Athens,Watkinsville,GA
+sc-494278,EDP University of Puerto Rico-Humacao,Humacao,PR
+sc-494287,EDP University of Puerto Rico-Manati,Manati,PR
+sc-494436,Fortis Institute-Cookeville,Cookeville,TN
+sc-494746,North-West College-San Diego,San Diego,CA
+sc-494898,WellSpring School of Allied Health-Wichita,Wichita,KS
+sc-494959,Northern Pennsylvania Regional College,Warren,PA
+sc-494986,Apex College of Veterinary Technology,Colorado Springs,CO
+sc-495147,Pacific Northwest Christian College,Kennewick,WA
+sc-495271,California Indian Nations College,Palm Desert,CA
+sc-495280,Indian Bible College,Flagstaff,AZ
+sc-496405,Newlane University,Lehi,UT
+sc-496636,Antigua College International,Miami Lakes,FL
+sc-496654,Sri Sai Krish Institute,ORANGE,CA
+sc-496973,Herzing University-Tampa,Tampa,FL
+sc-496991,Galen Health Institutes-Miami Campus,Pembroke Pines,FL
+sc-497046,Madera Community College,Madera,CA
+sc-497116,Galen Health Institutes-Austin Campus,Round Rock,TX
+sc-497125,Galen Health Institutes-Nashville Campus,Nashville,TN
+sc-497338,Glendale Career College-North-West College-Bakersfield,Bakersfield,CA
+sc-497657,Hawaii Tokai International College,Kapolei,HI
+sc-497833,Marian University-Ancilla,Plymouth,IN
+sc-498030,Universal Technical Institute-South Florida Miramar,Miramar,FL
+sc-498076,Galen Health Institutes-Sarasota,Sarasota,FL
+sc-498085,Galen Health Institutes-Gainesville,Gainesville,FL
+sc-498094,Galen Health Institutes-Richmond,Richmond,VA
+sc-498100,Galen Health Institutes-Myrtle Beach,Myrtle Beach,SC
+sc-498119,Galen Health Institutes-Asheville,Asheville,NC
+sc-498474,Galen Health Institutes-Houston,Houston,TX
+sc-499176,College of Biomedical Equipment Technology,Schertz,TX
+sc-499273,Galen Health Institutes-Dallas,Richardson,TX
+sc-499282,Galen Health Institutes-Roanoke,Roanoke,VA
+sc-499291,Galen Health Institutes-Wichita,Wichita,KS
+sc-499307,Galen Health Institutes-Salt Lake City,Draper,UT
+sc-499413,Glendale Career College-North-West College-MFSON,West Covina,CA
+sc-499635,EDP University of Puerto Rico-Caguas,Caguas,PR
+sc-499671,Galen Health Institutes-Las Vegas,Las Vegas,NV
+sc-499680,Stellar Career College-Crown Point,Crown Point,IN
+sc-499811,Ricketts Great Books College,Omaha,NE
+sc-499875,Mosdos Yaakov V'Yisroel,Lakewood,NJ
+sc-500087,Doral College,Doral,FL
+sc-500759,Eisek Hatorah DRachmistrivka,Staten Island,NY
+sc-500810,Bet Midrash Ohel Torah,Lakewood,NJ
+sc-500944,Galen Health Institutes-Aurora,Aurora,CO
+sc-500953,Galen Health Institutes-Savannah,Pooler,GA
+sc-500962,Galen Health Institutes-Orlando,Orlando,FL
+sc-500971,Carrington College-Bakersfield,Bakersfield,CA
+sc-500999,Carrington College-Fresno,Fresno,CA
+sc-501008,Carrington College-Hesperia,Hesperia,CA
+sc-501017,Carrington College-Lancaster,Lancaster,CA
+sc-501026,Carrington College-Modesto,Salida,CA
+sc-501035,Carrington College-Ontario,Ontario,CA
+sc-501044,Carrington College-Rancho Cordova,Rancho Cordova,CA
+sc-501053,Carrington College-Rancho Mirage,Rancho Mirage,CA
+sc-501062,Carrington College-Santa Maria,Santa Maria,CA
+sc-501071,Carrington College-Temecula,Temecula,CA
+sc-501080,Carrington College-Visalia,Visalia,CA
+sc-501196,College of Health Care Professions-Garland,Garland,TX
+sc-501293,Glendale Career College-Nevada Career Institute-MFSON,Las Vegas,NV
+sc-501327,Glendale Career College-North-West College-MFSON-Riverside,Riverside,CA
+sc-501390,Yeshiva Gedola Amidei Dgirsa,Brooklyn,NY
+sc-501406,Care Hope College,Jupiter,FL
+sc-501664,San Joaquin Valley College-San Leandro,San Leandro,CA
+sc-501673,San Joaquin Valley College-Sacramento,Sacramento,CA
+sc-501682,San Joaquin Valley College-Phoenix,Phoenix,AZ
+sc-100690,Amridge University,Montgomery,AL
+sc-100830,Auburn University at Montgomery,Montgomery,AL
+sc-101116,South University-Montgomery,Montgomery,AL
+sc-101453,Heritage Christian University,Florence,AL
+sc-101587,University of West Alabama,Livingston,AL
+sc-102395,United States Sports University,Daphne,AL
+sc-102580,Alaska Bible College,Palmer,AK
+sc-105899,Arizona Christian University,Glendale,AZ
+sc-106810,Crowley's Ridge College,Paragould,AR
+sc-107877,Williams Baptist University,Walnut Ridge,AR
+sc-109785,Azusa Pacific University,Azusa,CA
+sc-111966,Charles R Drew University of Medicine and Science,Los Angeles,CA
+sc-113582,Design Institute of San Diego,San Diego,CA
+sc-115773,Humphreys University,Stockton,CA
+sc-117104,Life Pacific University,San Dimas,CA
+sc-117751,The Master's University and Seminary,Santa Clarita,CA
+sc-118693,Menlo College,Atherton,CA
+sc-119605,National University,San Diego,CA
+sc-120403,Otis College of Art and Design,Los Angeles,CA
+sc-120698,Palo Alto University,Palo Alto,CA
+sc-120768,Pacific Oaks College,Pasadena,CA
+sc-120883,University of the Pacific,Stockton,CA
+sc-121257,Pitzer College,Claremont,CA
+sc-121309,Point Loma Nazarene University,San Diego,CA
+sc-122728,William Jessup University,Rocklin,CA
+sc-123280,Shasta Bible College and Graduate School,Redding,CA
+sc-123651,Vanguard University of Southern California,Costa Mesa,CA
+sc-124487,Epic Bible College & Graduate School,Sacramento,CA
+sc-125231,Walden University,Minneapolis,MN
+sc-126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,Los Angeles,CA
+sc-126827,Colorado Technical University-Colorado Springs,Colorado Springs,CO
+sc-127714,Nazarene Bible College,Colorado Springs,CO
+sc-128780,Charter Oak State College,New Britain,CT
+sc-130253,Sacred Heart University,Fairfield,CT
+sc-131803,Strayer University-District of Columbia,Washington,DC
+sc-133465,South University-West Palm Beach,Royal Palm Beach,FL
+sc-133711,Flagler College,Saint Augustine,FL
+sc-133872,AdventHealth University,Orlando,FL
+sc-134510,Hobe Sound Bible College,Hobe Sound,FL
+sc-135364,Luther Rice College & Seminary,Lithonia,GA
+sc-137777,Talmudic College of Florida,Miami Beach,FL
+sc-137953,Trinity College of Jacksonville,Jacksonville,FL
+sc-137962,Trinity College of Florida,Trinity,FL
+sc-138275,Warner University,Lake Wales,FL
+sc-138293,Webber International University,Babson Park,FL
+sc-139153,Beulah Heights University,Atlanta,GA
+sc-139630,Emmanuel University,Franklin Springs,GA
+sc-140340,Herzing University-Atlanta,Atlanta,GA
+sc-141237,Truett McConnell University,Cleveland,GA
+sc-141486,Chaminade University of Honolulu,Honolulu,HI
+sc-142832,Adler University,Chicago,IL
+sc-142957,American Islamic College,Chicago,IL
+sc-143288,Blackburn College,Carlinville,IL
+sc-143297,Blessing Rieman College of Nursing and Health Sciences,Quincy,IL
+sc-144351,Concordia University-Chicago,River Forest,IL
+sc-144883,East-West University,Chicago,IL
+sc-146533,Lakeview College of Nursing,Danville,IL
+sc-146755,Trinity College of Nursing & Health Sciences,Rock Island,IL
+sc-147129,Methodist College,Peoria,IL
+sc-147590,National University of Health Sciences,Lombard,IL
+sc-147776,Northeastern Illinois University,Chicago,IL
+sc-148575,Saint Francis Medical Center College of Nursing,Peoria,IL
+sc-149028,Saint Anthony College of Nursing,Rockford,IL
+sc-149329,Telshe Yeshiva-Chicago,Chicago,IL
+sc-149505,Trinity Christian College,Palos Heights,IL
+sc-149514,Trinity International University-Illinois,Deerfield,IL
+sc-149639,VanderCook College of Music,Chicago,IL
+sc-150172,Calumet College of Saint Joseph,Whiting,IN
+sc-151388,Indiana University-East,Richmond,IN
+sc-151786,Marian University,Indianapolis,IN
+sc-152099,Oakland City University,Oakland City,IN
+sc-152798,Allen College,Waterloo,IA
+sc-153126,Clarke University,Dubuque,IA
+sc-153320,Faith Baptist Bible College and Theological Seminary,Ankeny,IA
+sc-153366,Graceland University-Lamoni,Lamoni,IA
+sc-153375,Grand View University,Des Moines,IA
+sc-153977,Mercy College of Health Sciences,Des Moines,IA
+sc-154022,The University of Arizona Global Campus,Chandler,AZ
+sc-155089,Friends University,Wichita,KS
+sc-155308,Kansas Christian College,Overland Park,KS
+sc-155335,Newman University,Wichita,KS
+sc-155636,Ottawa University-Kansas City,Overland Park,KS
+sc-155973,Tabor College,Hillsboro,KS
+sc-156471,Galen College of Nursing-Louisville,Louisville,KY
+sc-157030,Kentucky Mountain Bible College,Jackson,KY
+sc-159373,Louisiana State University Health Sciences Center-New Orleans,New Orleans,LA
+sc-160074,Franciscan Missionaries of Our Lady University,Baton Rouge,LA
+sc-160409,Saint Joseph Seminary College,St. Benedict,LA
+sc-161217,University of Maine at Augusta,Augusta,ME
+sc-161235,University of Maine at Fort Kent,Fort Kent,ME
+sc-161873,University of Baltimore,Baltimore,MD
+sc-162061,Capitol Technology University,Laurel,MD
+sc-163532,Ner Israel Rabbinical College,Pikesville,MD
+sc-164614,Boston Baptist College,Boston,MA
+sc-166869,MGH Institute of Health Professions,Boston,MA
+sc-170000,Grace Christian University,Wyoming,MI
+sc-170091,Great Lakes Christian College,Lansing,MI
+sc-170967,Rochester Christian University,Rochester Hills,MI
+sc-172334,Spring Arbor University,Spring Arbor,MI
+sc-172608,Walsh College,Troy,MI
+sc-174154,Herzing University-Minneapolis,St. Louis Park,MN
+sc-174525,Oak Hills Christian College,Bemidji,MN
+sc-175430,Blue Mountain Christian University,Blue Mountain,MS
+sc-176910,Central Christian College of the Bible,Moberly,MO
+sc-177144,Culver-Stockton College,Canton,MO
+sc-177214,Drury University,Springfield,MO
+sc-177542,Hannibal-LaGrange University,Hannibal,MO
+sc-178341,Missouri Southern State University,Joplin,MO
+sc-178767,Stevens-The Institute of Business & Arts,Saint Louis,MO
+sc-178989,Research College of Nursing,Kansas City,MO
+sc-179265,University of Health Sciences and Pharmacy in St. Louis,Saint Louis,MO
+sc-179326,Southwest Baptist University,Bolivar,MO
+sc-179964,William Woods University,Fulton,MO
+sc-180258,University of Providence,Great Falls,MT
+sc-180878,Bryan College of Health Sciences,Lincoln,NE
+sc-180948,Chadron State College,Chadron,NE
+sc-181297,Nebraska Methodist College of Nursing & Allied Health,Omaha,NE
+sc-184612,Felician University,Lodi,NJ
+sc-186186,Rabbinical College of America,Morristown,NJ
+sc-188182,University of the Southwest,Hobbs,NM
+sc-189228,Berkeley College-New York,New York,NY
+sc-189565,Bryant & Stratton College-Syracuse North,Liverpool,NY
+sc-189857,Central Yeshiva Tomchei Tmimim Lubavitz,Brooklyn,NY
+sc-190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,Far Rockaway,NY
+sc-191205,Five Towns College,Dix Hills,NY
+sc-192165,Kehilath Yakov Rabbinical Seminary,Ossining,NY
+sc-192271,LIM College,New York,NY
+sc-192624,Machzikei Hadath Rabbinical College,Brooklyn,NY
+sc-193353,Mount Saint Mary College,Newburgh,NY
+sc-194666,Rabbinical College Bobover Yeshiva Bnei Zion,Brooklyn,NY
+sc-194718,Rabbinical Seminary Mkor Chaim,Lakewood,NJ
+sc-195438,Sh'or Yoshuv Rabbinical College,Lawrence,NY
+sc-196033,SUNY College of Agriculture and Technology at Cobleskill,Cobleskill,NY
+sc-196237,SUNY Old Westbury,Old Westbury,NY
+sc-196431,Talmudical Seminary Oholei Torah,Brooklyn,NY
+sc-196440,Talmudical Institute of Upstate New York,Rochester,NY
+sc-196680,Excelsior University,Albany,NY
+sc-197018,United Talmudical Seminary,Brooklyn,NY
+sc-197692,Yeshivath Shaar Hatorah,Kew Gardens,NY
+sc-197735,Yeshivath Viznitz,Monsey,NY
+sc-197911,Barton College,Wilson,NC
+sc-198215,Catawba College,Salisbury,NC
+sc-198677,Heritage Bible College,Dunn,NC
+sc-199458,Mid-Atlantic Christian University,Elizabeth City,NC
+sc-199971,Carolina Christian College,Winston Salem,NC
+sc-200484,Trinity Bible College and Graduate School,Ellendale,ND
+sc-200846,University of Akron Wayne College,Orrville,OH
+sc-201061,Art Academy of Cincinnati,Cincinnati,OH
+sc-201821,The Christ College of Nursing and Health Sciences,Cincinnati,OH
+sc-201867,Cincinnati College of Mortuary Science,Cincinnati,OH
+sc-203544,Kettering College,Kettering,OH
+sc-204671,Ohio State University-Lima Campus,Lima,OH
+sc-204802,Ohio University-Eastern Campus,Saint Clairsville,OH
+sc-204848,Ohio University-Lancaster Campus,Lancaster,OH
+sc-205124,Rabbinical College Telshe,Wickliffe,OH
+sc-206154,Tri-State Bible College,South Point,OH
+sc-206604,Wright State University-Main Campus,Dayton,OH
+sc-207157,Randall University,Moore,OK
+sc-207324,Oklahoma Christian University,Edmond,OK
+sc-207856,Southwestern Christian University,Bethany,OK
+sc-209296,National University of Natural Medicine,Portland,OR
+sc-210492,Bryn Athyn College of the New Church,Bryn Athyn,PA
+sc-211468,Cedar Crest College,Allentown,PA
+sc-212115,East Stroudsburg University of Pennsylvania,East Stroudsburg,PA
+sc-212197,Elizabethtown College,Elizabethtown,PA
+sc-212832,Gwynedd Mercy University,Gwynedd Valley,PA
+sc-213358,La Roche University,Pittsburgh,PA
+sc-214625,Pennsylvania State University-Penn State New Kensington,New Kensington,PA
+sc-214634,Pennsylvania State University-Penn State Shenango,Sharon,PA
+sc-214652,Pennsylvania State University-Penn State Scranton,Dunmore,PA
+sc-214698,Pennsylvania State University-Penn State Beaver,Monaca,PA
+sc-214740,Pennsylvania State University-Penn State DuBois,DuBois,PA
+sc-214759,Pennsylvania State University-Penn State Fayette- Eberly,Lemont Furnace,PA
+sc-214768,Pennsylvania State University-Penn State Hazleton,Hazleton,PA
+sc-214786,Pennsylvania State University-Penn State Greater Allegheny,McKeesport,PA
+sc-214795,Pennsylvania State University-Penn State Mont Alto,Mont Alto,PA
+sc-214883,Peirce College,Philadelphia,PA
+sc-215770,Saint Joseph's University - Philadelphia,Philadelphia,PA
+sc-216311,Talmudical Yeshiva of Philadelphia,Philadelphia,PA
+sc-216542,University of Valley Forge,Phoenixville,PA
+sc-217925,Columbia International University,Columbia,SC
+sc-218742,University of South Carolina-Upstate,Spartanburg,SC
+sc-219198,Mount Marty University,Yankton,SD
+sc-219204,National American University-Rapid City,Rapid City,SD
+sc-219602,Austin Peay State University,Clarksville,TN
+sc-219639,Baptist Health Sciences University,Memphis,TN
+sc-220604,Le Moyne-Owen College,Memphis,TN
+sc-220701,The University of Tennessee Southern,Pulaski,TN
+sc-222628,Amberton University,Garland,TX
+sc-222877,Arlington Baptist University,Arlington,TX
+sc-225548,Howard Payne University,Brownwood,TX
+sc-229018,The University of Texas Permian Basin,Odessa,TX
+sc-232885,Sentara College of Health Sciences,Chesapeake,VA
+sc-233356,Bon Secours Memorial College of Nursing,Richmond,VA
+sc-233602,Southeastern Free Will Baptist Bible College,Wendell,NC
+sc-233684,Strayer University-Virginia,Arlington,VA
+sc-235422,Heritage University,Toppenish,WA
+sc-237136,Appalachian Bible College,Mount Hope,WV
+sc-237215,Bluefield State University,Bluefield,WV
+sc-237385,Glenville State University,Glenville,WV
+sc-237950,West Virginia University Institute of Technology,Beckley,WV
+sc-238324,Bellin College,Green Bay,WI
+sc-239071,Maranatha Baptist University,Watertown,WI
+sc-240471,University of Wisconsin-River Falls,River Falls,WI
+sc-240480,University of Wisconsin-Stevens Point,Stevens Point,WI
+sc-240754,University of Guam,Mangilao,GU
+sc-241191,Universidad Adventista de las Antillas,Mayaguez,PR
+sc-241216,Atlantic University,Guaynabo,PR
+sc-241225,Universidad Central de Bayamon,Bayamón,PR
+sc-241331,Albizu University-San Juan,San Juan,PR
+sc-241386,Caribbean University-Carolina,Carolina,PR
+sc-241395,Pontifical Catholic University of Puerto Rico-Arecibo,Arecibo,PR
+sc-241410,Pontifical Catholic University of Puerto Rico-Ponce,Ponce,PR
+sc-241614,Universidad Teologica del Caribe,Trujillo Alto,PR
+sc-241739,Universidad Ana G. Mendez-Cupey Campus,San Juan,PR
+sc-241766,Puerto Rico Conservatory of Music,San Juan,PR
+sc-241951,Escuela de Artes Plasticas y Diseno de Puerto Rico,San Juan,PR
+sc-242617,Inter American University of Puerto Rico-San German,San German,PR
+sc-242626,Inter American University of Puerto Rico-Aguadilla,Aguadilla,PR
+sc-242635,Inter American University of Puerto Rico-Arecibo,Arecibo,PR
+sc-242644,Inter American University of Puerto Rico-Barranquitas,Barranquitas,PR
+sc-242653,Inter American University of Puerto Rico-Metro,San Juan,PR
+sc-242662,Inter American University of Puerto Rico-Ponce,Mercedita,PR
+sc-242680,Inter American University of Puerto Rico-Fajardo,Fajardo,PR
+sc-242705,Inter American University of Puerto Rico-Bayamon,Bayamon,PR
+sc-243106,University of Puerto Rico-Aguadilla,Aguadilla,PR
+sc-243115,University of Puerto Rico-Arecibo,Arecibo,PR
+sc-243133,University of Puerto Rico,Bayamon,PR
+sc-243142,University of Puerto Rico-Carolina,Carolina,PR
+sc-243151,University of Puerto Rico at Cayey,Cayey,PR
+sc-243179,University of Puerto Rico-Humacao,Humacao,PR
+sc-243203,University of Puerto Rico-Medical Sciences,San Juan,PR
+sc-243212,University of Puerto Rico at Ponce,Ponce,PR
+sc-243346,Universidad Ana G. Mendez-Carolina Campus,Carolina,PR
+sc-243443,Universidad del Sagrado Corazon,Santurce,PR
+sc-243577,Universidad Politecnica de Puerto Rico,Hato Rey,PR
+sc-243586,Pontifical Catholic University of Puerto Rico-Mayaguez,Mayaguez,PR
+sc-243665,University of the Virgin Islands,Charlotte Amalie,VI
+sc-243823,Parker University,Dallas,TX
+sc-245652,St. John's College,Santa Fe,NM
+sc-245777,Bais Medrash Elyon,Monsey,NY
+sc-245838,Antioch University-Los Angeles,Culver City,CA
+sc-245847,Antioch University-Santa Barbara,Santa Barbara,CA
+sc-245883,Antioch University-Seattle,Seattle,WA
+sc-245892,Antioch University,Yellow Springs,OH
+sc-245953,Mid-America Christian University,Oklahoma City,OK
+sc-247773,Yeshiva Gedolah of Greater Detroit,Oak Park,MI
+sc-251312,South University-Columbia,Columbia,SC
+sc-262086,University of Massachusetts Global,Aliso Viejo,CA
+sc-262129,New College of Florida,Sarasota,FL
+sc-262165,Montana Bible College,Billings,MT
+sc-363712,Yeshivah Gedolah Rabbinical College,Miami Beach,FL
+sc-363907,Caribbean University-Ponce,Ponce,PR
+sc-363916,Caribbean University-Vega Baja,Vega Baja,PR
+sc-368452,Nossi College of Art and Design,Nashville,TN
+sc-375230,Yeshiva Gedolah Imrei Yosef D'spinka,Brooklyn,NY
+sc-377546,Northwest College of Art & Design,Tacoma,WA
+sc-377555,University of Washington-Bothell Campus,Bothell,WA
+sc-377564,University of Washington-Tacoma Campus,Tacoma,WA
+sc-380438,Provo College,Provo,UT
+sc-384254,Beacon College,Leesburg,FL
+sc-384421,Rabbi Jacob Joseph School,Edison,NJ
+sc-385619,Everglades University,Boca Raton,FL
+sc-388520,College of Biblical Studies-Houston,Houston,TX
+sc-399911,Soka University of America,Aliso Viejo,CA
+sc-401223,World Mission University,Los Angeles,CA
+sc-404338,Schiller International University,Tampa,FL
+sc-405854,Rabbinical College of Ohr Shimon Yisroel,Brooklyn,NY
+sc-407610,Pacific Bible College,Medford,OR
+sc-409698,California State University-Monterey Bay,Seaside,CA
+sc-414878,Trine University-Regional/Non-Traditional Campuses,Angola,IN
+sc-416801,The University of Texas MD Anderson Cancer Center,Houston,TX
+sc-417752,Messenger College,Bedford,TX
+sc-418126,New York College of Health Professions,Syosset,NY
+sc-420325,Yeshiva D'monsey Rabbinical College,Monsey,NY
+sc-421708,Arizona College of Nursing-Tempe,Tempe,AZ
+sc-421878,Eastern International College-Jersey City,Jersey City,NJ
+sc-428259,Ottawa University-Milwaukee,Brookfield,WI
+sc-430184,Strayer University-Maryland,Baltimore,MD
+sc-430670,San Juan Bautista School of Medicine,Caguas,PR
+sc-433004,American University of Health Sciences,Signal Hill,CA
+sc-433387,Western Governors University,Salt Lake City,UT
+sc-433420,California Aeronautical University,Bakersfield,CA
+sc-434937,Yeshiva College of the Nations Capital,Silver  Spring,MD
+sc-435000,Louisiana State University Health Sciences Center-Shreveport,Shreveport,LA
+sc-436429,Los Angeles Film School,Hollywood,CA
+sc-436614,International Baptist College and Seminary,Chandler,AZ
+sc-436818,University of Connecticut-Waterbury Campus,Waterbury,CT
+sc-436827,University of Connecticut-Avery Point,Groton,CT
+sc-436836,University of Connecticut-Stamford,Stamford,CT
+sc-437097,University of Management and Technology,Arlington,VA
+sc-438586,American InterContinental University-Atlanta,Atlanta,GA
+sc-439446,Atlantic Institute of Oriental Medicine,Fort Lauderdale,FL
+sc-439701,The King's University,Southlake,TX
+sc-440396,New Saint Andrews College,Moscow,ID
+sc-440794,Pillar College,Newark,NJ
+sc-440828,Oregon State University-Cascades Campus,Bend,OR
+sc-440916,Southern University Law Center,Baton Rouge,LA
+sc-441900,Nevada State University,Henderson,NV
+sc-441937,California State University-Channel Islands,Camarillo,CA
+sc-441982,Franklin W Olin College of Engineering,Needham,MA
+sc-442569,University of Arkansas Grantham,LIttle Rock,AR
+sc-442639,University of the Potomac-VA Campus,FALLS CHURCH,VA
+sc-443049,Faith International University,Tacoma,WA
+sc-443058,Family of Faith Christian University,Shawnee,OK
+sc-443331,West Coast University-Texas,Richardson,TX
+sc-443340,Williamson Christian College,Franklin,TN
+sc-443410,DigiPen Institute of Technology,Redmond,WA
+sc-443562,Dewey University-Hato Rey,Hato Rey,PR
+sc-443766,Strayer University-Tennessee,Nashville,TN
+sc-443784,Strayer University-Pennsylvania,Philadelphia,PA
+sc-444088,Brookline College-Albuquerque,Albuquerque,NM
+sc-444130,Northcentral University,San Diego,CA
+sc-444398,Baptist University of the Americas,San Antonio,TX
+sc-444413,Beis Medrash Heichal Dovid,Far Rockaway,NY
+sc-444787,Nightingale College,Salt Lake City,UT
+sc-445027,American InterContinental University System,Chandler,AZ
+sc-445133,American InterContinental University-Houston,Houston,TX
+sc-445267,Central Methodist University-College of Graduate and Extended Studies,Fayette,MO
+sc-445692,Neumont College of Computer Science,Salt Lake City,UT
+sc-445735,Roseman University of Health Sciences,Henderson,NV
+sc-446048,Ave Maria University,Ave Maria,FL
+sc-446233,Ecclesia College,Springdale,AR
+sc-446385,Los Angeles College of Music,Pasadena,CA
+sc-446561,Stanbridge University,Irvine,CA
+sc-446604,Uta Mesivta of Kiryas Joel,Monroe,NY
+sc-446640,Harrisburg University of Science and Technology,Harrisburg,PA
+sc-447050,United States University,Sandy Springs,CA
+sc-447421,Eagle Gate College-Layton,Layton,UT
+sc-447953,SUM Bible College and Theological Seminary,El Dorado Hills,CA
+sc-448239,Careers Unlimited,Orem,UT
+sc-449038,Strayer University-Florida,Tampa,FL
+sc-449384,Gnomon,North Hollywood,CA
+sc-449658,Bais Medrash Toras Chesed,Lakewood,NJ
+sc-449764,Visible Music College,Memphis,TN
+sc-449870,University of the West,Rosemead,CA
+sc-449889,American College of Education,Indianapolis,IN
+sc-449898,South University-Tampa,Tampa,FL
+sc-450298,Strayer University-Delaware,Wilmington,DE
+sc-450377,Strayer University-Alabama,Birmingham,AL
+sc-451370,Yeshivas Be'er Yitzchok,Elizabeth,NJ
+sc-451398,Yeshiva Toras Chaim,Lakewood,NJ
+sc-451404,Talmudical Seminary of Bobov,Brooklyn,NY
+sc-451927,Patrick Henry College,Purcellville,VA
+sc-453163,Strayer University-North Carolina,Greensboro,NC
+sc-453215,Strayer University-New Jersey,Piscataway,NJ
+sc-454227,Chamberlain University-Illinois,Addison,IL
+sc-454236,Chamberlain University-Ohio,Columbus,OH
+sc-454245,Chamberlain University-Arizona,Phoenix,AZ
+sc-454582,Ottawa University-Online,Overland Park,KS
+sc-454829,Aspen University,Phoenix,AZ
+sc-454856,Denver College of Nursing,Denver,CO
+sc-455257,Yeshiva of Machzikai Hadas,Brooklyn,NY
+sc-455664,The Chicago School at Los Angeles,Los Angeles,CA
+sc-455770,Providence Christian College,Pasadena,CA
+sc-456490,Polytechnic University of Puerto Rico-Orlando,Orlando,FL
+sc-456621,Strayer University-West Virginia,Scott Depot,WV
+sc-456959,University of Minnesota-Rochester,Rochester,MN
+sc-457129,Chamberlain University-Florida,Jacksonville,FL
+sc-457402,University of Fort Lauderdale,Lauderhill,FL
+sc-457484,Pacific Rim Christian University,Honolulu,HI
+sc-458210,West Coast University-Anaheim-Orange County,Anaheim,CA
+sc-458229,West Coast University-Ontario,Ontario,CA
+sc-458885,Strayer University-Arkansas,Little Rock,AR
+sc-458919,Strayer University-Georgia,Chamblee,GA
+sc-458955,Strayer University-Mississippi,Jackson,MS
+sc-458964,Strayer University-South Carolina,Greenville,SC
+sc-458973,Strayer University-Texas,Farmers Branch,TX
+sc-459259,South University-Richmond,Glen Allen,VA
+sc-459268,South University-Virginia Beach,Virginia Beach,VA
+sc-459727,Touro University Worldwide,Los Alamitos,CA
+sc-459824,Touro University Nevada,Henderson,NV
+sc-459842,Herzing University-Kenosha,Kenosha,WI
+sc-459949,Texas A&M University-San Antonio,San Antonio,TX
+sc-459994,Strayer University-Global Region,Washington,DC
+sc-460349,Johnson & Wales University-Online,Providence,RI
+sc-460871,Chamberlain University-Virginia,Vienna,VA
+sc-461023,Crestpoint University,Phoenix,AZ
+sc-461032,Carolina College of Biblical Studies,Fayetteville,NC
+sc-461148,New York Film Academy,Burbank,CA
+sc-461263,American Medical Sciences Center,Glendale,CA
+sc-461795,North American University,Stafford,TX
+sc-461847,Keser Torah-Mayan Hatalmud,Lakewood,NJ
+sc-461883,Millennia Atlantic University,Doral,FL
+sc-462354,John Paul the Great Catholic University,Escondido,CA
+sc-463056,University of Connecticut-Hartford Campus,Hartford,CT
+sc-464226,Ottawa University-Surprise,Surprise,AZ
+sc-466921,Chamberlain University-Missouri,St. Louis,MO
+sc-466930,Chamberlain University-Texas,Houston,TX
+sc-474863,Los Angeles Pacific University,Glendora,CA
+sc-475121,South University-Savannah Online,Savannah,GA
+sc-475200,Whitworth University-Adult Degree Programs,Spokane,WA
+sc-475273,Springfield College-Regional Online and Continuing Education,Springfield,MA
+sc-475398,Catholic International University,Charles Town,WV
+sc-475608,Criswell College,Dallas,TX
+sc-475732,Chamberlain University-Georgia,Sandy Springs,GA
+sc-475741,Chamberlain University-Indiana,Indianapolis,IN
+sc-476601,Bais HaMedrash and Mesivta of Baltimore,Baltimore,MD
+sc-476717,Be'er Yaakov Talmudic Seminary,Spring Valley,NY
+sc-476975,Colorado State University Global,Denver,CO
+sc-479956,Pennsylvania State University-World Campus,University Park,PA
+sc-480073,South University-Austin,Round Rock,TX
+sc-480198,Warner Pacific University Professional and Graduate Studies,Portland,OR
+sc-480781,California Miramar University,San Diego,CA
+sc-480985,Midwives College of Utah,Salt Lake City,UT
+sc-481058,Grace Mission University,Fullerton,CA
+sc-481225,Mid-South Christian College,Memphis,TN
+sc-481401,Grace School of Theology,The Woodlands,TX
+sc-481410,Yeshiva Gedolah Kesser Torah,Monsey,NY
+sc-481438,Yeshiva Yesodei Hatorah,Lakewood,NJ
+sc-481720,South University-High Point,High Point,NC
+sc-482149,Augusta University,Augusta,GA
+sc-482158,Middle Georgia State University,Macon,GA
+sc-482228,Veritas Baptist College,Lawrenceburg,IN
+sc-482413,DeVry College of New York,New York,NY
+sc-482422,DeVry University-Arizona,Phoenix,AZ
+sc-482459,DeVry University-Florida,Orlando,FL
+sc-482468,DeVry University-Georgia,Decatur,GA
+sc-482547,DeVry University-Nevada,Henderson,NV
+sc-482556,DeVry University-New Jersey,Iselin,NJ
+sc-482574,DeVry University-Ohio,Columbus,OH
+sc-482635,DeVry University-Texas,Irving,TX
+sc-482653,DeVry University-Virginia,Arlington,VA
+sc-482705,Northeastern University Professional Programs,Boston,MA
+sc-482936,Florida Polytechnic University,Lakeland,FL
+sc-483018,Antioch College,Yellow Springs,OH
+sc-483036,Texas A&M University-Central Texas,Killeen,TX
+sc-483595,Ana G. Mendez University,Orlando,FL
+sc-483780,Washington University of Science and Technology,Alexandria,VA
+sc-484473,University of Florida-Online,Gainesville,FL
+sc-484844,Minerva University,San Francisco,CA
+sc-484862,University of West Los Angeles,Inglewood,CA
+sc-484871,Rabbinical College Ohr Yisroel,Brooklyn,NY
+sc-484905,University of North Texas at Dallas,Dallas,TX
+sc-485272,West Coast University-Miami,Doral,FL
+sc-485519,Lionel University,Carpinteria,CA
+sc-485698,American College of the Building Arts,Charleston,SC
+sc-485999,Bet Medrash Gadol Ateret Torah,Brooklyn,NY
+sc-486017,Yeshiva Ohr Yisrael,Brooklyn,NY
+sc-486026,Yeshiva Sholom Shachna,Brooklyn,NY
+sc-486053,Bethlehem College & Seminary,Minneapolis,MN
+sc-486284,Bethany Global University,Bloomington,MN
+sc-486901,Milligan University,Milligan,TN
+sc-486938,Chamberlain University-Nevada,Las Vegas,NV
+sc-486947,Chamberlain University-Michigan,Troy,MI
+sc-486956,Chamberlain University-New Jersey,North Brunswick,NJ
+sc-487010,The University of Tennessee Health Science Center,Memphis,TN
+sc-487375,Arizona College of Nursing-Las Vegas,Las Vegas,NV
+sc-487524,Husson University,Bangor,ME
+sc-487603,Northwest University-Center for Online and Extended Education,Kirkland,WA
+sc-487746,Yeshiva Zichron Aryeh,Far Rockaway,NY
+sc-488004,Central Yeshiva Beth Joseph,Airmont,NY
+sc-488031,Abraham Lincoln University,Glendale,CA
+sc-488314,Beth Medrash of Asbury Park,Lakewood,NJ
+sc-488387,Claremont Lincoln University,Claremont,CA
+sc-488448,Seattle Film Institute,Seattle,WA
+sc-488679,Indiana Wesleyan University-National & Global,Marion,IN
+sc-489344,Chamberlain University-North Carolina,Charlotte,NC
+sc-489353,Chamberlain University-California,Rancho Cordova,CA
+sc-489937,Carolina University,Winston-Salem,NC
+sc-490045,California Prestige University,Santa Fe Springs,CA
+sc-490081,America Evangelical University,Gardena,CA
+sc-490133,Westcliff University,Irvine,CA
+sc-490276,Yeshiva Shaar Ephraim,Monsey,NY
+sc-490319,Yeshiva Bais Aharon,Lakewood,NJ
+sc-490328,Mechon L'hoyroa,Monsey,NY
+sc-490504,Yeshiva Ohr Naftoli,New Windsor,NY
+sc-490513,Bais Medrash Mayan Hatorah,Lakewood,NJ
+sc-490805,Purdue University Northwest,Hammond,IN
+sc-491057,Yeshiva Kollel Tifereth Elizer,Brooklyn,NY
+sc-491190,The Chicago School at San Diego,San Diego,CA
+sc-491288,University of Wisconsin-Milwaukee Flex,Milwaukee,WI
+sc-491297,University of Wisconsin-Parkside Flex,Kenosha,WI
+sc-491613,Yeshiva Gedolah Tiferes Boruch,North Plainfield,NJ
+sc-491631,Women's Institute of Torah Seminary and College,Baltimore,MD
+sc-491710,Yeshiva Gedolah of Cliffwood,Keyport,NJ
+sc-491765,Yeshivas Emek Hatorah,Howell,NJ
+sc-492069,Champion Christian College,Hot Springs,AR
+sc-492689,Texas Tech University Health Scienes Center El Paso,El Paso,TX
+sc-492759,Chamberlain University-Louisiana,Jefferson,LA
+sc-492801,Drury University-College of Continuing Professional Studies,Springfield,MO
+sc-492962,Indiana Institute of Technology-College of Professional Studies,Fort Wayne,IN
+sc-493594,Yeshiva of Ocean,Greenfield Park,NY
+sc-493600,Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,Brooklyn,NY
+sc-493664,Yeshivat Hechal Shemuel,Brooklyn,NY
+sc-493673,Professional University Dr. Carlos J. Borrero Rios,Hato Rey,PR
+sc-493822,College Unbound,Providence,RI
+sc-494162,Arizona College of Nursing-Dallas,Dallas,TX
+sc-494542,Sattler College,Boston,MA
+sc-494630,Christ Mission College,San Antonio,TX
+sc-494685,Urshan University,Wentzville,MO
+sc-494737,Yeshiva Yesoda Hatorah Vetz Chaim,Brooklyn,NY
+sc-495031,Bais Medrash of Dexter Park,Chestnut Ridge,NY
+sc-495059,Oak Valley College,Rialto,CA
+sc-495420,Arizona College of Nursing-Tampa,Tampa,FL
+sc-495439,Arizona College of Nursing-Fort Lauderdale,Fort Lauderdale,FL
+sc-495448,Arizona College of Nursing-Tucson,Tucson,AZ
+sc-495457,Arizona College of Nursing-Phoenix,Phoenix,AZ
+sc-495916,Pathways College,Tempe,AZ
+sc-496283,Provo College-Idaho Falls Campus,Idaho Falls,ID
+sc-496326,Eagle Gate College-Boise Campus,Boise,ID
+sc-496627,California Northstate University,Elk Grove,CA
+sc-496803,NewU University,Washington,DC
+sc-497037,Abilene Christian University-Undergraduate Online,Addison,TX
+sc-497213,Great Northern University,Spokane,WA
+sc-497268,Arizona College of Nursing-Salt Lake City,Murray,UT
+sc-497408,Bridges Christian College,New Orleans,LA
+sc-497462,Redeemers University North America,Greenville,TX
+sc-497480,Reach University,Oakland,CA
+sc-497824,Evangel University-College of Online Learning,Springfield,MO
+sc-498049,Arizona College of Nursing-Southfield,Southfield,MI
+sc-498447,Arizona College of Nursing-Falls Church,Falls Church,VA
+sc-498456,Arizona College of Nursing-Ontario,Ontario,CA
+sc-498571,Pennsylvania Western University,California,PA
+sc-498623,Justice University,Chandler,AZ
+sc-498809,Yeshiva of Kasho,Brooklyn,NY
+sc-498906,Yeshivas Sanz Klauzenburg,Brooklyn,NY
+sc-498924,URBE University,Sweetwater,FL
+sc-499370,Arizona College of Nursing-Sarasota,University Park,FL
+sc-499389,Arizona College of Nursing-Aurora,Aurora,CO
+sc-499398,Arizona College of Nursing-Cincinnati,Cincinnati,OH
+sc-499404,Arizona College of Nursing-Cleveland,Beachwood,OH
+sc-499422,Denver College of Nursing-Houston,Houston,TX
+sc-500290,Arizona College of Nursing - Chesapeake,Chesapeake,VA
+sc-500306,Arizona College of Nursing - Hartford,East Hartford,CT
+sc-500333,Arizona College of Nursing-St Louis,Maryland Heights,MO
+sc-500342,EDvance College,San Francisco,CA
+sc-500713,Virginia Christian College,Dumfries,VA
+sc-500740,Congregation YMH,Brooklyn,NY
+sc-500829,Northpoint College,Wyoming,MI
+sc-501451,UTH Florida University,Miami,FL
+sc-501488,West Coast University-Los Angeles,North Hollywood,CA
+sc-501521,Herzing University-Clarksville,Clarksville,TN
+sc-104665,The School of Architecture,Scottsdale,AZ
+sc-108269,Academy of Chinese Culture and Health Sciences,Oakland,CA
+sc-108870,American Film Institute Conservatory,Los Angeles,CA
+sc-110398,University of California College of the Law-San Francisco,San Francisco,CA
+sc-110699,University of California-San Francisco,San Francisco,CA
+sc-111391,California Western School of Law,San Diego,CA
+sc-112127,Church Divinity School of the Pacific,Berkeley,CA
+sc-112251,Claremont Graduate University,Claremont,CA
+sc-112525,Western University of Health Sciences,Pomona,CA
+sc-113704,Dominican School of Philosophy & Theology,Berkeley,CA
+sc-114549,Fielding Graduate University,Santa Barbara,CA
+sc-114585,Five Branches University,Santa Cruz,CA
+sc-114734,Franciscan School of Theology,San Diego,CA
+sc-114840,Fuller Theological Seminary,Pasadena,CA
+sc-115214,Graduate Theological Union,Berkeley,CA
+sc-115746,Pacifica Graduate Institute,Santa Barbara CA,CA
+sc-117520,Life Chiropractic College West,Hayward,CA
+sc-119678,Naval Postgraduate School,Monterey,CA
+sc-120795,Pacific School of Religion,Berkeley,CA
+sc-121628,RAND School of Public Policy,Santa Monica,CA
+sc-122117,Dongguk University Los Angeles,Los Angeles,CA
+sc-122649,San Joaquin College of Law,Clovis,CA
+sc-123095,Saybrook University,Pasadena,CA
+sc-123448,Trinity Law School,Santa Ana,CA
+sc-123633,South Baylo University,Anaheim,CA
+sc-123916,Starr King School for the Ministry,Oakland,CA
+sc-123970,Southwestern Law School,Los Angeles,CA
+sc-124283,Claremont School of Theology,Los Angeles,CA
+sc-125037,The Colleges of Law at Ventura,Ventura,CA
+sc-125718,Westminster Theological Seminary in California,Escondido,CA
+sc-126012,The Wright Institute,Berkeley,CA
+sc-126049,Thomas Jefferson School of Law,San Diego,CA
+sc-126979,Denver Seminary,Littleton,CO
+sc-127273,Iliff School of Theology,Denver,CO
+sc-129491,Hartford International University for Religion and Peace,Hartford,CT
+sc-131405,Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,Washington,DC
+sc-131973,Wesley Theological Seminary,Washington,DC
+sc-136701,Saint Vincent de Paul Regional Seminary,Boynton Beach,FL
+sc-138929,Atlanta's John Marshall Law School,Atlanta,GA
+sc-139348,Columbia Theological Seminary,Decatur,GA
+sc-140146,Interdenominational Theological Center,Atlanta,GA
+sc-140562,Morehouse School of Medicine,Atlanta,GA
+sc-143233,Bethany Theological Seminary,Richmond,IN
+sc-143659,Catholic Theological Union at Chicago,Chicago,IL
+sc-143853,Midwestern University-Downers Grove,Downers Grove,IL
+sc-144014,Chicago Theological Seminary,Chicago,IL
+sc-145275,Garrett-Evangelical Theological Seminary,Evanston,IL
+sc-145558,Rosalind Franklin University of Medicine and Science,North Chicago,IL
+sc-145628,Illinois College of Optometry,Chicago,IL
+sc-145886,Institute for Clinical Social Work,Chicago,IL
+sc-146490,Lake Forest Graduate School of Management,Lake Forest,IL
+sc-146728,Lutheran School of Theology at Chicago,Chicago,IL
+sc-146977,McCormick Theological Seminary,Chicago,IL
+sc-147031,Meadville Theological School of Lombard College,Chicago,IL
+sc-147697,Northern Baptist Theological Seminary,Lisle,IL
+sc-148885,University of Saint Mary of the Lake,Mundelein,IL
+sc-148982,Spertus College,Chicago,IL
+sc-150215,Christian Theological Seminary,Indianapolis,IN
+sc-150288,Concordia Theological Seminary,Fort Wayne,IN
+sc-151865,Anabaptist Mennonite Biblical Seminary,Elkhart,IN
+sc-152451,Saint Meinrad School of Theology,St. Meinrad,IN
+sc-154156,Des Moines University-Osteopathic Medical Center,West Des Moines,IA
+sc-154536,Wartburg Theological Seminary,Dubuque,IA
+sc-156222,Asbury Theological Seminary,Wilmore,KY
+sc-156727,Frontier Nursing University,Versailles,KY
+sc-157207,Lexington Theological Seminary,Lexington,KY
+sc-157298,Louisville Presbyterian Theological Seminary,Louisville,KY
+sc-164915,Boston Graduate School of Psychoanalysis Inc,Brookline,MA
+sc-165495,Conway School of Landscape Design,Northampton,MA
+sc-165945,Gordon-Conwell Theological Seminary,South Hamilton,MA
+sc-166045,Hebrew College,Newton,MA
+sc-166708,University of Massachusetts Chan Medical School,Worcester,MA
+sc-167215,New England Law-Boston,Boston,MA
+sc-169099,Calvin Theological Seminary,Grand Rapids,MI
+sc-169220,Michigan School of Psychology,Farmington Hills,MI
+sc-169424,Cranbrook Academy of Art,Bloomfield Hills,MI
+sc-172477,Thomas M Cooley Law School,Lansing,MI
+sc-172705,Western Theological Seminary,Holland,MI
+sc-173683,Hazelden Betty Ford Graduate School,Center City,MN
+sc-173896,Luther Seminary,Saint Paul,MN
+sc-175139,United Theological Seminary of the Twin Cities,St. Paul,MN
+sc-175281,Mitchell Hamline School of Law,Saint Paul,MN
+sc-176600,Aquinas Institute of Theology,Saint Louis,MO
+sc-177092,Concordia Seminary,Saint Louis,MO
+sc-177126,Covenant Theological Seminary,Saint Louis,MO
+sc-177278,Eden Theological Seminary,Webster Groves,MO
+sc-177816,Kenrick Glennon Seminary,Saint Louis,MO
+sc-177834,A T Still University of Health Sciences,Kirksville,MO
+sc-178518,Nazarene Theological Seminary,Kansas City,MO
+sc-179317,Saint Paul School of Theology,Leawood,KS
+sc-179812,Kansas City University,Kansas City,MO
+sc-182829,University of New Hampshire-Franklin Pierce School of Law,Concord,NH
+sc-185758,New Brunswick Theological Seminary,New Brunswick,NJ
+sc-186122,Princeton Theological Seminary,Princeton,NJ
+sc-188207,Southwestern College,Santa Fe,NM
+sc-188535,Albany Law School,Albany,NY
+sc-188580,Albany Medical College,Albany,NY
+sc-189015,Bank Street College of Education,New York,NY
+sc-189501,Brooklyn Law School,Brooklyn,NY
+sc-190080,Colgate Rochester Crozer Divinity School,Rochester,NY
+sc-190424,Weill Medical College of Cornell University,New York,NY
+sc-190682,CUNY School of Law,Long Island City,NY
+sc-193405,Icahn School of Medicine at Mount Sinai,New York,NY
+sc-193751,Northeast College of Health Sciences,Seneca Falls,NY
+sc-193821,New York Law School,New York,NY
+sc-193830,New York Medical College,Valhalla,NY
+sc-194073,New York College of Podiatric Medicine,New York,NY
+sc-195049,The Rockefeller University,New York,NY
+sc-195155,St Bernard's School of Theology and Ministry,Rochester,NY
+sc-195580,Saint Vladimirs Orthodox Theological Seminary,Yonkers,NY
+sc-196228,SUNY College of Optometry,New York,NY
+sc-196468,Teachers College at Columbia University,New York,NY
+sc-196884,Union Theological Seminary in the City of New York,New York,NY
+sc-200697,Air Force Institute of Technology-Graduate School of Engineering & Management,Wright-Patterson AFB,OH
+sc-203067,Hebrew Union College-Jewish Institute of Religion,New York,NY
+sc-203997,Methodist Theological School in Ohio,Delaware,OH
+sc-204477,Northeast Ohio Medical University,Rootstown,OH
+sc-204990,Payne Theological Seminary,Wilberforce,OH
+sc-206288,United Theological Seminary,Dayton,OH
+sc-206516,Winebrenner Theological Seminary,Findlay,OH
+sc-207315,Oklahoma State University Center for Health Sciences,Tulsa,OK
+sc-210368,Western Seminary,Portland,OR
+sc-210508,Academy of Vocal Arts,Philadelphia,PA
+sc-213631,United Lutheran Seminary,Gettysburg,PA
+sc-214607,Pennsylvania State University-Penn State Great Valley,Malvern,PA
+sc-215123,Philadelphia College of Osteopathic Medicine,Philadelphia,PA
+sc-215424,Pittsburgh Theological Seminary,Pittsburgh,PA
+sc-215619,Reconstructionist Rabbinical College,Wyncote,PA
+sc-215813,Saint Vincent Seminary,Latrobe,PA
+sc-216348,Theological Seminary of the Reformed Episcopal Church,Oreland,PA
+sc-216463,Trinity Anglican Seminary,Ambridge,PA
+sc-216816,Westminster Theological Seminary,Glenside,PA
+sc-218751,Sherman College of Chiropractic,Boiling Springs,SC
+sc-220792,Meharry Medical College,Nashville,TN
+sc-220871,Memphis Theological Seminary,Memphis,TN
+sc-220996,Middle Tennessee School of Anesthesia Inc,Madison,TN
+sc-221670,Southern College of Optometry,Memphis,TN
+sc-223001,Austin Presbyterian Theological Seminary,Austin,TX
+sc-223223,Baylor College of Medicine,Houston,TX
+sc-224305,Dallas Theological Seminary,Dallas,TX
+sc-224712,Episcopal Theological Seminary of the Southwest,Austin,TX
+sc-227289,Oblate School of Theology,San Antonio,TX
+sc-228194,South Texas College of Law Houston,Houston,TX
+sc-228635,University of Texas Southwestern Medical Center,Dallas,TX
+sc-228866,Texas Chiropractic College Foundation Inc,Pasadena,TX
+sc-231068,SIT Graduate Institute,Brattleboro,VT
+sc-231147,Vermont Law and Graduate School,South Royalton,VT
+sc-233842,Union Presbyterian Seminary,Richmond,VA
+sc-237880,West Virginia School of Osteopathic Medicine,Lewisburg,WV
+sc-239169,Medical College of Wisconsin,Milwaukee,WI
+sc-239424,Nashotah House,Nashotah,WI
+sc-239637,Sacred Heart Seminary and School of Theology,Franklin,WI
+sc-240213,Wisconsin School of Professional Psychology,Milwaukee,WI
+sc-241793,Center for Advanced Studies On Puerto Rico and the Caribbean,San Juan,PR
+sc-242723,Inter American University of Puerto Rico-School of Law,San Juan,PR
+sc-243081,Ponce Health Sciences University,Ponce,PR
+sc-243498,Seminario Evangelico de Puerto Rico,San Juan,PR
+sc-245865,Antioch University-New England,Keene,NH
+sc-246789,HJ International Graduate School for Peace and Public Leadership,New York,NY
+sc-366368,New York Academy of Art,New York,NY
+sc-367954,University of St. Augustine for Health Sciences,San Marcos,CA
+sc-369002,Massachusetts School of Law,Andover,MA
+sc-374024,Adler Graduate School,Minnetonka,MN
+sc-381352,Colorado Chinese Medicine University,Denver,CO
+sc-381459,Phoenix Seminary,Scottsdale,AZ
+sc-384306,Acupuncture and Integrative Medicine College-Berkeley,Berkeley,CA
+sc-385415,Albert Einstein College of Medicine,Bronx,NY
+sc-401250,Yo San University of Traditional Chinese Medicine,Los Angeles,CA
+sc-404222,Inter American University of Puerto Rico-School of Optometry,Bayamon,PR
+sc-409254,Erikson Institute,Chicago,IL
+sc-409616,Roger Williams University School of Law,Bristol,RI
+sc-414966,Phillips Theological Seminary,Tulsa,OK
+sc-420246,Sonoran University of Health Sciences,Tempe,AZ
+sc-420705,Bakke Graduate University,Dallas,TX
+sc-423643,Midwestern University-Glendale,Glendale,AZ
+sc-429085,American College of Acupuncture and Oriental Med,Houston,TX
+sc-430704,Texas Health and Science University,Austin,TX
+sc-432348,Appalachian School of Law,Grundy,VA
+sc-434441,Florida College of Integrative Medicine,Orlando,FL
+sc-439020,Midwest College of Oriental Medicine-Skokie,Skokie,IL
+sc-439783,New York College of Traditional Chinese Medicine,Mineola,NY
+sc-439817,Northeastern Seminary,Rochester,NY
+sc-439914,Seattle Institute of East Asian Medicine,Seattle,WA
+sc-440004,Upper Valley Educators Institute,Lebanon,NH
+sc-440031,Keck Graduate Institute,Claremont,CA
+sc-441104,Richmont Graduate University,Chattanooga,TN
+sc-441131,The Seattle School of Theology & Psychology,Seattle,WA
+sc-442064,Won Institute of Graduate Studies,Warminster,PA
+sc-442295,Ave Maria School of Law,Naples,FL
+sc-442806,Edward Via College of Osteopathic Medicine,Blacksburg,VA
+sc-443030,Endeavor Health School of Nurse Anesthesia-DePaul University,Evanston,IL
+sc-443076,Hood Theological Seminary,Salisbury,NC
+sc-443702,Bexley Hall Seabury Western Theological Seminary Federation Inc.,Chicago,IL
+sc-444103,Byzantine Catholic Seminary of Saints Cyril and Methodius,Pittsburgh,PA
+sc-444699,Institute of Clinical Acupuncture & Oriental Medicine,Honolulu,HI
+sc-445054,Toyota Technological Institute at Chicago,Chicago,IL
+sc-445869,Divine Mercy University,Sterling,VA
+sc-446002,American Academy of Health and Wellness,Roseville,MN
+sc-446039,Arizona School of Acupuncture and Oriental Medicine,Tucson,AZ
+sc-447698,Phoenix Institute of Herbal Medicine & Acupuncture,Phoenix,AZ
+sc-447801,University of East-West Medicine,Sunnyvale,CA
+sc-448691,International Institute for Restorative Practices,Bethlehem,PA
+sc-449481,Dragon Rises College of Oriental Medicine,Bradenton,FL
+sc-449834,Virginia Beach Theological Seminary,Virginia Beach,VA
+sc-449922,Appalachian College of Pharmacy,Oakwood,VA
+sc-450304,Brite Divinity School,Fort Worth,TX
+sc-451079,Academy for Five Element Acupuncture,Gainesville,FL
+sc-451510,Charleston School of Law,Charleston,SC
+sc-454689,Taft University System,Denver,CO
+sc-454838,Institute of Taoist Education and Acupuncture,Louisville,CO
+sc-455099,Urshan Graduate School of Theology,Wentzville,MO
+sc-455178,Daoist Traditions College of Chinese Medical Arts,Asheville,NC
+sc-455406,Pacific Northwest University of Health Sciences,Yakima,WA
+sc-455433,The Chicago School at Anaheim,Anaheim,CA
+sc-455804,Institute of World Politics,Washington,DC
+sc-455813,Pontifical John Paul II Institute for Studies on Marriage and Family,Washington,DC
+sc-455992,Vermont College of Fine Arts,Montpelier,VT
+sc-457271,Academy for Jewish Religion California,Los Angeles,CA
+sc-459736,Touro University California,Vallejo,CA
+sc-459745,The Chicago School at Washington DC,Washington,DC
+sc-461120,Omega Graduate School,Dayton,TN
+sc-461139,Jung Tao School of Classical Chinese Medicine,Sugar Grove,NC
+sc-461485,Shepherds Theological Seminary,Cary,NC
+sc-462044,Institute for Doctoral Studies in the Visual Arts,Portland,ME
+sc-475228,The Colleges of Law at Santa Barbara,Santa Barbara,CA
+sc-475495,Rocky Mountain University of Health Professions,Provo,UT
+sc-480790,Rocky Vista University,Parker,CO
+sc-481030,Future Generations University,Franklin,WV
+sc-481094,Sotheby's Institute of Art-NY,New York,NY
+sc-481535,Sanford Burnham Prebys Medical Discovery Institute,La Jolla,CA
+sc-483975,Alabama College of Osteopathic Medicine,Dothan,AL
+sc-485403,High Tech High Graduate School of Education,San Diego,CA
+sc-486080,Elmezzi Graduate School of Molecular Medicine,Manhasset,NY
+sc-487153,The Chicago School at Xavier University of Louisiana,New Orleans,LA
+sc-487649,California Institute of Advanced Management,Alhambra,CA
+sc-487995,Alhambra Medical University,Alhambra,CA
+sc-488527,Arkansas Colleges of Health Education,Fort Smith,AR
+sc-488554,Burrell College of Osteopathic Medicine,Las Cruces,NM
+sc-488572,California Health Sciences University,Clovis,CA
+sc-488907,Wongu University of Oriental Medicine,Las Vegas,NV
+sc-489335,Institute of Buddhist Studies,Berkeley,CA
+sc-489858,West Coast University-Center for Graduate Studies,Los Angeles,CA
+sc-490106,Virginia University of Integrative Medicine,Vienna,VA
+sc-490373,Western Michigan University Homer Stryker M.D. School of Medicine,Kalamazoo,MI
+sc-491808,Meridian University,Petaluma,CA
+sc-492704,Ponce Health Sciences University-Centro Universitario de San Juan,San Juan,PR
+sc-493947,Idaho College of Osteopathic Medicine,Meridian,ID
+sc-493956,Cal Northern School of Law,Chico,CA
+sc-494010,Ponce Health Sciences University-St Louis,St. Louis,MO
+sc-495192,Alder Graduate School of Education,Redwood City,CA
+sc-495314,Hackensack Meridian School of Medicine,Nutley,NJ
+sc-496043,California University of Science and Medicine,Colton,CA
+sc-496469,Daybreak University,Anaheim,CA
+sc-497453,Jackson Theological Seminary,North Little Rock,AR
+sc-497693,Kansas Health Science University,Wichita,KS
+sc-497718,Academy for Jewish Religion,Yonkers,NY
+sc-498234,Larkin University,Miami,FL
+sc-499981,Southwest University of Naprapathic Medicine,Santa Fe,NM
+sc-500670,University of Fairfax,Salem,VA
+sc-501105,Lyon College-School of Dental Medicine,Little Rock,AR
+sc-501345,Chicago College of Oriental Medicine,Chicago,IL
+sc-501549,The Chicago School at Dallas,Plano,TX
