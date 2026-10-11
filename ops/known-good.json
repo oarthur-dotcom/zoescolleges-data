@@ -1,0 +1,5 @@
+{
+ "about": "Last versions verified good on the live site. Update after every verified release (postdeploy_verify.py ALL PASS).",
+ "app":  {"commit": "bf8010e", "verified": "2026-10-11 11:33 AM ET (postdeploy_verify ALL PASS)", "before_that": "fbf7ba1"},
+ "data": {"commit": "1b446a5", "verified": "2026-10-11 11:33 AM ET (postdeploy_verify ALL PASS)", "before_that": "e5bcd37"}
+}
