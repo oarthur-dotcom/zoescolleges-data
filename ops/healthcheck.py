@@ -51,6 +51,14 @@ for fn in ("zoe-ai", "transcript-read"):
     st, _ = get(f"https://zoescolleges.com/.netlify/functions/{fn}")
     if st is None: st, _ = get(f"https://zoescolleges.com/.netlify/functions/{fn}", 45)  # cold start retry
     check(f"Function {fn} responds", st is not None and st < 500, f"HTTP {st} to GET (no AI call)")
+# 4b exposure + headers (report only)
+exp=[f for f in ("migration-001-core.sql","netlify/functions/zoe-ai.mjs","package.json") if get("https://zoescolleges.com/"+f)[0]==200]
+print("INFO server files downloadable from the site:", exp or "none")
+try:
+    hdr=urllib.request.urlopen(urllib.request.Request("https://zoescolleges.com/",headers=UA,method="HEAD"),timeout=20).headers
+    print("INFO security headers:", {k:hdr.get(k) for k in ("X-Frame-Options","X-Content-Type-Options","Referrer-Policy","Permissions-Policy")})
+except Exception as e: print("INFO headers check failed", e)
+res["exposed_files"]=exp
 # 5 branch inventory
 inv = {}
 for name, r in (("app", APP), ("data", DATA)):
