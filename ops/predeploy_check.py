@@ -24,7 +24,9 @@ if "colleges.json" in files:
         open(new, "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{ref}:colleges.json"]))
         open(old, "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{base}:colleges.json"]))
         # Use the validator (and photo guard) from the branch being deployed, not whatever is checked out here.
-        for f in ("validate_catalog.py", "photo_guard.py", "photo-guard-allow.json"):
+        arch = [f for f in git("ls-tree", "-r", "--name-only", ref, "archive").splitlines() if os.path.basename(f).startswith("removed-photos")]
+        os.makedirs(os.path.join(t, "archive"), exist_ok=True)
+        for f in ("validate_catalog.py", "photo_guard.py", "photo-guard-allow.json", *arch):
             try: open(os.path.join(t, f), "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{ref}:{f}"], stderr=subprocess.DEVNULL))
             except subprocess.CalledProcessError: pass
         v = subprocess.run([sys.executable, os.path.join(t, "validate_catalog.py"), new, old], capture_output=True, text=True)
@@ -39,8 +41,8 @@ if "colleges.json" in files:
         ph = [i for i in oi if i in ni and oi[i].get("photo") and not ni[i].get("photo")]
         if ph:
             listed = set()
-            for f in files:
-                if f.startswith("archive/removed-photos") and f.endswith(".json"):
+            for f in git("ls-tree", "-r", "--name-only", ref, "archive").splitlines():
+                if os.path.basename(f).startswith("removed-photos") and f.endswith(".json"):
                     try: listed |= {r["id"] for r in json.loads(subprocess.check_output(["git", "-C", R, "show", f"{ref}:{f}"]))["removed"]}
                     except Exception: pass
             unlisted = [i for i in ph if i not in listed]
