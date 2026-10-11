@@ -1,0 +1,152 @@
+{
+ "note": "Photos KEPT but flagged for Obie/Muse review (right school but weak shot, or ambiguous).",
+ "flagged": [
+  {
+   "id": "sc-217934",
+   "name": "Columbia College",
+   "flag": "LIKELY WRONG",
+   "note": "LIKELY WRONG: same \"Columbia College\" file as Columbia College MO",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Columbia_-_Campus_View%2C_Columbia_College_01.jpg/1280px-Columbia_-_Campus_View%2C_Columbia_College_01.jpg"
+  },
+  {
+   "id": "sc-150145",
+   "name": "Bethel University",
+   "flag": "LIKELY WRONG",
+   "note": "LIKELY WRONG: one file \"BethelWestEnd.JPG\" shared by Bethel IN/MN/TN",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BethelWestEnd.JPG/1280px-BethelWestEnd.JPG"
+  },
+  {
+   "id": "sc-173160",
+   "name": "Bethel University",
+   "flag": "LIKELY WRONG",
+   "note": "LIKELY WRONG: shared BethelWestEnd.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BethelWestEnd.JPG/1280px-BethelWestEnd.JPG"
+  },
+  {
+   "id": "sc-219718",
+   "name": "Bethel University",
+   "flag": "LIKELY WRONG",
+   "note": "LIKELY WRONG: shared BethelWestEnd.JPG",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BethelWestEnd.JPG/1280px-BethelWestEnd.JPG"
+  },
+  {
+   "id": "sc-150066",
+   "name": "Anderson University",
+   "flag": "AMBIGUOUS",
+   "note": "AMBIGUOUS: same file as Anderson University SC",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Anderson_University_Campus.jpg/1280px-Anderson_University_Campus.jpg"
+  },
+  {
+   "id": "sc-217633",
+   "name": "Anderson University",
+   "flag": "AMBIGUOUS",
+   "note": "AMBIGUOUS: same file as Anderson University IN",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Anderson_University_Campus.jpg/1280px-Anderson_University_Campus.jpg"
+  },
+  {
+   "id": "sc-151801",
+   "name": "Indiana Wesleyan University-Marion",
+   "flag": "LIKELY WRONG",
+   "note": "LIKELY WRONG: file \"Kokomo.jpg\" (different city)",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Kokomo.jpg/1280px-Kokomo.jpg"
+  },
+  {
+   "id": "sc-151333",
+   "name": "Indiana University-Kokomo",
+   "flag": "LIKELY PORTRAIT",
+   "note": "LIKELY PORTRAIT: \"Office Chancellor photo shoot\"",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/20110815-Office_Chancellor_photo_shoot-IMG_6021-by-Indiana-University-Kokomo.jpg/1280px-20110815-Office_Chancellor_photo_shoot-IMG_6021-by-Indiana-University-Kokomo.jpg"
+  },
+  {
+   "id": "sc-232265",
+   "name": "Hampton University",
+   "flag": "PEOPLE",
+   "note": "PEOPLE: cheerleading team",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Hampton_University_Cheerleading_Team.jpg/1280px-Hampton_University_Cheerleading_Team.jpg"
+  },
+  {
+   "id": "sc-142461",
+   "name": "Northwest Nazarene University",
+   "flag": "PEOPLE",
+   "note": "PEOPLE: softball team",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/NNU_Crusaders_Softball_Team.JPG"
+  },
+  {
+   "id": "sc-235547",
+   "name": "Bastyr University",
+   "flag": "PEOPLE",
+   "note": "PEOPLE: \"Students_0006\"",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Students_0006.JPG/1280px-Students_0006.JPG"
+  },
+  {
+   "id": "sc-196592",
+   "name": "Touro University",
+   "flag": "UNCLEAR",
+   "note": "UNCLEAR: Wikis Take Manhattan scavenger-hunt photo",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/WTM3_TEAM_21_0003.jpg/1280px-WTM3_TEAM_21_0003.jpg"
+  },
+  {
+   "id": "sc-218070",
+   "name": "Furman University",
+   "flag": "GENERIC",
+   "note": "GENERIC: Greenville County panorama",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Greenville_County%2C_SC%2C_USA_-_panoramio_%281%29.jpg/1280px-Greenville_County%2C_SC%2C_USA_-_panoramio_%281%29.jpg"
+  },
+  {
+   "id": "sc-174783",
+   "name": "Saint Cloud State University",
+   "flag": "GENERIC",
+   "note": "GENERIC: Riverside Park, St. Cloud",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Riverside_Park%2C_Saint_Cloud%2C_Minnesota_-_Winter_%2824138428175%29.jpg/1280px-Riverside_Park%2C_Saint_Cloud%2C_Minnesota_-_Winter_%2824138428175%29.jpg"
+  },
+  {
+   "id": "sc-160630",
+   "name": "Southern University at New Orleans",
+   "flag": "UNCLEAR",
+   "note": "UNCLEAR: 2006 FEMA photo",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/FEMA_-_21725_-_Photograph_by_Marvin_Nauman_taken_on_01-23-2006_in_Louisiana.jpg/1280px-FEMA_-_21725_-_Photograph_by_Marvin_Nauman_taken_on_01-23-2006_in_Louisiana.jpg"
+  },
+  {
+   "id": "sc-215266",
+   "name": "University of Pittsburgh-Bradford",
+   "flag": "UNCLEAR",
+   "note": "UNCLEAR: \"Duke_Engineering_Building\"",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Duke_Engineering_Building.jpg/1280px-Duke_Engineering_Building.jpg"
+  },
+  {
+   "id": "sc-177986",
+   "name": "Logan University",
+   "flag": "CHECK RIGHTS",
+   "note": "CHECK RIGHTS: school website header image (\"Campus-Visit-Main-Header.jpg\")",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Campus-Visit-Main-Header.jpg"
+  },
+  {
+   "id": "sc-132602",
+   "name": "Bethune-Cookman University",
+   "flag": "HISTORIC PEOPLE PHOTO",
+   "note": "HISTORIC PEOPLE PHOTO: Dr. Bethune with students (Gordon Parks)",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Daytona_Beach%2C_Florida._Bethune-Cookman_College._Dr._Bethune_saying_goodbye_to_a_group_of_students_after_resigning_as_president_of_the_college_LCCN2017843192.jpg/1280px-thumbnail.jpg"
+  },
+  {
+   "id": "sc-140571",
+   "name": "Morris Brown College",
+   "flag": "STADIUM",
+   "note": "STADIUM: 1996 Olympic-era stadium",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Morris_Brown_College_Stadium_%281996%29.JPEG/1280px-Morris_Brown_College_Stadium_%281996%29.JPEG"
+  },
+  {
+   "id": "sc-156125",
+   "name": "Wichita State University",
+   "flag": "ARENA",
+   "note": "ARENA: Charles Koch Arena (minor)",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Charles-Koch-Arena-WSU.jpg/1280px-Charles-Koch-Arena-WSU.jpg"
+  },
+  {
+   "id": "sc-107600",
+   "name": "Philander Smith University",
+   "flag": "UNCLEAR",
+   "note": "UNCLEAR: U.M. Rose School building",
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/U.M._Rose_School.JPG/1280px-U.M._Rose_School.JPG"
+  }
+ ]
+}
