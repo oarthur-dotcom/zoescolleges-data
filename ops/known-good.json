@@ -1,13 +1,13 @@
 {
  "about": "Last versions verified good on the live site. Update after every verified release (postdeploy_verify.py ALL PASS).",
  "app": {
-  "commit": "a59eac7",
-  "verified": "2026-10-11 12:33 PM ET (postdeploy_verify 12/13 PASS; only campus-feeds.json CDN cache lagging on some edges)",
-  "before_that": "bf8010e"
+  "commit": "828dfa0",
+  "verified": "2026-10-11 1:30 PM ET (postdeploy_verify 12/13 PASS; only colleges.json CDN cache lagging on some edges)",
+  "before_that": "a59eac7"
  },
  "data": {
-  "commit": "942be00",
-  "verified": "2026-10-11 12:33 PM ET (catalog, deadlines, net price served correctly)",
-  "before_that": "1b446a5"
+  "commit": "d2af311",
+  "verified": "2026-10-11 1:30 PM ET (deadlines, net price, campus feeds served exactly; catalog new on most edges)",
+  "before_that": "942be00"
  }
 }
