@@ -1,0 +1,544 @@
+{
+ "note": "Photos removed from colleges.json on 2026-10-11 (fix #5). Full photo objects kept so any can be restored.",
+ "removed": [
+  {
+   "id": "sc-117557",
+   "name": "Lincoln University",
+   "reason": "WRONG SCHOOL: Lincoln University, New Zealand (same file on 3 US schools)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg/1280px-Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg",
+    "credit": "Michal Klajban via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpine_Club_Building,_Lincoln_University_Campus,_New_Zealand.jpg"
+   }
+  },
+  {
+   "id": "sc-177940",
+   "name": "Lincoln University",
+   "reason": "WRONG SCHOOL: Lincoln University, New Zealand",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg/1280px-Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg",
+    "credit": "Michal Klajban via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpine_Club_Building,_Lincoln_University_Campus,_New_Zealand.jpg"
+   }
+  },
+  {
+   "id": "sc-213598",
+   "name": "Lincoln University",
+   "reason": "WRONG SCHOOL: Lincoln University, New Zealand",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg/1280px-Alpine_Club_Building%2C_Lincoln_University_Campus%2C_New_Zealand.jpg",
+    "credit": "Michal Klajban via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alpine_Club_Building,_Lincoln_University_Campus,_New_Zealand.jpg"
+   }
+  },
+  {
+   "id": "sc-161457",
+   "name": "University of New England",
+   "reason": "WRONG SCHOOL: University of New England, Armidale NSW Australia",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Flower_in_University_of_New_England%2C_Armidale%2C_NSW.jpg/1280px-Flower_in_University_of_New_England%2C_Armidale%2C_NSW.jpg",
+    "credit": "Beeyan via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flower_in_University_of_New_England,_Armidale,_NSW.jpg"
+   }
+  },
+  {
+   "id": "sc-165671",
+   "name": "Emmanuel College",
+   "reason": "WRONG SCHOOL: Emmanuel College, Cambridge UK",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Cmglee_Cambridge_Emmanuel_College_Front_Court.jpg/1280px-Cmglee_Cambridge_Emmanuel_College_Front_Court.jpg",
+    "credit": "Cmglee via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Emmanuel_College_Front_Court.jpg"
+   }
+  },
+  {
+   "id": "sc-153108",
+   "name": "Central College",
+   "reason": "WRONG SCHOOL: City of Glasgow College, Scotland",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/DSCN4424_Central_College_buildings_from_City_of_Glasgow_College_City_Campus.jpg/1280px-DSCN4424_Central_College_buildings_from_City_of_Glasgow_College_City_Campus.jpg",
+    "credit": "AlasdairW via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSCN4424_Central_College_buildings_from_City_of_Glasgow_College_City_Campus.jpg"
+   }
+  },
+  {
+   "id": "sc-179946",
+   "name": "Westminster College",
+   "reason": "WRONG SCHOOL: City of Westminster College, London",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg/1280px-City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg",
+    "credit": "Libby norman via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg"
+   }
+  },
+  {
+   "id": "sc-216807",
+   "name": "Westminster College",
+   "reason": "WRONG SCHOOL: City of Westminster College, London",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg/1280px-City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg",
+    "credit": "Libby norman via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_Westminster_College_Paddington_Green_Campus_viewed_from_Paddington_Green.jpg"
+   }
+  },
+  {
+   "id": "sc-203085",
+   "name": "Heidelberg University",
+   "reason": "WRONG SCHOOL: Heidelberg, Germany (statue in Altstadt)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Friedrichsbau_Heidelberg_Altstadt_Bunsen_Statue.JPG/1280px-Friedrichsbau_Heidelberg_Altstadt_Bunsen_Statue.JPG",
+    "credit": "4028mdk09 via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Friedrichsbau_Heidelberg_Altstadt_Bunsen_Statue.JPG"
+   }
+  },
+  {
+   "id": "sc-221971",
+   "name": "Union University",
+   "reason": "WRONG SCHOOL: Beijing Union University",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Beijing_Union_University_Main_Campus_%2820210418141123%29.jpg/1280px-Beijing_Union_University_Main_Campus_%2820210418141123%29.jpg",
+    "credit": "N509FZ via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_Union_University_Main_Campus_(20210418141123).jpg"
+   }
+  },
+  {
+   "id": "sc-236133",
+   "name": "Northwest University",
+   "reason": "WRONG SCHOOL: former Northwest University, Kano, Nigeria",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/A_moody_photo_of_gidan_ado_bayero_formerly_northwest_university_city_campus%2C_KANO_NIGERIA.jpg/1280px-A_moody_photo_of_gidan_ado_bayero_formerly_northwest_university_city_campus%2C_KANO_NIGERIA.jpg",
+    "credit": "Hidden lens via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_moody_photo_of_gidan_ado_bayero_formerly_northwest_university_city_campus,_KANO_NIGERIA.jpg"
+   }
+  },
+  {
+   "id": "sc-150774",
+   "name": "Holy Cross College",
+   "reason": "WRONG SCHOOL: Holy Cross College of Calinan (Philippines)",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Holy_cross_college_of_Calinan_reconstruction_talomo_campus.png",
+    "credit": "Rowrow_yo_Boat via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_cross_college_of_Calinan_reconstruction_talomo_campus.png"
+   }
+  },
+  {
+   "id": "sc-181853",
+   "name": "York University",
+   "reason": "WRONG SCHOOL: York University (Toronto) CS building",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/YorkUComputerScienceAndEngineeringBuilding.jpg/1280px-YorkUComputerScienceAndEngineeringBuilding.jpg",
+    "credit": "Raysonho @ Open Grid Scheduler / Grid Engine via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:YorkUComputerScienceAndEngineeringBuilding.jpg"
+   }
+  },
+  {
+   "id": "sc-225201",
+   "name": "Hallmark University",
+   "reason": "NOT A CAMPUS: FedEx Boeing 727 aircraft named \"Hallmark University\"",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/N168FE_Hallmark_University_%28FEDEX%29_1966_Boeing_727-22%28F%29_serial_18865_%2824572030866%29.jpg/1280px-N168FE_Hallmark_University_%28FEDEX%29_1966_Boeing_727-22%28F%29_serial_18865_%2824572030866%29.jpg",
+    "credit": "Tomás Del Coro  from Las Vegas, Nevada, USA via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:N168FE_Hallmark_University_(FEDEX)_1966_Boeing_727-22(F)_serial_18865_(24572030866).jpg"
+   }
+  },
+  {
+   "id": "sc-217891",
+   "name": "Clinton College",
+   "reason": "NOT A CAMPUS: photo of President Bill Clinton shaking hands with a coach",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Coach_Charlie_Jackson_and_President_Bill_Clinton_Handshake.jpg/1280px-Coach_Charlie_Jackson_and_President_Bill_Clinton_Handshake.jpg",
+    "credit": "CSMGMT15 via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coach_Charlie_Jackson_and_President_Bill_Clinton_Handshake.jpg"
+   }
+  },
+  {
+   "id": "sc-216366",
+   "name": "Thomas Jefferson University",
+   "reason": "NOT A CAMPUS: Melania Trump at Jefferson hospital",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/First_Lady_Melania_Trump_at_the_Thomas_Jefferson_University_Hospital_Pavilion_Building_%2845586590852%29.jpg/1280px-First_Lady_Melania_Trump_at_the_Thomas_Jefferson_University_Hospital_Pavilion_Building_%2845586590852%29.jpg",
+    "credit": "The White House  from Washington, DC via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Lady_Melania_Trump_at_the_Thomas_Jefferson_University_Hospital_Pavilion_Building_(45586590852).jpg"
+   }
+  },
+  {
+   "id": "sc-181428",
+   "name": "University of Nebraska Medical Center",
+   "reason": "NOT A CAMPUS: Gov. Pete Ricketts press conference",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pete_Ricketts_speaks_during_a_press_conference_at_the_University_of_Nebraska_Medical_Center_campus.jpg/1280px-Pete_Ricketts_speaks_during_a_press_conference_at_the_University_of_Nebraska_Medical_Center_campus.jpg",
+    "credit": "(Nebraska National Guard photo by Sgt. Lisa Crawford) via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pete_Ricketts_speaks_during_a_press_conference_at_the_University_of_Nebraska_Medical_Center_campus.jpg"
+   }
+  },
+  {
+   "id": "sc-229814",
+   "name": "West Texas A & M University",
+   "reason": "NOT A CAMPUS: museum mural depicting bison slaughter",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%22Hide_Hunters%2C%22_a_1956_mural_by_Harold_Dow_Bugbee_that_depicts_the_slaughter_of_western_bison_for_their_hides_at_the_Panhandle-Plains_Historical_Museum_on_the_campus_of_West_Texas_A%26M_University_LCCN2014633866.tif/lossy-page1-1280px-thumbnail.tif.jpg",
+    "credit": "Carol M. Highsmith via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Hide_Hunters,%22_a_1956_mural_by_Harold_Dow_Bugbee_that_depicts_the_slaughter_of_western_bison_for_their_hides_at_the_Panhandle-Plains_Historical_Museum_on_the_campus_of_West_Texas_A%26M_University_LCCN2014633866.tif"
+   }
+  },
+  {
+   "id": "sc-197601",
+   "name": "Yeshiva Karlin Stolin",
+   "reason": "NOT A CAMPUS: interior of a synagogue (Hebrew filename)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%D7%A4%D7%A0%D7%99%D7%9D_%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A0%D7%A1%D7%AA.jpg/1280px-%D7%A4%D7%A0%D7%99%D7%9D_%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A0%D7%A1%D7%AA.jpg",
+    "credit": "אי מי via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%D7%A4%D7%A0%D7%99%D7%9D_%D7%91%D7%99%D7%AA_%D7%94%D7%9B%D7%A0%D7%A1%D7%AA.jpg"
+   }
+  },
+  {
+   "id": "sc-181604",
+   "name": "College of Saint Mary",
+   "reason": "WRONG SCHOOL + YEARBOOK: College of Saint Mary of the Springs (Ohio) 1951 yearbook page",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/College_of_Saint_Mary_of_the_Springs_yearbook_1951_-_DPLA_-_e30b8d5f94287b8cfb802d11d7c059cb_%28page_2%29.jpg/1280px-College_of_Saint_Mary_of_the_Springs_yearbook_1951_-_DPLA_-_e30b8d5f94287b8cfb802d11d7c059cb_%28page_2%29.jpg",
+    "credit": "DPLA bot via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:College_of_Saint_Mary_of_the_Springs_yearbook_1951_-_DPLA_-_e30b8d5f94287b8cfb802d11d7c059cb_(page_2).jpg"
+   }
+  },
+  {
+   "id": "sc-180832",
+   "name": "Clarkson College",
+   "reason": "WRONG SCHOOL: WWI soldiers at Clarkson College of Technology, Potsdam NY",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/VOCATIONAL_TRAINING_FOR_SOLDIERS_AT_THE_CLARKSON_COLLEGE_OF_TECHNOLOGY%2C_POTSDAM%2C_N.Y._Wood_working_shop_for_soldiers_receiving_vocational_training_-_DPLA_-_beff11f73f10d54e980a0d84e7358f68.jpg/1280px-thumbnail.jpg",
+    "credit": "Department of Defense. Department of the Army. Office of the Deputy Chief of Staff for Operations. U.S. Army Audiovisual Center. ca. 1974-5/15/1984 via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:VOCATIONAL_TRAINING_FOR_SOLDIERS_AT_THE_CLARKSON_COLLEGE_OF_TECHNOLOGY,_POTSDAM,_N.Y._Wood_working_shop_for_soldiers_receiving_vocational_training_-_DPLA_-_beff11f73f10d54e980a0d84e7358f68.jpg"
+   }
+  },
+  {
+   "id": "sc-144892",
+   "name": "Eastern Illinois University",
+   "reason": "WRONG PLACE: football game at BYU stadium, Provo UT",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/BYU_Entering_the_Field%2C_Brigham_Young_University_Cougars_45%2C_Eastern_Illinois_University_Panthers_10%2C_LaVell_Edwards_Stadium%2C_Provo%2C_Utah_%2868941925%29.jpg",
+    "credit": "Ken Lund  from Reno, Nevada, USA via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BYU_Entering_the_Field,_Brigham_Young_University_Cougars_45,_Eastern_Illinois_University_Panthers_10,_LaVell_Edwards_Stadium,_Provo,_Utah_(68941925).jpg"
+   }
+  },
+  {
+   "id": "sc-150677",
+   "name": "Grace College and Theological Seminary",
+   "reason": "NOT A CAMPUS: baseball game vs Northwestern Ohio at Racer Field",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/University_of_Northwestern_Ohio_vs_Grace_College%2C_Baseball_at_Racer_Field.png/1280px-University_of_Northwestern_Ohio_vs_Grace_College%2C_Baseball_at_Racer_Field.png",
+    "credit": "WOSN via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Northwestern_Ohio_vs_Grace_College,_Baseball_at_Racer_Field.png"
+   }
+  },
+  {
+   "id": "sc-163851",
+   "name": "Salisbury University",
+   "reason": "NOT A CAMPUS: pole-vault at a CNU (Virginia) track meet",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/CNU_Captains_Classic_Track_and_Field_meet_women%27s_pole_vault_Salisbury_University_Virginia_Maryland_NCAA_college_%2817190768392%29.jpg/1280px-CNU_Captains_Classic_Track_and_Field_meet_women%27s_pole_vault_Salisbury_University_Virginia_Maryland_NCAA_college_%2817190768392%29.jpg",
+    "credit": "c w via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CNU_Captains_Classic_Track_and_Field_meet_women%27s_pole_vault_Salisbury_University_Virginia_Maryland_NCAA_college_(17190768392).jpg"
+   }
+  },
+  {
+   "id": "sc-139579",
+   "name": "South University-Savannah",
+   "reason": "WRONG CAMPUS: South University Novi, Michigan",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/South_University_Campus_Novi_Michigan.JPG/1280px-South_University_Campus_Novi_Michigan.JPG",
+    "credit": "Dwight Burdette via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:South_University_Campus_Novi_Michigan.JPG"
+   }
+  },
+  {
+   "id": "sc-148593",
+   "name": "St. John's College",
+   "reason": "WRONG SCHOOL: St. John's College Santa Fe NM (IL entry is a nursing college)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/St_Johns_College_Santa_Fe.JPG/1280px-St_Johns_College_Santa_Fe.JPG",
+    "credit": "Capt Swing via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Johns_College_Santa_Fe.JPG"
+   }
+  },
+  {
+   "id": "sc-154101",
+   "name": "Northwestern College",
+   "reason": "WRONG SCHOOL: Northwestern College, Wisconsin (1975 aerial)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Northwestern_College%2C_Wisconsin%2C_1975_Aerial_Photo.jpg/1280px-Northwestern_College%2C_Wisconsin%2C_1975_Aerial_Photo.jpg",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Northwestern_College,_Wisconsin,_1975_Aerial_Photo.jpg"
+   }
+  },
+  {
+   "id": "sc-153834",
+   "name": "Luther College",
+   "reason": "WRONG SCHOOL: Dr. Martin Luther College (MN) 1950s aerial",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Dr._Martin_Luther_College_Aerial_Photo_-_1950s.jpg/1280px-Dr._Martin_Luther_College_Aerial_Photo_-_1950s.jpg",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Martin_Luther_College_Aerial_Photo_-_1950s.jpg"
+   }
+  },
+  {
+   "id": "sc-154721",
+   "name": "Bethany College",
+   "reason": "WRONG SCHOOL: Bethany College, West Virginia",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Grand_entrance_to_Bethany_College_in_Bethany%2C_West_Virginia_LCCN2015632061.tif/lossy-page1-1280px-Grand_entrance_to_Bethany_College_in_Bethany%2C_West_Virginia_LCCN2015632061.tif.jpg",
+    "credit": "Carol M. Highsmith via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Grand_entrance_to_Bethany_College_in_Bethany,_West_Virginia_LCCN2015632061.tif"
+   }
+  },
+  {
+   "id": "sc-155937",
+   "name": "Sterling College",
+   "reason": "WRONG SCHOOL: uploaded by Sterling College, Craftsbury VT",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sterling_College_IMG_9330_%2848755611597%29.jpg/1280px-Sterling_College_IMG_9330_%2848755611597%29.jpg",
+    "credit": "Sterling College  from Craftsbury Common, VT, USA via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sterling_College_IMG_9330_(48755611597).jpg"
+   }
+  },
+  {
+   "id": "sc-180595",
+   "name": "Rocky Mountain College",
+   "reason": "WRONG SCHOOL: Rocky Mountain College of Art + Design (Denver) campus",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RMCAD_Campus_030.jpg/1280px-RMCAD_Campus_030.jpg",
+    "credit": "Jrubald via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RMCAD_Campus_030.jpg"
+   }
+  },
+  {
+   "id": "sc-176947",
+   "name": "Central Methodist University-College of Liberal Arts and Sciences",
+   "reason": "WRONG SCHOOL: Dallas Hall = Southern Methodist University",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Dallas_Hall.jpg/1280px-Dallas_Hall.jpg",
+    "credit": "Spencerjc1 via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Hall.jpg"
+   }
+  },
+  {
+   "id": "sc-123943",
+   "name": "Marshall B Ketchum University",
+   "reason": "WRONG SCHOOL: Drinko Library = Marshall University WV",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/JohnDeaverDrinkoLibrary.jpg/1280px-JohnDeaverDrinkoLibrary.jpg",
+    "credit": "Kuyler McComas ( Kuyman ) via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JohnDeaverDrinkoLibrary.jpg"
+   }
+  },
+  {
+   "id": "sc-234173",
+   "name": "Virginia Wesleyan University",
+   "reason": "WRONG SCHOOL: Agnes Howard Hall = West Virginia Wesleyan, Buckhannon WV",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/AGNES_HOWARD_HALL%2C_BUCKHANNON%2C_UPSHUR_COUNTY%2C_WV.jpg/1280px-AGNES_HOWARD_HALL%2C_BUCKHANNON%2C_UPSHUR_COUNTY%2C_WV.jpg",
+    "credit": "JERRYE & ROY KLOTZ, M.D. via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AGNES_HOWARD_HALL,_BUCKHANNON,_UPSHUR_COUNTY,_WV.jpg"
+   }
+  },
+  {
+   "id": "sc-219082",
+   "name": "Dakota State University",
+   "reason": "WRONG SCHOOL: South Dakota State Ag Heritage Museum",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/SDSUAgHeritageMuseum.JPG/1280px-SDSUAgHeritageMuseum.JPG",
+    "credit": "Jake DeGroot via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SDSUAgHeritageMuseum.JPG"
+   }
+  },
+  {
+   "id": "sc-176664",
+   "name": "Mission University",
+   "reason": "WRONG SCHOOL: International Justice Mission, University of Virginia",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/International_Justice_Mission%2C_University_of_Virginia.jpg/1280px-International_Justice_Mission%2C_University_of_Virginia.jpg",
+    "credit": "Smash the Iron Cage via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:International_Justice_Mission,_University_of_Virginia.jpg"
+   }
+  },
+  {
+   "id": "sc-183257",
+   "name": "University of New Hampshire College of Professional Studies Online",
+   "reason": "WRONG SCHOOL: Dartmouth College campus",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dartmouth_College_campus_2007-10-20_09.JPG/1280px-Dartmouth_College_campus_2007-10-20_09.JPG",
+    "credit": "Kane5187 via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dartmouth_College_campus_2007-10-20_09.JPG"
+   }
+  },
+  {
+   "id": "university-of-new-hampshire",
+   "name": "University of New Hampshire-Main Campus",
+   "reason": "WRONG CAMPUS: UNH Manchester urban campus (Main is Durham)",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/University_of_New_Hampshire_Urban_Campus_%28August_2015%29.jpg",
+    "credit": "Millyard800 via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_New_Hampshire_Urban_Campus_(August_2015).jpg"
+   }
+  },
+  {
+   "id": "sc-184603",
+   "name": "Fairleigh Dickinson University-Metropolitan Campus",
+   "reason": "WRONG CAMPUS: Florham campus dorms",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/FD_Florham_dorms_jeh.jpg/1280px-FD_Florham_dorms_jeh.jpg",
+    "credit": "Jim.henderson via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:FD_Florham_dorms_jeh.jpg"
+   }
+  },
+  {
+   "id": "sc-214829",
+   "name": "Pennsylvania State University-Penn State York",
+   "reason": "WRONG CAMPUS: Penn State Old Main (University Park)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Penn_state_old_main_summer.jpg/1280px-Penn_state_old_main_summer.jpg",
+    "credit": "George Chriss via Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Penn_state_old_main_summer.jpg"
+   }
+  },
+  {
+   "id": "sc-186432",
+   "name": "Saint Peter's University",
+   "reason": "WRONG INSTITUTION: Saint Peter's University Hospital, New Brunswick",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Peter%27s_University_Hospital.jpg",
+    "credit": "Metaprinter via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_University_Hospital.jpg"
+   }
+  },
+  {
+   "id": "sc-227863",
+   "name": "University of St Thomas",
+   "reason": "WRONG SCHOOL: same file as St Thomas MN (uploader Mulad, MN)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/St_Thomas_campus.jpg/1280px-St_Thomas_campus.jpg",
+    "credit": "Mulad via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Thomas_campus.jpg"
+   }
+  },
+  {
+   "id": "sc-124292",
+   "name": "Thomas Aquinas College",
+   "reason": "WRONG SCHOOL: file is St. Thomas Aquinas College (NY)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/9.4.07StThomasAquinasCollegebyLuigiNovi.jpg/1280px-9.4.07StThomasAquinasCollegebyLuigiNovi.jpg",
+    "credit": "Nightscream via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:9.4.07StThomasAquinasCollegebyLuigiNovi.jpg"
+   }
+  },
+  {
+   "id": "university-of-arizona",
+   "name": "University of Arizona",
+   "reason": "LIKELY WRONG: \"ASU_nima\" = Arizona State",
+   "photo": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/ASU_nima_%283%29.JPG",
+    "credit": "Zereshk via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ASU_nima_(3).JPG"
+   }
+  },
+  {
+   "id": "sc-163268",
+   "name": "University of Maryland-Baltimore County",
+   "reason": "NOT A CAMPUS: highway (MD-166) exit sign view",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2019-06-05_16_41_01_View_north_along_Maryland_State_Route_166_%28Metropolitan_Boulevard%29_at_the_exit_for_the_University_of_Maryland_-_Baltimore_County_Campus_in_Catonsville%2C_Baltimore_County%2C_Maryland.jpg/1280px-thumbnail.jpg",
+    "credit": "Famartin via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-06-05_16_41_01_View_north_along_Maryland_State_Route_166_(Metropolitan_Boulevard)_at_the_exit_for_the_University_of_Maryland_-_Baltimore_County_Campus_in_Catonsville,_Baltimore_County,_Maryland.jpg"
+   }
+  },
+  {
+   "id": "sc-216597",
+   "name": "Villanova University",
+   "reason": "NOT A CAMPUS: view along U.S. Route 30 from overpass",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2022-10-08_15_36_54_View_west_along_U.S._Route_30_%28Lancaster_Avenue%29_from_the_pedestrian_overpass_at_Villanova_University_in_Radnor_Township%2C_Delaware_County%2C_Pennsylvania.jpg/1280px-thumbnail.jpg",
+    "credit": "Famartin via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-10-08_15_36_54_View_west_along_U.S._Route_30_(Lancaster_Avenue)_from_the_pedestrian_overpass_at_Villanova_University_in_Radnor_Township,_Delaware_County,_Pennsylvania.jpg"
+   }
+  },
+  {
+   "id": "sc-216010",
+   "name": "Shippensburg University of Pennsylvania",
+   "reason": "NOT A CAMPUS: DOI Secretary visit/commencement event photo",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Assignment-_48-DPA-05-09-08_SOI_K_Shipp_Grad%29_Visit_of_Secretary_Dirk_Kempthorne_to_Shippensburg_University%2C_Shippensburg%2C_Pennsylvania%2C_%28where_he_delivered_address_at_the%29_graduate_-_DPLA_-_151f451f77a09c7190b72d2964ef91f8.JPG/1280px-thumbnail.jpg",
+    "credit": "Department of the Interior. National Business Center. Administrative Operations Directorate. Division of Employee and Public Services. Creative Communications Branch. Photographic Services. 2000 via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Assignment-_48-DPA-05-09-08_SOI_K_Shipp_Grad)_Visit_of_Secretary_Dirk_Kempthorne_to_Shippensburg_University,_Shippensburg,_Pennsylvania,_(where_he_delivered_address_at_the)_graduate_-_DPLA_-_151f451f77a09c7190b72d2964ef91f8.JPG"
+   }
+  },
+  {
+   "id": "sc-130989",
+   "name": "Goldey-Beacom College",
+   "reason": "NOT CAMPUS: 1906 Market Street, Wilmington",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/1906-09-21_Market_Street_lookng_North_from_Eighth%2C_Wilmington%2C_Del_A.jpg/1280px-1906-09-21_Market_Street_lookng_North_from_Eighth%2C_Wilmington%2C_Del_A.jpg",
+    "credit": "George A. Wolf via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1906-09-21_Market_Street_lookng_North_from_Eighth,_Wilmington,_Del_A.jpg"
+   }
+  },
+  {
+   "id": "sc-131113",
+   "name": "Wilmington University",
+   "reason": "NOT CAMPUS: Old Custom House, Wilmington",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Old_custom_House.JPG/1280px-Old_custom_House.JPG",
+    "credit": "Smallbones via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_custom_House.JPG"
+   }
+  }
+ ]
+}
