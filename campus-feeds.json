@@ -1,736 +1,1951 @@
 {
-"about": "Reviewed school news feeds (RSS/Atom) for Campus Pulse. Only these URLs are ever fetched. Checked 2026-10-11: feed works, newest story within 120 days, feed is on the school's own web domain.",
-"checked": "2026-10-11",
-"schools": {
-"sc-100751": {
-"news": "https://news.ua.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-101587": {
-"news": "https://www.uwa.edu/feed/",
-"newest": "2026-10-04",
-"checked": "2026-10-11"
-},
-"sc-102049": {
-"news": "https://www.samford.edu/news/feed.xml",
-"newest": "2026-10-11",
-"checked": "2026-10-11"
-},
-"sc-102368": {
-"news": "https://today.troy.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-104717": {
-"news": "https://news.gcu.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-105330": {
-"news": "https://in.nau.edu/news/feed/",
-"newest": "2026-10-10",
-"checked": "2026-10-11"
-},
-"sc-110404": {
-"news": "https://www.caltech.edu/about/news/rss",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-110547": {
-"news": "https://news.csudh.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-110556": {
-"news": "https://today.fresnostate.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-110565": {
-"news": "https://news.fullerton.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-110608": {
-"news": "https://news.csun.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-110635": {
-"news": "https://news.berkeley.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-110653": {
-"news": "https://news.uci.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-111948": {
-"news": "https://news.chapman.edu/feed/",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-111966": {
-"news": "https://www.cdrewu.edu/feed/",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-119605": {
-"news": "https://www.nu.edu/feed/",
-"newest": "2026-10-05",
-"checked": "2026-10-11"
-},
-"sc-122612": {
-"news": "https://www.usfca.edu/news/feed.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-122931": {
-"news": "https://news.scu.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-123961": {
-"news": "https://www.usc.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"colorado-college": {
-"news": "https://www.coloradocollege.edu/newsevents/newsroom/index.rss",
-"newest": "2026-07-16",
-"checked": "2026-10-11"
-},
-"sc-128328": {
-"news": "https://www.usafa.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-129020": {
-"news": "https://today.uconn.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-130183": {
-"news": "https://post.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-130493": {
-"news": "https://news.southernct.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-130624": {
-"news": "https://uscga.edu/feed/",
-"newest": "2026-09-18",
-"checked": "2026-10-11"
-},
-"sc-132903": {
-"news": "https://www.ucf.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-133951": {
-"news": "https://news.fiu.edu/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-134097": {
-"news": "https://news.fsu.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-136215": {
-"news": "https://news.nova.edu/feed/",
-"newest": "2026-09-29",
-"checked": "2026-10-11"
-},
-"sc-138275": {
-"news": "https://warner.edu/feed/",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-138354": {
-"news": "https://news.uwf.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-139931": {
-"news": "https://www.georgiasouthern.edu/feed",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-139940": {
-"news": "https://news.gsu.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-139959": {
-"news": "https://news.uga.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-140447": {
-"news": "https://den.mercer.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-142115": {
-"news": "https://www.boisestate.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-142294": {
-"news": "https://collegeofidaho.edu/feed/",
-"newest": "2026-09-23",
-"checked": "2026-10-11"
-},
-"sc-145600": {
-"news": "https://today.uic.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-145813": {
-"news": "https://news.illinoisstate.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-147703": {
-"news": "https://newsroom.niu.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-149222": {
-"news": "https://siu.edu/feed.xml",
-"newest": "2026-10-11",
-"checked": "2026-10-11"
-},
-"sc-151324": {
-"news": "https://www.indianastate.edu/news/rss",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-152080": {
-"news": "https://news.nd.edu/news.rss",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-153603": {
-"news": "https://www.news.iastate.edu/rss.xml",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-157289": {
-"news": "https://louisville.edu/news/rss.xml",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-159382": {
-"news": "https://www.lsua.edu/feed.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-159966": {
-"news": "https://www.nicholls.edu/news/feed/",
-"newest": "2026-09-21",
-"checked": "2026-10-11"
-},
-"sc-160038": {
-"news": "https://www.nsula.edu/feed/",
-"newest": "2026-10-11",
-"checked": "2026-10-11"
-},
-"sc-160755": {
-"news": "https://news.tulane.edu/rss",
-"newest": "2026-09-18",
-"checked": "2026-10-11"
-},
-"sc-160977": {
-"news": "https://www.bates.edu/news/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-161554": {
-"news": "https://usm.maine.edu/news/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-163268": {
-"news": "https://umbc.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-164465": {
-"news": "https://www.amherst.edu/news/feed",
-"newest": "2026-09-24",
-"checked": "2026-10-11"
-},
-"sc-166027": {
-"news": "https://news.harvard.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"umass-amherst": {
-"news": "https://www.umass.edu/news/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-170286": {
-"news": "https://www.hillsdale.edu/feed/",
-"newest": "2026-10-01",
-"checked": "2026-10-11"
-},
-"sc-170976": {
-"news": "https://news.umich.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-171128": {
-"news": "https://www.mtu.edu/mtu_resources/php/news/rss/?site=news,magazine",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-171456": {
-"news": "https://news.nmu.edu/rss.xml",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-173258": {
-"news": "https://www.carleton.edu/news/feed/",
-"newest": "2026-09-30",
-"checked": "2026-10-11"
-},
-"sc-173902": {
-"news": "https://www.macalester.edu/news/feed/",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-174783": {
-"news": "https://today.stcloudstate.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-174844": {
-"news": "https://wp.stolaf.edu/news/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-174914": {
-"news": "https://news.stthomas.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-175342": {
-"news": "https://www.alcorn.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-175856": {
-"news": "https://www.jsums.edu/feed/",
-"newest": "2026-06-30",
-"checked": "2026-10-11"
-},
-"sc-175980": {
-"news": "https://millsaps.edu/feed/",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-178402": {
-"news": "https://www.umkc.edu/news/feed.xml",
-"newest": "2026-08-20",
-"checked": "2026-10-11"
-},
-"sc-178411": {
-"news": "https://news.mst.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-178420": {
-"news": "https://blogs.umsl.edu/news/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-178721": {
-"news": "https://www.park.edu/news/feed/",
-"newest": "2026-09-17",
-"checked": "2026-10-11"
-},
-"sc-179566": {
-"news": "https://news.missouristate.edu/feed/",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-181464": {
-"news": "https://news.unl.edu/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-182670": {
-"news": "https://home.dartmouth.edu/rss.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-186131": {
-"news": "https://www.princeton.edu/feed",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-186201": {
-"news": "https://www.ramapo.edu/news/feed/",
-"newest": "2026-10-01",
-"checked": "2026-10-11"
-},
-"sc-187134": {
-"news": "https://tcnj.edu/feed/",
-"newest": "2026-09-29",
-"checked": "2026-10-11"
-},
-"sc-188429": {
-"news": "https://www.adelphi.edu/news/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-190099": {
-"news": "https://www.colgate.edu/news/feed",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-190549": {
-"news": "https://www.brooklyn.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-190594": {
-"news": "https://www.hunter.cuny.edu/news/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-192040": {
-"news": "https://www.jtsa.edu/feed/",
-"newest": "2026-08-26",
-"checked": "2026-10-11"
-},
-"sc-196176": {
-"news": "https://sites.newpaltz.edu/news/feed/",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-196194": {
-"news": "https://ww1.oswego.edu/news/rss.xml",
-"newest": "2026-07-29",
-"checked": "2026-10-11"
-},
-"sc-196237": {
-"news": "https://www.oldwestbury.edu/news/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-196264": {
-"news": "https://news.sunyempire.edu/feed/",
-"newest": "2026-10-01",
-"checked": "2026-10-11"
-},
-"sc-196680": {
-"news": "https://www.excelsior.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-197221": {
-"news": "https://www.webb.edu/feed/",
-"newest": "2026-09-25",
-"checked": "2026-10-11"
-},
-"sc-199120": {
-"news": "https://www.unc.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-199139": {
-"news": "https://www.charlotte.edu/feed/",
-"newest": "2026-08-13",
-"checked": "2026-10-11"
-},
-"sc-199148": {
-"news": "https://www.uncg.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-199193": {
-"news": "https://news.ncsu.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-199582": {
-"news": "https://www.st-aug.edu/feed/",
-"newest": "2026-07-07",
-"checked": "2026-10-11"
-},
-"sc-201645": {
-"news": "https://case.edu/news/rss.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-204501": {
-"news": "https://www.oberlin.edu/news/feed",
-"newest": "2026-09-16",
-"checked": "2026-10-11"
-},
-"sc-206604": {
-"news": "https://www.wright.edu/news/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-206941": {
-"news": "https://news.uco.edu/feed",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"oregon-state-university": {
-"news": "https://news.oregonstate.edu/feed",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"university-of-oregon": {
-"news": "https://news.uoregon.edu/rss.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-212009": {
-"news": "https://www.dickinson.edu/rss/news",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"drexel-university": {
-"news": "https://drexel.edu/feed.xml",
-"newest": "2026-09-30",
-"checked": "2026-10-11"
-},
-"sc-213543": {
-"news": "https://news.lehigh.edu/rss.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-216038": {
-"news": "https://news.sru.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-217402": {
-"news": "https://news.providence.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"university-of-rhode-island": {
-"news": "https://www.uri.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"college-of-charleston": {
-"news": "https://today.charleston.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-217864": {
-"news": "https://today.citadel.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-218070": {
-"news": "https://www.furman.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-221759": {
-"news": "https://news.utk.edu/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-221768": {
-"news": "https://news.utm.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-221999": {
-"news": "https://news.vanderbilt.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-224554": {
-"news": "https://www.etamu.edu/feed/",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-225575": {
-"news": "https://htu.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-227429": {
-"news": "https://paulquinn.edu/feed/",
-"newest": "2026-09-15",
-"checked": "2026-10-11"
-},
-"sc-227526": {
-"news": "https://www.pvamu.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-228529": {
-"news": "https://www.tarleton.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-228723": {
-"news": "https://today.tamu.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"ut-austin": {
-"news": "https://news.utexas.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-228787": {
-"news": "https://www.utdallas.edu/feed/",
-"newest": "2026-09-01",
-"checked": "2026-10-11"
-},
-"sc-229027": {
-"news": "https://news.utsa.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-230047": {
-"news": "https://www.byuh.edu/index.rss",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-231624": {
-"news": "https://news.wm.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-231651": {
-"news": "https://www.regent.edu/feed/",
-"newest": "2026-10-01",
-"checked": "2026-10-11"
-},
-"sc-232423": {
-"news": "https://www.jmu.edu/news/rss.xml",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-232557": {
-"news": "https://www.liberty.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-236948": {
-"news": "https://www.washington.edu/news/feed/",
-"newest": "2026-10-07",
-"checked": "2026-10-11"
-},
-"sc-237525": {
-"news": "https://www.marshall.edu/feed/",
-"newest": "2026-09-18",
-"checked": "2026-10-11"
-},
-"sc-239105": {
-"news": "https://today.marquette.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-240277": {
-"news": "https://news.uwgb.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-240417": {
-"news": "https://www.uwstout.edu/news/rss.xml",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-240444": {
-"news": "https://news.wisc.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-240453": {
-"news": "https://uwm.edu/news/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-240462": {
-"news": "https://www.uwplatt.edu/news/feed",
-"newest": "2026-10-02",
-"checked": "2026-10-11"
-},
-"sc-243197": {
-"news": "https://www.uprm.edu/portada/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-243221": {
-"news": "https://www.uprrp.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-243443": {
-"news": "https://www.sagrado.edu/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-243780": {
-"news": "https://www.purdue.edu/newsroom/feed/",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-377555": {
-"news": "https://www.uwb.edu/feed",
-"newest": "2026-08-04",
-"checked": "2026-10-11"
-},
-"sc-384254": {
-"news": "https://www.beaconcollege.edu/feed/",
-"newest": "2026-09-30",
-"checked": "2026-10-11"
-},
-"sc-436429": {
-"news": "https://www.lafilm.edu/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-441982": {
-"news": "https://www.olin.edu/news/feed",
-"newest": "2026-10-09",
-"checked": "2026-10-11"
-},
-"sc-476975": {
-"news": "https://csuglobal.edu/feed",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-484473": {
-"news": "https://ufonline.ufl.edu/feed/",
-"newest": "2026-09-09",
-"checked": "2026-10-11"
-},
-"sc-490805": {
-"news": "https://www.pnw.edu/news/feed/",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-},
-"sc-497824": {
-"news": "https://www.evangel.edu/feed/",
-"newest": "2026-10-06",
-"checked": "2026-10-11"
-},
-"sc-166683": {
-"news": "https://news.mit.edu/rss/feed",
-"newest": "2026-10-08",
-"checked": "2026-10-11"
-}
-}
+ "about": "Reviewed public feeds for Campus Pulse. Only these URLs are ever fetched. news/admissions: RSS/Atom on the school's own web domain with a story in the last 120/180 days; events: the school's public Localist calendar with events in the next 30 days. Student-newspaper feeds are added as Muse verifies them (Job E). Checked 2026-10-11.",
+ "checked": "2026-10-11",
+ "version": 2,
+ "schools": {
+  "clark-university": {
+   "news": "https://www.clarku.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "college-of-charleston": {
+   "news": "https://today.charleston.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.charleston.edu/api/2/events"
+   }
+  },
+  "colorado-college": {
+   "news": "https://www.coloradocollege.edu/newsevents/newsroom/index.rss",
+   "newest": "2026-07-16",
+   "checked": "2026-10-11"
+  },
+  "colorado-state-university": {
+   "admissions": "https://admissions.colostate.edu/feed/",
+   "checked": "2026-10-11"
+  },
+  "drexel-university": {
+   "news": "https://drexel.edu/feed.xml",
+   "newest": "2026-09-30",
+   "checked": "2026-10-11"
+  },
+  "ithaca-college": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.ithaca.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "oregon-state-university": {
+   "news": "https://news.oregonstate.edu/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.oregonstate.edu/api/2/events"
+   }
+  },
+  "sc-100663": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.uab.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-100751": {
+   "news": "https://news.ua.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ua.edu/api/2/events"
+   }
+  },
+  "sc-100858": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.auburn.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-101587": {
+   "news": "https://www.uwa.edu/feed/",
+   "newest": "2026-10-04",
+   "checked": "2026-10-11"
+  },
+  "sc-102049": {
+   "news": "https://www.samford.edu/news/feed.xml",
+   "newest": "2026-10-11",
+   "checked": "2026-10-11"
+  },
+  "sc-102368": {
+   "news": "https://today.troy.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-104717": {
+   "news": "https://news.gcu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-105330": {
+   "news": "https://in.nau.edu/news/feed/",
+   "newest": "2026-10-10",
+   "checked": "2026-10-11"
+  },
+  "sc-106245": {
+   "news": "https://ualr.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-107558": {
+   "news": "https://ozarks.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-110404": {
+   "news": "https://www.caltech.edu/about/news/rss",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-110547": {
+   "news": "https://news.csudh.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-110556": {
+   "news": "https://today.fresnostate.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-110565": {
+   "news": "https://news.fullerton.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-110608": {
+   "news": "https://news.csun.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-110635": {
+   "news": "https://news.berkeley.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-110653": {
+   "news": "https://news.uci.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-110671": {
+   "news": "https://news.ucr.edu/rss.xml",
+   "newest": "2026-10-09",
+   "events": {
+    "type": "localist",
+    "url": "https://events.ucr.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-110680": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ucsd.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-111948": {
+   "news": "https://news.chapman.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-111966": {
+   "news": "https://www.cdrewu.edu/feed/",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11"
+  },
+  "sc-113698": {
+   "news": "https://www.dominican.edu/news/rss",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-118888": {
+   "news": "https://news.northeastern.edu/feed/",
+   "newest": "2026-10-09",
+   "events": {
+    "type": "localist",
+    "url": "https://events.northeastern.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-119605": {
+   "news": "https://www.nu.edu/feed/",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-122597": {
+   "news": "https://news.sfsu.edu/rss.xml",
+   "newest": "2026-09-24",
+   "checked": "2026-10-11"
+  },
+  "sc-122612": {
+   "news": "https://www.usfca.edu/news/feed.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-122755": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.sjsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-122931": {
+   "news": "https://news.scu.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-123165": {
+   "news": "https://www.scrippscollege.edu/news/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-123961": {
+   "news": "https://www.usc.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.usc.edu/api/2/events"
+   }
+  },
+  "sc-126669": {
+   "news": "https://www.ccu.edu/news/index.xml",
+   "newest": "2026-09-29",
+   "checked": "2026-10-11"
+  },
+  "sc-127565": {
+   "news": "https://www.msudenver.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-127918": {
+   "news": "https://www.regis.edu/news/index.xml",
+   "newest": "2026-09-30",
+   "checked": "2026-10-11"
+  },
+  "sc-128328": {
+   "news": "https://www.usafa.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-129020": {
+   "news": "https://today.uconn.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-129215": {
+   "news": "https://www.easternct.edu/news/index.xml",
+   "newest": "2026-10-08",
+   "events": {
+    "type": "localist",
+    "url": "https://events.easternct.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-129242": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.fairfield.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-129941": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.newhaven.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-130183": {
+   "news": "https://post.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-130493": {
+   "news": "https://news.southernct.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-130624": {
+   "news": "https://uscga.edu/feed/",
+   "newest": "2026-09-18",
+   "checked": "2026-10-11"
+  },
+  "sc-130794": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.yale.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-130943": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.udel.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-131469": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.gwu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-131520": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.howard.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-132903": {
+   "news": "https://www.ucf.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-133492": {
+   "news": "https://www.eckerd.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-133650": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.famu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-133669": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.fau.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-133881": {
+   "news": "https://news.fit.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-133951": {
+   "news": "https://news.fiu.edu/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.fiu.edu/api/2/events"
+   }
+  },
+  "sc-134097": {
+   "news": "https://news.fsu.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.fsu.edu/api/2/events"
+   }
+  },
+  "sc-135726": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.miami.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-136172": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.unf.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-136215": {
+   "news": "https://news.nova.edu/feed/",
+   "newest": "2026-09-29",
+   "checked": "2026-10-11"
+  },
+  "sc-138275": {
+   "news": "https://warner.edu/feed/",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11"
+  },
+  "sc-138354": {
+   "news": "https://news.uwf.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.uwf.edu/api/2/events"
+   }
+  },
+  "sc-138600": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.agnesscott.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-139755": {
+   "news": "https://news.gatech.edu/rss/all",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-139931": {
+   "news": "https://www.georgiasouthern.edu/feed",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.georgiasouthern.edu/api/2/events"
+   }
+  },
+  "sc-139940": {
+   "news": "https://news.gsu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.gsu.edu/api/2/events"
+   }
+  },
+  "sc-139959": {
+   "news": "https://news.uga.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.uga.edu/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.uga.edu/api/2/events"
+   }
+  },
+  "sc-140447": {
+   "news": "https://den.mercer.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-140553": {
+   "news": "https://news.morehouse.edu/rss.xml",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-141167": {
+   "news": "https://www.thomasu.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-141361": {
+   "news": "https://www.yhc.edu/news/feed/",
+   "newest": "2026-10-02",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.yhc.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-141574": {
+   "news": "https://www.hawaii.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-142115": {
+   "news": "https://www.boisestate.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "admissions": "https://www.boisestate.edu/admissions/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://events.boisestate.edu/api/2/events"
+   }
+  },
+  "sc-142294": {
+   "news": "https://collegeofidaho.edu/feed/",
+   "newest": "2026-09-23",
+   "checked": "2026-10-11"
+  },
+  "sc-143358": {
+   "news": "https://www.bradley.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-144740": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.depaul.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-145600": {
+   "news": "https://today.uic.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-145637": {
+   "news": "https://news.illinois.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-145725": {
+   "news": "https://today.iit.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-145813": {
+   "news": "https://news.illinoisstate.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-146339": {
+   "news": "https://www.judsonu.edu/feed/",
+   "newest": "2026-09-14",
+   "checked": "2026-10-11"
+  },
+  "sc-146719": {
+   "news": "https://news.luc.edu/stories/feed/",
+   "newest": "2026-10-05",
+   "events": {
+    "type": "localist",
+    "url": "https://events.luc.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-147703": {
+   "news": "https://newsroom.niu.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.niu.edu/api/2/events"
+   }
+  },
+  "sc-147767": {
+   "news": "https://news.northwestern.edu/feeds/allStories",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-148131": {
+   "news": "https://www.quincy.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-149222": {
+   "news": "https://siu.edu/feed.xml",
+   "newest": "2026-10-12",
+   "checked": "2026-10-11"
+  },
+  "sc-149772": {
+   "news": "https://www.wiu.edu/about/news.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-150163": {
+   "news": "https://stories.butler.edu/feed/",
+   "newest": "2026-09-29",
+   "checked": "2026-10-11"
+  },
+  "sc-150455": {
+   "news": "https://earlham.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-151324": {
+   "news": "https://www.indianastate.edu/news/rss",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.indianastate.edu/api/2/events"
+   }
+  },
+  "sc-152080": {
+   "news": "https://news.nd.edu/news.rss",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.nd.edu/visit-engage/stories-news.atom"
+  },
+  "sc-153108": {
+   "news": "https://news.central.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-153366": {
+   "news": "https://www.graceland.edu/feed/",
+   "newest": "2026-09-10",
+   "checked": "2026-10-11"
+  },
+  "sc-153603": {
+   "news": "https://www.news.iastate.edu/rss.xml",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-153834": {
+   "news": "https://www.luther.edu/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-155317": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ku.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-155399": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.k-state.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-155681": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.pittstate.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-156356": {
+   "news": "https://www.brescia.edu/feed/",
+   "newest": "2026-09-25",
+   "checked": "2026-10-11"
+  },
+  "sc-157289": {
+   "news": "https://louisville.edu/news/rss.xml",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11"
+  },
+  "sc-157535": {
+   "news": "https://www.upike.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-159382": {
+   "news": "https://www.lsua.edu/feed.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-159391": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.lsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-159966": {
+   "news": "https://www.nicholls.edu/news/feed/",
+   "newest": "2026-09-21",
+   "checked": "2026-10-11"
+  },
+  "sc-160038": {
+   "news": "https://www.nsula.edu/feed/",
+   "newest": "2026-10-11",
+   "checked": "2026-10-11"
+  },
+  "sc-160612": {
+   "news": "https://www.southeastern.edu/news/feed/",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11"
+  },
+  "sc-160621": {
+   "news": "https://www.subr.edu/news/rss",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-160755": {
+   "news": "https://news.tulane.edu/rss",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-160977": {
+   "news": "https://www.bates.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-161004": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.bowdoin.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-161554": {
+   "news": "https://usm.maine.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-163268": {
+   "news": "https://umbc.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-163453": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.morgan.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-164076": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.towson.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-164465": {
+   "news": "https://www.amherst.edu/news/feed",
+   "newest": "2026-09-24",
+   "checked": "2026-10-11"
+  },
+  "sc-164739": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.bentley.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-164924": {
+   "news": "https://stories.bc.edu/feed/",
+   "newest": "2026-08-20",
+   "events": {
+    "type": "localist",
+    "url": "https://events.bc.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-166027": {
+   "news": "https://news.harvard.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-166638": {
+   "news": "https://www.umb.edu/news/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-166683": {
+   "news": "https://news.mit.edu/rss/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.mit.edu/api/2/events"
+   },
+   "admissions": "https://mitadmissions.org/feed/"
+  },
+  "sc-166939": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.mtholyoke.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-167358": {
+   "news": "https://news.northeastern.edu/feed/",
+   "newest": "2026-10-09",
+   "events": {
+    "type": "localist",
+    "url": "https://events.northeastern.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-168005": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.suffolk.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-168281": {
+   "news": "https://www.wheatoncollege.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-168546": {
+   "news": "https://www.albion.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-168591": {
+   "news": "https://www.alma.edu/news/feed/",
+   "newest": "2026-09-23",
+   "checked": "2026-10-11"
+  },
+  "sc-170082": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.gvsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-170286": {
+   "news": "https://www.hillsdale.edu/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-170675": {
+   "news": "https://ltu.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-170976": {
+   "news": "https://news.umich.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-171128": {
+   "news": "https://www.mtu.edu/mtu_resources/php/news/rss/?site=news,magazine",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.mtu.edu/api/2/events"
+   }
+  },
+  "sc-171456": {
+   "news": "https://news.nmu.edu/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-173258": {
+   "news": "https://www.carleton.edu/news/feed/",
+   "newest": "2026-09-30",
+   "checked": "2026-10-11",
+   "admissions": "https://www.carleton.edu/admissions/feed/"
+  },
+  "sc-173902": {
+   "news": "https://www.macalester.edu/news/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-174066": {
+   "news": "https://www.umn.edu/rss.xml",
+   "newest": "2026-09-16",
+   "checked": "2026-10-11"
+  },
+  "sc-174233": {
+   "news": "https://www.umn.edu/rss.xml",
+   "newest": "2026-09-16",
+   "checked": "2026-10-11"
+  },
+  "sc-174251": {
+   "news": "https://www.umn.edu/rss.xml",
+   "newest": "2026-09-16",
+   "checked": "2026-10-11"
+  },
+  "sc-174783": {
+   "news": "https://today.stcloudstate.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-174844": {
+   "news": "https://wp.stolaf.edu/news/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-174862": {
+   "news": "https://www.crown.edu/feed/",
+   "newest": "2026-09-14",
+   "checked": "2026-10-11"
+  },
+  "sc-174914": {
+   "news": "https://news.stthomas.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-175342": {
+   "news": "https://www.alcorn.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-175856": {
+   "news": "https://www.jsums.edu/feed/",
+   "newest": "2026-06-30",
+   "checked": "2026-10-11"
+  },
+  "sc-175980": {
+   "news": "https://millsaps.edu/feed/",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.millsaps.edu/api/2/events"
+   }
+  },
+  "sc-176053": {
+   "news": "https://www.mc.edu/rss/news",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-176372": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.usm.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-177083": {
+   "news": "https://www.conception.edu/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-177968": {
+   "news": "https://www.lindenwood.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-178402": {
+   "news": "https://www.umkc.edu/news/feed.xml",
+   "newest": "2026-08-20",
+   "checked": "2026-10-11"
+  },
+  "sc-178411": {
+   "news": "https://news.mst.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.mst.edu/api/2/events"
+   }
+  },
+  "sc-178420": {
+   "news": "https://blogs.umsl.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.umsl.edu/api/2/events"
+   }
+  },
+  "sc-178721": {
+   "news": "https://www.park.edu/news/feed/",
+   "newest": "2026-09-17",
+   "checked": "2026-10-11"
+  },
+  "sc-179566": {
+   "news": "https://news.missouristate.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-179867": {
+   "news": "https://source.washu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-179955": {
+   "news": "https://jewell.edu/feed/",
+   "newest": "2026-09-01",
+   "checked": "2026-10-11"
+  },
+  "sc-180595": {
+   "news": "https://rocky.edu/feed/",
+   "newest": "2026-09-25",
+   "checked": "2026-10-11"
+  },
+  "sc-180814": {
+   "news": "https://news.bellevue.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-181394": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.unomaha.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-181464": {
+   "news": "https://news.unl.edu/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-182290": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.unr.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-182670": {
+   "news": "https://home.dartmouth.edu/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-185828": {
+   "news": "https://news.njit.edu/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-186131": {
+   "news": "https://www.princeton.edu/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-186201": {
+   "news": "https://www.ramapo.edu/news/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-186371": {
+   "news": "https://sebsnjaesnews.rutgers.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-186380": {
+   "news": "https://sebsnjaesnews.rutgers.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-186399": {
+   "news": "https://sebsnjaesnews.rutgers.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-187134": {
+   "news": "https://tcnj.edu/feed/",
+   "newest": "2026-09-29",
+   "checked": "2026-10-11"
+  },
+  "sc-187985": {
+   "news": "https://news.unm.edu/rss.xml",
+   "newest": "2026-10-10",
+   "checked": "2026-10-11"
+  },
+  "sc-188429": {
+   "news": "https://www.adelphi.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-190099": {
+   "news": "https://www.colgate.edu/news/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.colgate.edu/api/2/events"
+   }
+  },
+  "sc-190415": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.cornell.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-190549": {
+   "news": "https://www.brooklyn.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-190594": {
+   "news": "https://www.hunter.cuny.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-191241": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.fordham.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-192040": {
+   "news": "https://www.jtsa.edu/feed/",
+   "newest": "2026-08-26",
+   "checked": "2026-10-11"
+  },
+  "sc-192448": {
+   "news": "https://headlines.liu.edu/feed",
+   "newest": "2026-09-25",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.liu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-192712": {
+   "news": "https://www.msmnyc.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-193016": {
+   "news": "https://www.mercy.edu/news-events/rss.xml",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-195030": {
+   "news": "https://www.rochester.edu/newscenter/feed/",
+   "newest": "2026-10-09",
+   "admissions": "https://admissions.rochester.edu/blog/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://events.rochester.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-196060": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.albany.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-196130": {
+   "news": "https://news.buffalostate.edu/rss.xml",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-196149": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.cortland.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-196158": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.fredonia.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-196167": {
+   "news": "https://www.geneseo.edu/feed/",
+   "newest": "2026-10-07",
+   "events": {
+    "type": "localist",
+    "url": "https://events.geneseo.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-196176": {
+   "news": "https://sites.newpaltz.edu/news/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-196194": {
+   "news": "https://ww1.oswego.edu/news/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.oswego.edu/api/2/events"
+   }
+  },
+  "sc-196237": {
+   "news": "https://www.oldwestbury.edu/news/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-196264": {
+   "news": "https://news.sunyempire.edu/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-196680": {
+   "news": "https://www.excelsior.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-197221": {
+   "news": "https://www.webb.edu/feed/",
+   "newest": "2026-09-25",
+   "checked": "2026-10-11"
+  },
+  "sc-197869": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.appstate.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-198066": {
+   "news": "https://brevard.edu/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-198419": {
+   "news": "https://news.duke.edu/stories/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-198464": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ecu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-198516": {
+   "news": "https://www.elon.edu/u/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-198695": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.highpoint.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-199120": {
+   "news": "https://www.unc.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.unc.edu/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.unc.edu/api/2/events"
+   }
+  },
+  "sc-199139": {
+   "news": "https://www.charlotte.edu/feed/",
+   "newest": "2026-08-13",
+   "checked": "2026-10-11"
+  },
+  "sc-199148": {
+   "news": "https://www.uncg.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-199193": {
+   "news": "https://news.ncsu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.ncsu.edu/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ncsu.edu/api/2/events"
+   }
+  },
+  "sc-199582": {
+   "news": "https://www.st-aug.edu/feed/",
+   "newest": "2026-07-07",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.st-aug.edu/feed/"
+  },
+  "sc-199847": {
+   "news": "https://news.wfu.edu/feed/",
+   "newest": "2026-10-06",
+   "admissions": "https://admissions.wfu.edu/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://events.wfu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-200280": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.und.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-201061": {
+   "news": "https://www.artacademy.edu/news/feed/",
+   "newest": "2026-09-08",
+   "checked": "2026-10-11"
+  },
+  "sc-201441": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.bgsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-201645": {
+   "news": "https://case.edu/news/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-204024": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.miamioh.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-204501": {
+   "news": "https://www.oberlin.edu/news/feed",
+   "newest": "2026-09-24",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.oberlin.edu/api/2/events"
+   }
+  },
+  "sc-204796": {
+   "news": "https://news.osu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-204857": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.ohio.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-206084": {
+   "news": "https://news.utoledo.edu/index.php/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-206589": {
+   "news": "https://wooster.edu/news/rss.xml",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-206604": {
+   "news": "https://www.wright.edu/news/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-206941": {
+   "news": "https://news.uco.edu/feed",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-207388": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.okstate.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-207403": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.okbu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-207661": {
+   "news": "https://www.rsu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-209065": {
+   "news": "https://news.linfield.edu/feed/",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-210669": {
+   "news": "https://allegheny.edu/feed/",
+   "newest": "2026-10-07",
+   "events": {
+    "type": "localist",
+    "url": "https://events.allegheny.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-211556": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.chatham.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-212009": {
+   "news": "https://www.dickinson.edu/rss/news",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-213011": {
+   "news": "https://www.immaculata.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-213385": {
+   "news": "https://news.lafayette.edu/feed/",
+   "newest": "2026-10-11",
+   "checked": "2026-10-11"
+  },
+  "sc-213543": {
+   "news": "https://news.lehigh.edu/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-214041": {
+   "news": "https://blogs.millersville.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-214713": {
+   "news": "https://www.psu.edu/news/rss/rss.xml",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-214777": {
+   "news": "https://www.psu.edu:443/news/rss/rss.xml",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-215266": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.pitt.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-215293": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.pitt.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-216010": {
+   "news": "https://news.ship.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-216038": {
+   "news": "https://news.sru.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-217402": {
+   "news": "https://news.providence.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "admissions": "https://admission.providence.edu/feed/"
+  },
+  "sc-217864": {
+   "news": "https://today.citadel.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-217882": {
+   "news": "https://news.clemson.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-218070": {
+   "news": "https://www.furman.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-218742": {
+   "news": "https://uscupstate.edu/feed/",
+   "newest": "2026-09-28",
+   "checked": "2026-10-11"
+  },
+  "sc-219000": {
+   "news": "https://www.augie.edu/news/feed",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-219976": {
+   "news": "https://lipscomb.edu/news/rss.xml",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-220181": {
+   "news": "https://www.fisk.edu/news/feed/",
+   "newest": "2026-09-29",
+   "checked": "2026-10-11"
+  },
+  "sc-220613": {
+   "news": "https://www.leeuniversity.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-220862": {
+   "news": "https://blogs.memphis.edu/newsroom/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-221740": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.utc.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-221759": {
+   "news": "https://news.utk.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11",
+   "admissions": "https://admissions.utk.edu/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.utk.edu/api/2/events"
+   }
+  },
+  "sc-221768": {
+   "news": "https://news.utm.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-221999": {
+   "news": "https://news.vanderbilt.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-224147": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.tamucc.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-224554": {
+   "news": "https://www.etamu.edu/feed/",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.etamu.edu/api/2/events"
+   }
+  },
+  "sc-225414": {
+   "news": "https://news.uhcl.edu/feed/",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-225575": {
+   "news": "https://htu.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-225627": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.uiw.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-227216": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.unt.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-227368": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.utrgv.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-227429": {
+   "news": "https://paulquinn.edu/feed/",
+   "newest": "2026-09-15",
+   "checked": "2026-10-11"
+  },
+  "sc-227526": {
+   "news": "https://www.pvamu.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-227881": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.shsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-228529": {
+   "news": "https://www.tarleton.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-228705": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.tamuk.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-228723": {
+   "news": "https://today.tamu.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-228769": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.uta.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-228787": {
+   "news": "https://www.utdallas.edu/feed/",
+   "newest": "2026-09-01",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.utdallas.edu/api/2/events"
+   }
+  },
+  "sc-228802": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.uttyler.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-228875": {
+   "news": "https://www.tcu.edu/rss/news.xml",
+   "newest": "2026-10-09",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.tcu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-229027": {
+   "news": "https://news.utsa.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-229179": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.twu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-229267": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.trinity.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-230038": {
+   "news": "https://news.byu.edu/index.rss",
+   "newest": "2026-09-30",
+   "checked": "2026-10-11"
+  },
+  "sc-230047": {
+   "news": "https://www.byuh.edu/index.rss",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-231624": {
+   "news": "https://news.wm.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-231651": {
+   "news": "https://www.regent.edu/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-232423": {
+   "news": "https://www.jmu.edu/news/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-232557": {
+   "news": "https://www.liberty.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-232609": {
+   "news": "https://www.lynchburg.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-232681": {
+   "news": "https://www.umw.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-232706": {
+   "news": "https://marymount.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-232937": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.nsu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-233295": {
+   "news": "https://www.rmc.edu/news/feed/",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-233541": {
+   "news": "https://www.su.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-234085": {
+   "news": "https://www.vmi.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-236595": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.seattleu.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-236939": {
+   "news": "https://news.wsu.edu/feed/",
+   "newest": "2026-09-04",
+   "checked": "2026-10-11"
+  },
+  "sc-236948": {
+   "news": "https://www.washington.edu/news/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-237057": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.whitman.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-237312": {
+   "news": "https://www.ucwv.edu/news/feed/",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-237525": {
+   "news": "https://www.marshall.edu/feed/",
+   "newest": "2026-09-18",
+   "checked": "2026-10-11",
+   "admissions": "https://www.marshall.edu/admissions/feed/",
+   "events": {
+    "type": "localist",
+    "url": "https://events.marshall.edu/api/2/events"
+   }
+  },
+  "sc-237950": {
+   "news": "https://www.wvutech.edu/news?format=rss",
+   "newest": "2026-10-05",
+   "checked": "2026-10-11"
+  },
+  "sc-239017": {
+   "news": "https://www.lawrence.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-239105": {
+   "news": "https://today.marquette.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-240277": {
+   "news": "https://news.uwgb.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-240417": {
+   "news": "https://www.uwstout.edu/news/rss.xml",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.uwstout.edu/api/2/events"
+   }
+  },
+  "sc-240444": {
+   "news": "https://news.wisc.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-240453": {
+   "news": "https://uwm.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-240462": {
+   "news": "https://www.uwplatt.edu/news/feed",
+   "newest": "2026-10-02",
+   "checked": "2026-10-11"
+  },
+  "sc-243197": {
+   "news": "https://www.uprm.edu/portada/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-243221": {
+   "news": "https://www.uprrp.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-243443": {
+   "news": "https://www.sagrado.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-243744": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.stanford.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-243780": {
+   "news": "https://www.purdue.edu/newsroom/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.purdue.edu/api/2/events"
+   }
+  },
+  "sc-366711": {
+   "news": "https://news.csusm.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "sc-377555": {
+   "news": "https://www.uwb.edu/feed",
+   "newest": "2026-08-04",
+   "checked": "2026-10-11"
+  },
+  "sc-384254": {
+   "news": "https://www.beaconcollege.edu/feed/",
+   "newest": "2026-09-30",
+   "checked": "2026-10-11"
+  },
+  "sc-436429": {
+   "news": "https://www.lafilm.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-441982": {
+   "news": "https://www.olin.edu/news/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "sc-447953": {
+   "news": "https://www.sum.edu/feed/",
+   "newest": "2026-09-08",
+   "checked": "2026-10-11"
+  },
+  "sc-450933": {
+   "news": "https://www.columbiasouthern.edu/press-releases/rss.xml",
+   "newest": "2026-10-01",
+   "checked": "2026-10-11"
+  },
+  "sc-476975": {
+   "news": "https://csuglobal.edu/feed",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-479956": {
+   "news": "https://www.psu.edu/news/rss/rss.xml",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11"
+  },
+  "sc-482936": {
+   "news": "https://floridapoly.edu/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-484473": {
+   "news": "https://ufonline.ufl.edu/feed/",
+   "newest": "2026-09-09",
+   "checked": "2026-10-11"
+  },
+  "sc-486840": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.kennesaw.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "sc-490805": {
+   "news": "https://www.pnw.edu/news/feed/",
+   "newest": "2026-10-08",
+   "checked": "2026-10-11"
+  },
+  "sc-497824": {
+   "news": "https://www.evangel.edu/feed/",
+   "newest": "2026-10-06",
+   "checked": "2026-10-11"
+  },
+  "syracuse-university": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.syracuse.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "umass-amherst": {
+   "news": "https://www.umass.edu/news/feed",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.umass.edu/api/2/events"
+   }
+  },
+  "university-of-colorado-boulder": {
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.colorado.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "university-of-maine": {
+   "news": "https://umaine.edu/news/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11"
+  },
+  "university-of-oregon": {
+   "news": "https://news.uoregon.edu/rss.xml",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.uoregon.edu/api/2/events"
+   }
+  },
+  "university-of-rhode-island": {
+   "news": "https://www.uri.edu/feed/",
+   "newest": "2026-10-07",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://events.uri.edu/api/2/events"
+   }
+  },
+  "university-of-utah": {
+   "admissions": "https://admissions.utah.edu/feed/",
+   "checked": "2026-10-11"
+  },
+  "university-of-vermont": {
+   "events": {
+    "type": "localist",
+    "url": "https://events.uvm.edu/api/2/events"
+   },
+   "checked": "2026-10-11"
+  },
+  "ut-austin": {
+   "news": "https://news.utexas.edu/feed/",
+   "newest": "2026-10-09",
+   "checked": "2026-10-11",
+   "events": {
+    "type": "localist",
+    "url": "https://calendar.utexas.edu/api/2/events"
+   }
+  }
+ }
 }
