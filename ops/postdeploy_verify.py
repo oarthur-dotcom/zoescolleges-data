@@ -36,8 +36,12 @@ for i in range(16):
     if st == 200 and sha(live) == sha(want): break
     time.sleep(20)
 check("Live page = app main", st == 200 and sha(live) == sha(want), f"main@{mshort}, waited {i*20}s")
-# 2 data files
+# 2 data files — from the exact release the app pins (#37), else @live
 lshort = git(DATA, "rev-parse", "--short", "origin/live").strip()
+_m = re.search(rb'const DATA_REF = "([0-9a-f]{7,40})"', want)
+if _m:
+    pref = _m.group(1).decode(); CDN = f"https://cdn.jsdelivr.net/gh/oarthur-dotcom/zoescolleges-data@{pref}/"
+    check("App pins data live", git(DATA, "rev-parse", "origin/live").strip().startswith(pref), f"DATA_REF {pref} vs live@{lshort}")
 for f in FILES:
     try: exp = subprocess.check_output(["git", "-C", DATA, "show", f"origin/live:{f}"], stderr=subprocess.DEVNULL)
     except subprocess.CalledProcessError: print(f"INFO {f} not on the live branch (not published yet)"); continue

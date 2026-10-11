@@ -64,7 +64,17 @@ if which == "app" and "index.html" in files:
     ok = subprocess.run(["node", "--check", t.name], capture_output=True, text=True)
     if ok.returncode: fails.append("JS syntax error: " + ok.stderr[:300])
     else: notes.append("JS syntax OK")
-    if "@live/colleges.json" not in html: fails.append("app no longer reads catalog from @live (approval gate removed)")
+    # Approval gate (#37): the app must read data either from @live, or from a pinned DATA_REF that is EXACTLY
+    # the approved data `live` commit, and the functions' data-ref.mjs must match the page.
+    m = re.search(r'const DATA_REF = "([0-9a-f]{7,40})"', html)
+    if m:
+        live = subprocess.check_output(["git", "-C", REPOS["data"], "rev-parse", "origin/live"], text=True).strip()
+        if not live.startswith(m.group(1)): fails.append(f"page DATA_REF {m.group(1)} is not the approved data live commit {live[:7]}")
+        else: notes.append(f"page reads data release {m.group(1)} = data live")
+        try: fn = subprocess.check_output(["git", "-C", R, "show", f"{ref}:netlify/lib/data-ref.mjs"], text=True)
+        except subprocess.CalledProcessError: fn = ""
+        if f'DATA_REF = "{m.group(1)}"' not in fn: fails.append("netlify/lib/data-ref.mjs DATA_REF does not match the page")
+    elif "@live/colleges.json" not in html: fails.append("app no longer reads catalog from @live or a pinned data release (approval gate removed)")
 print(f"PRE-DEPLOY CHECK {which}:{branch} -> live {base}@{git('rev-parse','--short',base)}")
 for n in notes: print("  " + n)
 for f in fails: print("  BLOCK: " + f)
