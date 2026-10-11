@@ -1,0 +1,2623 @@
+{
+ "note": "No-data codes and impossible values removed from colleges.json on 2026-10-11 (fix #26). The app already hid these on screen (fix #6); this removes them at the source. Negative net prices are kept: they mean aid can exceed cost, and the app shows them as $0.",
+ "removed": [
+  {
+   "id": "sc-104090",
+   "name": "Brookline College-Phoenix",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-105534",
+   "name": "Pima Medical Institute-Tucson",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-107123",
+   "name": "Jefferson Regional School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-109350",
+   "name": "Antelope Valley Community College District",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-109819",
+   "name": "Bakersfield College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-115010",
+   "name": "Glendale Career College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-116226",
+   "name": "Interior Designers Institute",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-117283",
+   "name": "Latin American Bible Institute",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-117803",
+   "name": "Los Angeles County College of Nursing and Allied Health",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-118976",
+   "name": "Modesto Junior College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-122375",
+   "name": "San Diego Mesa College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-122977",
+   "name": "Santa Monica College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-123299",
+   "name": "Shasta College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-123509",
+   "name": "Skyline College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-123563",
+   "name": "Solano Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-126942",
+   "name": "Community College of Denver",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-127820",
+   "name": "Pikes Peak State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-129154",
+   "name": "Goodwin University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-130907",
+   "name": "Delaware Technical Community College-Terry",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-132693",
+   "name": "Eastern Florida State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-132709",
+   "name": "Broward College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-133386",
+   "name": "Daytona State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-133508",
+   "name": "Florida SouthWestern State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-133702",
+   "name": "Florida State College at Jacksonville",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-133960",
+   "name": "The College of the Florida Keys",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-134343",
+   "name": "Gulf Coast State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-134608",
+   "name": "Indian River State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-135188",
+   "name": "Lake-Sumter State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-135391",
+   "name": "State College of Florida-Manatee-Sarasota",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136145",
+   "name": "North Florida College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136233",
+   "name": "Northwest Florida State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136358",
+   "name": "Palm Beach State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136400",
+   "name": "Pasco-Hernando State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136473",
+   "name": "Pensacola State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-136516",
+   "name": "Polk State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137078",
+   "name": "St Petersburg College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137096",
+   "name": "Santa Fe College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137281",
+   "name": "Saint Johns River State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137315",
+   "name": "South Florida State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137759",
+   "name": "Tallahassee State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-142559",
+   "name": "College of Southern Idaho",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-154262",
+   "name": "St Luke's College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-155140",
+   "name": "Haskell Indian Nations University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-157021",
+   "name": "American National University-Louisville",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-157793",
+   "name": "Sullivan University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-161022",
+   "name": "Maine College of Health Professions",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-165264",
+   "name": "Laboure College of Healthcare",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-166407",
+   "name": "Lawrence Memorial Hospital School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-172200",
+   "name": "Schoolcraft Community College District",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-174507",
+   "name": "Northwestern Health Sciences University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-174507",
+   "name": "Northwestern Health Sciences University",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-176770",
+   "name": "Cox College",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-177472",
+   "name": "Ozarks Technical Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-180054",
+   "name": "Blackfeet Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-180203",
+   "name": "Aaniiih Nakoda College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-182005",
+   "name": "College of Southern Nevada",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-182148",
+   "name": "Las Vegas College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-182564",
+   "name": "Western Nevada College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-183248",
+   "name": "St Joseph School of Nursing",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-188517",
+   "name": "Bryant & Stratton College-Albany",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-189583",
+   "name": "Bryant & Stratton College-Buffalo",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-189592",
+   "name": "Bryant & Stratton College-Greece",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-190071",
+   "name": "Cochran School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-190956",
+   "name": "Belanger School of Nursing",
+   "field": "scorecard.admissionRate",
+   "value": 0,
+   "why": "admit rate exactly 0"
+  },
+  {
+   "id": "sc-191597",
+   "name": "Helene Fuld College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-192961",
+   "name": "St. Peter's Hospital College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-193380",
+   "name": "Montefiore School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-194189",
+   "name": "Ohr Hameir Theological Seminary",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-194499",
+   "name": "Plaza College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-195289",
+   "name": "Samaritan Hospital School of Nursing",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-195702",
+   "name": "Saint Elizabeth College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-196583",
+   "name": "Torah Temimah Talmudical Seminary",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-196583",
+   "name": "Torah Temimah Talmudical Seminary",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-196653",
+   "name": "Trocaire College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-198109",
+   "name": "Cabarrus College of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-200022",
+   "name": "Bismarck State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-200086",
+   "name": "Nueta Hidatsa Sahnish College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-200466",
+   "name": "Sitting Bull College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-200554",
+   "name": "United Tribes Technical College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-201469",
+   "name": "Bryant & Stratton College-Parma",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-201672",
+   "name": "Central Ohio Technical College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-201946",
+   "name": "University of Cincinnati-Clermont College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-201955",
+   "name": "University of Cincinnati-Blue Ash College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-202912",
+   "name": "Good Samaritan College of Nursing and Health Science",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-204255",
+   "name": "Zane State College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-205054",
+   "name": "Professional Skills Institute",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-205391",
+   "name": "The Modern College of Design",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-207397",
+   "name": "Oklahoma State University-Oklahoma City",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-207564",
+   "name": "Oklahoma State University Institute of Technology",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-217305",
+   "name": "New England Institute of Technology",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-218821",
+   "name": "Spartanburg Methodist College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-219408",
+   "name": "Sisseton Wahpeton College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-222992",
+   "name": "Austin Community College District",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-223083",
+   "name": "Baptist Health System School of Health Professions",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-224350",
+   "name": "Del Mar College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-225308",
+   "name": "Trinity Valley Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-226134",
+   "name": "Laredo College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-226408",
+   "name": "College of the Mainland",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-227182",
+   "name": "Lone Star College System",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-227979",
+   "name": "San Jacinto Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-228486",
+   "name": "Southwestern Christian College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-229355",
+   "name": "Tyler Junior College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-229799",
+   "name": "Weatherford College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-231785",
+   "name": "Bryant & Stratton College-Virginia Beach",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-232618",
+   "name": "Centra College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-232724",
+   "name": "Sovah School of Health Professions",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-232797",
+   "name": "American National University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-233082",
+   "name": "Southside College of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-233480",
+   "name": "Bon Secours St Mary's Hospital School of Medical Imaging",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234669",
+   "name": "Bellevue College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234711",
+   "name": "Big Bend Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234845",
+   "name": "Centralia College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234933",
+   "name": "Clark College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234979",
+   "name": "Columbia Basin College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235103",
+   "name": "Edmonds College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235237",
+   "name": "Pierce College District",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235334",
+   "name": "Grays Harbor College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235343",
+   "name": "Green River College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235431",
+   "name": "Highline College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235750",
+   "name": "Lower Columbia College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236188",
+   "name": "Olympic College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236513",
+   "name": "Seattle Central College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236638",
+   "name": "Skagit Valley College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236692",
+   "name": "Spokane Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236708",
+   "name": "Spokane Falls Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236753",
+   "name": "Tacoma Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236887",
+   "name": "Walla Walla Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-236975",
+   "name": "Wenatchee Valley College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-237039",
+   "name": "Whatcom Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-237109",
+   "name": "Yakima Valley College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-240620",
+   "name": "Laramie County Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-240657",
+   "name": "Northwest College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-240693",
+   "name": "Western Wyoming Community College",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-240736",
+   "name": "American Samoa Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-240745",
+   "name": "Guam Community College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-241836",
+   "name": "EDP University of Puerto Rico Inc-San Sebastian",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-247065",
+   "name": "Beckfield College-Florence",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-247649",
+   "name": "Landmark College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-247834",
+   "name": "Collin County Community College District",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-366003",
+   "name": "South Florida Bible College and Theological Seminary",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-369516",
+   "name": "Bryan University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-372073",
+   "name": "Fremont University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-376695",
+   "name": "College of the Marshall Islands",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-414595",
+   "name": "Pacific College of Health and Science",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-422695",
+   "name": "Pacific College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-429128",
+   "name": "Urban College of Boston",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-431983",
+   "name": "Yeshiva of the Telshe Alumni",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-432384",
+   "name": "Platt College-Ontario",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-436599",
+   "name": "FINE Mortuary College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439190",
+   "name": "Cascadia College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439367",
+   "name": "CBD College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439871",
+   "name": "PCI College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-442426",
+   "name": "St Louis College of Health Careers-Fenton",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-444334",
+   "name": "Advance Science International College",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-444565",
+   "name": "Culinary Institute Inc",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-448673",
+   "name": "Rasmussen University-Illinois",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-450571",
+   "name": "Rasmussen University-Wisconsin",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-457527",
+   "name": "Ambria College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475422",
+   "name": "Finger Lakes Health College of Nursing & Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-480204",
+   "name": "Platt College-Riverside",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-480657",
+   "name": "Rasmussen University-Kansas",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-485546",
+   "name": "California Intercontinental University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-486257",
+   "name": "Valor Christian College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-487861",
+   "name": "Felbry College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-488776",
+   "name": "John Patrick University of Health and Applied Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-490054",
+   "name": "HCI College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-490203",
+   "name": "Bolivar Technical College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-490878",
+   "name": "Platt College-Anaheim",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-492476",
+   "name": "EDP University of Puerto Rico-Villalba",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-494278",
+   "name": "EDP University of Puerto Rico-Humacao",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-494287",
+   "name": "EDP University of Puerto Rico-Manati",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-494746",
+   "name": "North-West College-San Diego",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-495271",
+   "name": "California Indian Nations College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-495280",
+   "name": "Indian Bible College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-496654",
+   "name": "Sri Sai Krish Institute",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-497116",
+   "name": "Galen Health Institutes-Austin Campus",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-497125",
+   "name": "Galen Health Institutes-Nashville Campus",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498030",
+   "name": "Universal Technical Institute-South Florida Miramar",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498076",
+   "name": "Galen Health Institutes-Sarasota",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498085",
+   "name": "Galen Health Institutes-Gainesville",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498094",
+   "name": "Galen Health Institutes-Richmond",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498100",
+   "name": "Galen Health Institutes-Myrtle Beach",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498119",
+   "name": "Galen Health Institutes-Asheville",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-499811",
+   "name": "Ricketts Great Books College",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-100690",
+   "name": "Amridge University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-100812",
+   "name": "Athens State University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-102058",
+   "name": "Selma University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-102395",
+   "name": "United States Sports University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-106263",
+   "name": "University of Arkansas for Medical Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-110316",
+   "name": "California Institute of Integral Studies",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-110778",
+   "name": "Sofia University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-111045",
+   "name": "Haven University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-115083",
+   "name": "Golden Gate University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-115773",
+   "name": "Humphreys University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-117575",
+   "name": "Southern California Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-117636",
+   "name": "Loma Linda University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-119058",
+   "name": "Middlebury Institute of International Studies at Monterey",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-120698",
+   "name": "Palo Alto University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-120768",
+   "name": "Pacific Oaks College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-122296",
+   "name": "Samuel Merritt University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-123280",
+   "name": "Shasta Bible College and Graduate School",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-124487",
+   "name": "Epic Bible College & Graduate School",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-124487",
+   "name": "Epic Bible College & Graduate School",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-125231",
+   "name": "Walden University",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-127714",
+   "name": "Nazarene Bible College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-131803",
+   "name": "Strayer University-District of Columbia",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-135364",
+   "name": "Luther Rice College & Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-137962",
+   "name": "Trinity College of Florida",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-142832",
+   "name": "Adler University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-142957",
+   "name": "American Islamic College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-143297",
+   "name": "Blessing Rieman College of Nursing and Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-143978",
+   "name": "The Chicago School at Chicago",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-146533",
+   "name": "Lakeview College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-146755",
+   "name": "Trinity College of Nursing & Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-147590",
+   "name": "National University of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-148511",
+   "name": "Rush University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-148575",
+   "name": "Saint Francis Medical Center College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-148593",
+   "name": "St. John's College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-149329",
+   "name": "Telshe Yeshiva-Chicago",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-152798",
+   "name": "Allen College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-154174",
+   "name": "Palmer College of Chiropractic",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-155636",
+   "name": "Ottawa University-Kansas City",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-159373",
+   "name": "Louisiana State University Health Sciences Center-New Orleans",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-163259",
+   "name": "University of Maryland Baltimore",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-166717",
+   "name": "William James College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-166869",
+   "name": "MGH Institute of Health Professions",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-167677",
+   "name": "Saint John's Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-172608",
+   "name": "Walsh College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-172866",
+   "name": "Academy College",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-176451",
+   "name": "Wesley Biblical Seminary",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-177719",
+   "name": "Barnes-Jewish College Goldfarb School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-178767",
+   "name": "Stevens-The Institute of Business & Arts",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-178989",
+   "name": "Research College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-181145",
+   "name": "CHI Health School of Radiologic Technology",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-181428",
+   "name": "University of Nebraska Medical Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-183804",
+   "name": "Beth Medrash Govoha",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-187046",
+   "name": "Thomas Edison State University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-189282",
+   "name": "Mount Sinai Phillips School of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-190576",
+   "name": "CUNY Graduate School and University Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-194718",
+   "name": "Rabbinical Seminary Mkor Chaim",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-195438",
+   "name": "Sh'or Yoshuv Rabbinical College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-195438",
+   "name": "Sh'or Yoshuv Rabbinical College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-196255",
+   "name": "SUNY Downstate Health Sciences University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-196307",
+   "name": "Upstate Medical University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-196680",
+   "name": "Excelsior University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-199883",
+   "name": "Watts College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-200846",
+   "name": "University of Akron Wayne College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-201867",
+   "name": "Cincinnati College of Mortuary Science",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-206154",
+   "name": "Tri-State Bible College",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-206154",
+   "name": "Tri-State Bible College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-207342",
+   "name": "University of Oklahoma-Health Sciences Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-209296",
+   "name": "National University of Natural Medicine",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-209490",
+   "name": "Oregon Health & Science University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-210438",
+   "name": "University of Western States",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-210438",
+   "name": "University of Western States",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-212771",
+   "name": "Gratz College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-218335",
+   "name": "Medical University of South Carolina",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-219204",
+   "name": "National American University-Rapid City",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-222628",
+   "name": "Amberton University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-223117",
+   "name": "Baptist Missionary Association Theological Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-228644",
+   "name": "The University of Texas Health Science Center at San Antonio",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-228653",
+   "name": "The University of Texas Medical Branch at Galveston",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-228909",
+   "name": "University of North Texas Health Science Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-229300",
+   "name": "The University of Texas Health Science Center at Houston",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-229337",
+   "name": "Texas Tech University Health Sciences Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-232885",
+   "name": "Sentara College of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-233356",
+   "name": "Bon Secours Memorial College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-233684",
+   "name": "Strayer University-Virginia",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-234915",
+   "name": "City University of Seattle",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-235547",
+   "name": "Bastyr University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-243203",
+   "name": "University of Puerto Rico-Medical Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-245777",
+   "name": "Bais Medrash Elyon",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-245838",
+   "name": "Antioch University-Los Angeles",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-245847",
+   "name": "Antioch University-Santa Barbara",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-245883",
+   "name": "Antioch University-Seattle",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-245892",
+   "name": "Antioch University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-363712",
+   "name": "Yeshivah Gedolah Rabbinical College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-384421",
+   "name": "Rabbi Jacob Joseph School",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-407610",
+   "name": "Pacific Bible College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-407610",
+   "name": "Pacific Bible College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-414878",
+   "name": "Trine University-Regional/Non-Traditional Campuses",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-414878",
+   "name": "Trine University-Regional/Non-Traditional Campuses",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-416801",
+   "name": "The University of Texas MD Anderson Cancer Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-418126",
+   "name": "New York College of Health Professions",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-428259",
+   "name": "Ottawa University-Milwaukee",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-433004",
+   "name": "American University of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-434937",
+   "name": "Yeshiva College of the Nations Capital",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-435000",
+   "name": "Louisiana State University Health Sciences Center-Shreveport",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-437097",
+   "name": "University of Management and Technology",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439446",
+   "name": "Atlantic Institute of Oriental Medicine",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-443058",
+   "name": "Family of Faith Christian University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-443766",
+   "name": "Strayer University-Tennessee",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-443784",
+   "name": "Strayer University-Pennsylvania",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-443784",
+   "name": "Strayer University-Pennsylvania",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-444088",
+   "name": "Brookline College-Albuquerque",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-444130",
+   "name": "Northcentral University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-445267",
+   "name": "Central Methodist University-College of Graduate and Extended Studies",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-445735",
+   "name": "Roseman University of Health Sciences",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-447050",
+   "name": "United States University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-448239",
+   "name": "Careers Unlimited",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-449889",
+   "name": "American College of Education",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-450298",
+   "name": "Strayer University-Delaware",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-450377",
+   "name": "Strayer University-Alabama",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-450377",
+   "name": "Strayer University-Alabama",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-453215",
+   "name": "Strayer University-New Jersey",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-454582",
+   "name": "Ottawa University-Online",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-454856",
+   "name": "Denver College of Nursing",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-455664",
+   "name": "The Chicago School at Los Angeles",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-455664",
+   "name": "The Chicago School at Los Angeles",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-456621",
+   "name": "Strayer University-West Virginia",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-456621",
+   "name": "Strayer University-West Virginia",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-458919",
+   "name": "Strayer University-Georgia",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-458955",
+   "name": "Strayer University-Mississippi",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-458955",
+   "name": "Strayer University-Mississippi",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-458973",
+   "name": "Strayer University-Texas",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-459824",
+   "name": "Touro University Nevada",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-460349",
+   "name": "Johnson & Wales University-Online",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-461032",
+   "name": "Carolina College of Biblical Studies",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-461032",
+   "name": "Carolina College of Biblical Studies",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-461263",
+   "name": "American Medical Sciences Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475200",
+   "name": "Whitworth University-Adult Degree Programs",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475273",
+   "name": "Springfield College-Regional Online and Continuing Education",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475398",
+   "name": "Catholic International University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475741",
+   "name": "Chamberlain University-Indiana",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-475741",
+   "name": "Chamberlain University-Indiana",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-480073",
+   "name": "South University-Austin",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-480198",
+   "name": "Warner Pacific University Professional and Graduate Studies",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-481720",
+   "name": "South University-High Point",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-482547",
+   "name": "DeVry University-Nevada",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-482547",
+   "name": "DeVry University-Nevada",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-482653",
+   "name": "DeVry University-Virginia",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-482705",
+   "name": "Northeastern University Professional Programs",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-483036",
+   "name": "Texas A&M University-Central Texas",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-483124",
+   "name": "Arizona State University Digital Immersion",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-483124",
+   "name": "Arizona State University Digital Immersion",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-484613",
+   "name": "University of Phoenix-Arizona",
+   "field": "ipeds.studentFacultyRatio",
+   "value": 110,
+   "why": "student-faculty ratio impossible"
+  },
+  {
+   "id": "sc-484862",
+   "name": "University of West Los Angeles",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-487010",
+   "name": "The University of Tennessee Health Science Center",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-488004",
+   "name": "Central Yeshiva Beth Joseph",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-488031",
+   "name": "Abraham Lincoln University",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-488679",
+   "name": "Indiana Wesleyan University-National & Global",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-490319",
+   "name": "Yeshiva Bais Aharon",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-490328",
+   "name": "Mechon L'hoyroa",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-491190",
+   "name": "The Chicago School at San Diego",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-491288",
+   "name": "University of Wisconsin-Milwaukee Flex",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-491297",
+   "name": "University of Wisconsin-Parkside Flex",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-491765",
+   "name": "Yeshivas Emek Hatorah",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-492069",
+   "name": "Champion Christian College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-492689",
+   "name": "Texas Tech University Health Scienes Center El Paso",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-493673",
+   "name": "Professional University Dr. Carlos J. Borrero Rios",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-494162",
+   "name": "Arizona College of Nursing-Dallas",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-496283",
+   "name": "Provo College-Idaho Falls Campus",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-496326",
+   "name": "Eagle Gate College-Boise Campus",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-496803",
+   "name": "NewU University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-497408",
+   "name": "Bridges Christian College",
+   "field": "scorecard.gradRate",
+   "value": 0,
+   "why": "grad rate exactly 0"
+  },
+  {
+   "id": "sc-497462",
+   "name": "Redeemers University North America",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-497824",
+   "name": "Evangel University-College of Online Learning",
+   "field": "ipeds.retention",
+   "value": 0,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498049",
+   "name": "Arizona College of Nursing-Southfield",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498447",
+   "name": "Arizona College of Nursing-Falls Church",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-498456",
+   "name": "Arizona College of Nursing-Ontario",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-122117",
+   "name": "Dongguk University Los Angeles",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-166045",
+   "name": "Hebrew College",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-166045",
+   "name": "Hebrew College",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-231068",
+   "name": "SIT Graduate Institute",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-231068",
+   "name": "SIT Graduate Institute",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-430704",
+   "name": "Texas Health and Science University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439020",
+   "name": "Midwest College of Oriental Medicine-Skokie",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-439020",
+   "name": "Midwest College of Oriental Medicine-Skokie",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-439783",
+   "name": "New York College of Traditional Chinese Medicine",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-449834",
+   "name": "Virginia Beach Theological Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-454689",
+   "name": "Taft University System",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-454689",
+   "name": "Taft University System",
+   "field": "scorecard.size",
+   "value": 0,
+   "why": "enrollment exactly 0"
+  },
+  {
+   "id": "sc-487995",
+   "name": "Alhambra Medical University",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  },
+  {
+   "id": "sc-497453",
+   "name": "Jackson Theological Seminary",
+   "field": "ipeds.retention",
+   "value": -2,
+   "why": "retention no-data code or 0"
+  }
+ ]
+}

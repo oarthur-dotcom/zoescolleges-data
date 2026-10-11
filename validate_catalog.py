@@ -13,6 +13,17 @@ for i, x in enumerate(d["colleges"]):
     miss = [k for k in REQUIRED if k not in x]
     if miss: errs.append(f"{x.get('id', i)} missing {miss}")
     if len(errs) > 10: break
+# No-data codes and impossible values (Oct 11): sources use -1/-2/-3 for "no data"; never store them as numbers.
+RATES = {("ipeds","retention"), ("ipeds","yield"), ("scorecard","gradRate"), ("scorecard","admissionRate")}
+bad_vals = []
+for x in d["colleges"]:
+    for blk in ("scorecard", "ipeds"):
+        for k, v in (x.get(blk) or {}).items():
+            if not isinstance(v, (int, float)) or isinstance(v, bool): continue
+            if k != "netPrice" and v in (-1, -2, -3): bad_vals.append(f"{x['id']} {blk}.{k}={v} (no-data code)")
+            elif (blk, k) in RATES and not (0 < v <= 1): bad_vals.append(f"{x['id']} {blk}.{k}={v} (rate outside 0-1)")
+            elif k in ("size", "studentFacultyRatio") and v <= 0: bad_vals.append(f"{x['id']} {blk}.{k}={v}")
+if bad_vals: errs.append(f"{len(bad_vals)} no-data codes / impossible values, e.g. {bad_vals[:5]}")
 ids = [x["id"] for x in d["colleges"]]
 if len(ids) != len(set(ids)): errs.append("duplicate ids")
 n, now = counts(d); print("now ", n, now)
