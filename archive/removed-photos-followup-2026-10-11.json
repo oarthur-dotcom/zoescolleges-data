@@ -1,0 +1,67 @@
+{
+ "note": "Muse's follow-up answers (C-followup-verdicts-2026-10-11.json, sha c7fbd0a2...). Restore a removed photo by copying its 'photo' back.",
+ "removed": [
+  {
+   "id": "sc-204006",
+   "unitid": 204006,
+   "name": "Miami University-Hamilton",
+   "reason": "re-review: Muse remove; Depicts Hamilton Hall, a women's dormitory at Miami University's Oxford campus (ca. 1940; picryl/Miami University Libraries confirm location Oxford, Ohio). No evidence ties it to the Miami University-Hamilton regional campus.",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Miami_University_Hamilton_Hall.jpg/960px-Miami_University_Hamilton_Hall.jpg",
+    "credit": "Frank R. Snyder via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miami_University_Hamilton_Hall.jpg"
+   }
+  },
+  {
+   "id": "sc-204015",
+   "unitid": 204015,
+   "name": "Miami University-Middletown",
+   "reason": "re-review: Muse remove; DPLA file is a Middletown, Ohio real-estate listing for the Gardner Mansion (1 Gardner Place) contributed by Midpointe Library System; no mention of Miami University-Middletown and categories are generic DPLA/Ohio Digital Network tags.",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Photograph_of_the_Gardner_Mansion%2C_1_Gardner_Place%2C_Middletown%2C_Ohio_-_DPLA_-_87970faeb981677e500e56bc23cb7959.jpg/960px-Photograph_of_the_Gardner_Mansion%2C_1_Gardner_Place%2C_Middletown%2C_Ohio_-_DPLA_-_87970faeb981677e500e56bc23cb7959.jpg",
+    "credit": "DPLA bot via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Photograph_of_the_Gardner_Mansion,_1_Gardner_Place,_Middletown,_Ohio_-_DPLA_-_87970faeb981677e500e56bc23cb7959.jpg"
+   }
+  },
+  {
+   "id": "sc-219046",
+   "unitid": 219046,
+   "name": "Black Hills State University",
+   "reason": "re-review: Muse remove; File categories place the photo at Natural Tunnel State Park, Virginia, with 'Alternative Spring Break Volunteers at Virginia State Parks' (credit: Virginia State Parks staff). Description naming BHSU refers to the ASB volunteer group, not the Spearfish campus - conflicting evidence, not a campus photo.",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Black_Hills_State_University%2C_ASB_Group_004_%285537129394%29.jpg/960px-Black_Hills_State_University%2C_ASB_Group_004_%285537129394%29.jpg",
+    "credit": "Virginia State Parks staff via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Hills_State_University,_ASB_Group_004_(5537129394).jpg"
+   }
+  },
+  {
+   "id": "sc-483124",
+   "unitid": 483124,
+   "name": "Arizona State University Digital Immersion",
+   "reason": "main vs online: ASU Digital is the online arm; main campus keeps the photo",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Asubiodesign.jpg/960px-Asubiodesign.jpg",
+    "credit": "The original uploader was  Schwnj  at  English Wikipedia . via Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Asubiodesign.jpg"
+   }
+  }
+ ],
+ "kept_removed_for_obie": [
+  {
+   "unitid": 204176,
+   "name": "Mount Carmel College of Nursing",
+   "muse": "keep (college is on the hospital campus)",
+   "claude": "photo shows the hospital; left removed until Obie decides"
+  },
+  {
+   "unitid": 226231,
+   "name": "LeTourneau University",
+   "muse": "keep (with caveat)",
+   "claude": "earthmoving equipment, not a campus view; left removed until Obie decides"
+  }
+ ]
+}

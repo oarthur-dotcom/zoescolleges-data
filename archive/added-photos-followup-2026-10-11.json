@@ -1,0 +1,50 @@
+{
+ "note": "Held shared-file photos assigned to their rightful school by Muse's duplicate rulings; Commons file, license and credit read Oct 11; photo guard passes.",
+ "added": [
+  {
+   "id": "sc-122658",
+   "unitid": 122658,
+   "name": "San Joaquin Delta College",
+   "why": "File page description: 'Dolores Huerta Plaza in the Main Campus'; categories include 'Category:San Joaquin Delta College'. Dolores Huerta Plaza is at San Joaquin Delta College's main campus in Stockton, CA — not Delta College (University Center, MI).",
+   "not_for": [
+    169521
+   ],
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Delta_College_Campus.jpg/960px-Delta_College_Campus.jpg",
+    "credit": "BronzeAnubis via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADelta_College_Campus.jpg"
+   }
+  },
+  {
+   "id": "sc-204680",
+   "unitid": 204680,
+   "name": "Ohio State University-Mansfield Campus",
+   "why": "The photo is a joint welcome sign at the shared Mansfield site showing BOTH schools (left panel: 'The Ohio State University', right panel: 'North Central State College', banner: 'Mansfield Campus'); file description reads 'welcome sign at The Ohio State University and North Central State College site in Mansfield, Ohio'. Genuinely depicts both, so this is a reading-order tiebreak: Ohio State is named first in the description and occupies the sign's left (first-read) panel. Flag: either school could legitimately keep it.",
+   "not_for": [
+    204422
+   ],
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mansfield_Campus.JPG/960px-Mansfield_Campus.JPG",
+    "credit": "User:OHWiki via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMansfield_Campus.JPG"
+   }
+  },
+  {
+   "id": "sc-241410",
+   "unitid": 241410,
+   "name": "Pontifical Catholic University of Puerto Rico-Ponce",
+   "why": "File page: 'Front view of the Pontifical Catholic University of Puerto Rico main entrance'; filename locates it in Barrio Canas Urbano, Ponce, Puerto Rico; category 'Pontifical Catholic University of Puerto Rico'. This is the Ponce campus arch — kept by PUCPR-Ponce, removed from PUCPR-Mayaguez.",
+   "not_for": [
+    243586
+   ],
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Arch_at_the_main_entrance_to_the_Pontifical_Catholic_University_of_Puerto_Rico_in_Barrio_Canas_Urbano%2C_Ponce%2C_Puerto_Rico_%28DSCF0584%29.jpg/960px-Arch_at_the_main_entrance_to_the_Pontifical_Catholic_University_of_Puerto_Rico_in_Barrio_Canas_Urbano%2C_Ponce%2C_Puerto_Rico_%28DSCF0584%29.jpg",
+    "credit": "User:Mtmelendez via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AArch_at_the_main_entrance_to_the_Pontifical_Catholic_University_of_Puerto_Rico_in_Barrio_Canas_Urbano%2C_Ponce%2C_Puerto_Rico_%28DSCF0584%29.jpg"
+   }
+  }
+ ]
+}
