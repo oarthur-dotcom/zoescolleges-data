@@ -1,0 +1,35 @@
+{
+ "note": "Extra spaces removed from school names/cities on 2026-10-11 (fix #29).",
+ "changes": [
+  {
+   "id": "sc-484932",
+   "field": "city",
+   "before": "South  Charleston",
+   "after": "South Charleston"
+  },
+  {
+   "id": "sc-139311",
+   "field": "name",
+   "before": "Clayton  State University",
+   "after": "Clayton State University"
+  },
+  {
+   "id": "sc-190716",
+   "field": "name",
+   "before": "D'Youville  University",
+   "after": "D'Youville University"
+  },
+  {
+   "id": "sc-197036",
+   "field": "city",
+   "before": "West  Point",
+   "after": "West Point"
+  },
+  {
+   "id": "sc-434937",
+   "field": "city",
+   "before": "Silver  Spring",
+   "after": "Silver Spring"
+  }
+ ]
+}
