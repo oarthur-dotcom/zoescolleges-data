@@ -9,6 +9,9 @@ Usage:
   python3 ops/rollback.py --app --yes           # app main -> known-good app commit (Netlify redeploys)
   python3 ops/rollback.py --data --yes          # data live (and main) -> known-good data commit
   python3 ops/rollback.py --app --to <commit> --yes
+Since #37 the site reads the data release pinned in the app (DATA_REF). Rolling back the app also puts back the
+data it reads; roll back BOTH (the default) to keep data `live` equal to the app's DATA_REF. --data alone changes
+nothing on the site until an app release points DATA_REF at it.
 Testing: --app-repo/--data-repo point at other clones (used by the rollback drill on throwaway repos).
 """
 import argparse, json, os, subprocess, sys, tempfile, urllib.request
