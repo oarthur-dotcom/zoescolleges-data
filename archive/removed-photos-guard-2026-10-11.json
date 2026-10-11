@@ -1,0 +1,135 @@
+{
+ "note": "Photos removed by the photo guard review on 2026-10-11 (fix #25). Each was checked on its Wikimedia Commons file page. Kept here so any can be restored.",
+ "removed": [
+  {
+   "id": "sc-106412",
+   "unitid": 106412,
+   "name": "University of Arkansas at Pine Bluff",
+   "state": "AR",
+   "reason": "NOT A CAMPUS: football game photo (TXSU vs UAPB)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/TXSU_vs_UAPB_10-4-25_%2821%29.jpg/960px-TXSU_vs_UAPB_10-4-25_%2821%29.jpg",
+    "credit": "2C2K Photography via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TXSU_vs_UAPB_10-4-25_(21).jpg"
+   }
+  },
+  {
+   "id": "sc-138947",
+   "unitid": 138947,
+   "name": "Clark Atlanta University",
+   "state": "GA",
+   "reason": "NOT A CAMPUS: event photo (Secretary Blinken visit to Morehouse/Clark Atlanta)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Secretary_Blinken_Tours_the_Campus_of_Morehouse_College_and_Clark_Atlanta_University_and_Participates_in_a_Roundtable_discussion_on_HCBUs_-_52884215792.jpg/960px-Secretary_Blinken_Tours_the_Campus_of_Morehouse_College_and_Clark_Atlanta_University_and_Participates_in_a_Roundtable_discussion_on_HCBUs_-_52884215792.jpg",
+    "credit": "U.S. Department of State via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Secretary_Blinken_Tours_the_Campus_of_Morehouse_College_and_Clark_Atlanta_University_and_Participates_in_a_Roundtable_discussion_on_HCBUs_-_52884215792.jpg"
+   }
+  },
+  {
+   "id": "sc-150145",
+   "unitid": 150145,
+   "name": "Bethel University",
+   "state": "IN",
+   "reason": "WRONG SCHOOL: Bethel University (Minnesota) photo on the Indiana school",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BethelWestEnd.JPG/960px-BethelWestEnd.JPG",
+    "credit": "Travellers & Tinkers via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BethelWestEnd.JPG"
+   }
+  },
+  {
+   "id": "sc-164562",
+   "unitid": 164562,
+   "name": "Assumption University",
+   "state": "MA",
+   "reason": "WRONG SCHOOL: Assumption University, Bangkok, Thailand (school is in Worcester MA)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/ABAC_Assumption_University_Pavillon_Bangkok_Thailand.jpg/960px-ABAC_Assumption_University_Pavillon_Bangkok_Thailand.jpg",
+    "credit": "Grossbildjaeger via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ABAC_Assumption_University_Pavillon_Bangkok_Thailand.jpg"
+   }
+  },
+  {
+   "id": "sc-177065",
+   "unitid": 177065,
+   "name": "Columbia College",
+   "state": "MO",
+   "reason": "WRONG SCHOOL: Columbia College (South Carolina) postcard on the Missouri school",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Columbia_-_Campus_View%2C_Columbia_College_01.jpg/960px-Columbia_-_Campus_View%2C_Columbia_College_01.jpg",
+    "credit": "Sargeant via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Columbia_-_Campus_View,_Columbia_College_01.jpg"
+   }
+  },
+  {
+   "id": "sc-216357",
+   "unitid": 216357,
+   "name": "Thiel College",
+   "state": "PA",
+   "reason": "NOT A CAMPUS: game photo (Marietta College vs Thiel College)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Marietta_College_VS_Thiel_College_%284958357009%29.jpg/960px-Marietta_College_VS_Thiel_College_%284958357009%29.jpg",
+    "credit": "Writing On The Mall via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marietta_College_VS_Thiel_College_(4958357009).jpg"
+   }
+  },
+  {
+   "id": "sc-217633",
+   "unitid": 217633,
+   "name": "Anderson University",
+   "state": "SC",
+   "reason": "WRONG SCHOOL: Anderson University (Indiana) photo on the South Carolina school",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Anderson_University_Campus.jpg/960px-Anderson_University_Campus.jpg",
+    "credit": "Emmmmh via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anderson_University_Campus.jpg"
+   }
+  },
+  {
+   "id": "sc-219718",
+   "unitid": 219718,
+   "name": "Bethel University",
+   "state": "TN",
+   "reason": "WRONG SCHOOL: Bethel University (Minnesota) photo on the Tennessee school",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/BethelWestEnd.JPG/960px-BethelWestEnd.JPG",
+    "credit": "Travellers & Tinkers via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BethelWestEnd.JPG"
+   }
+  },
+  {
+   "id": "sc-219833",
+   "unitid": 219833,
+   "name": "Christian Brothers University",
+   "state": "TN",
+   "reason": "NOT A CAMPUS: police cruiser",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Christian_Brothers_University_Police_cruiser_Memphis_TN_2013-10-212001.jpg/960px-Christian_Brothers_University_Police_cruiser_Memphis_TN_2013-10-212001.jpg",
+    "credit": "Thomas R Machnitzki ( thomas     machnitzki.com) via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Christian_Brothers_University_Police_cruiser_Memphis_TN_2013-10-212001.jpg"
+   }
+  },
+  {
+   "id": "sc-228884",
+   "unitid": 228884,
+   "name": "Texas College",
+   "state": "TX",
+   "reason": "WRONG SCHOOL: North Central Texas College campus police building (school is Texas College, Tyler TX)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/North_Central_Texas_College_June_2017_32_%28Campus_Police%29.jpg/960px-North_Central_Texas_College_June_2017_32_%28Campus_Police%29.jpg",
+    "credit": "Michael Barera via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:North_Central_Texas_College_June_2017_32_(Campus_Police).jpg"
+   }
+  }
+ ]
+}
