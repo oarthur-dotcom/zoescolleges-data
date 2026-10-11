@@ -45,9 +45,15 @@ def shape_feeds(o):
     if not isinstance(S,list): return False,'expected schools as array or unitid-keyed object'
     bad=[s for s in S if not (isinstance(s,dict) and isinstance(s.get('unitid'),int))]
     return (not bad),(f'{len(S)} schools' if not bad else f'{len(bad)} entries without unitid')
+def shape_followup(o):
+    if not isinstance(o,dict): return False,'expected object'
+    u=o.get('unverifiable_reviews'); d=o.get('duplicate_adjudications')
+    if not isinstance(u,list) or not isinstance(d,list): return False,'expected unverifiable_reviews[] and duplicate_adjudications[]'
+    bad=[x for x in u if not (isinstance(x,dict) and isinstance(x.get('unitid'),int) and x.get('verdict') in ('keep','remove'))]
+    return (not bad),(f"{len(u)} re-reviews, {len(d)} duplicate rulings" if not bad else f'{len(bad)} re-reviews missing unitid or keep/remove')
 def shape_markdown(b): return (len(b)>0),f'{len(b)} bytes of text'
 SHAPES=[(r'^00-.*\.md$','report',None),(r'^B-deadlines-schoollist.*\.json$','deadline input list',shape_schoollist),(r'^B-deadlines.*\.json$','deadlines',shape_deadlines),
-        (r'^C-(live-)?photo-verdicts.*\.json$','photo verdicts',shape_verdicts),(r'^C-photos.*\.json$','photo hunt',shape_photos),(r'^D-catalog-unitid-part\d+-of-\d+\.json$','catalog part',shape_catalog_part),
+        (r'^C-followup-verdicts.*\.json$','follow-up verdicts',shape_followup),(r'^C-(live-)?photo-verdicts.*\.json$','photo verdicts',shape_verdicts),(r'^C-photos.*\.json$','photo hunt',shape_photos),(r'^D-catalog-unitid-part\d+-of-\d+\.json$','catalog part',shape_catalog_part),
         (r'^D-field-dictionary.*\.json$','field dictionary',shape_dictionary),(r'^E-campus-feeds.*\.json$','campus feeds',shape_feeds)]
 
 def main(folder, logpath=None):
