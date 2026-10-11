@@ -25,7 +25,12 @@ main_sha = git(APP, "rev-parse", "--short", "origin/main")
 check("Site up", st == 200, f"HTTP {st}")
 check("Live site == app main", sha(live) == sha(main_html), f"live {sha(live)} vs main@{main_sha} {sha(main_html)}")
 m = re.search(rb'CATALOG_URL\s*=\s*"([^"]+)"', live); cat_url = m.group(1).decode() if m else None
-check("Site reads approved catalog branch", bool(cat_url and "@live/" in cat_url), str(cat_url))
+_ref = re.search(rb'const DATA_REF = "([0-9a-f]{7,40})"', live)   # #37: pinned data release
+if _ref:
+    _r = _ref.group(1).decode(); cat_url = f"https://cdn.jsdelivr.net/gh/oarthur-dotcom/zoescolleges-data@{_r}/colleges.json"
+    check("Site reads approved data release", git(DATA, "rev-parse", "origin/live").startswith(_r), f"DATA_REF {_r}")
+else:
+    check("Site reads approved catalog branch", bool(cat_url and "@live/" in cat_url), str(cat_url))
 # 2 live catalog == data origin/live and healthy
 st, cat = get(cat_url or "")
 live_file = subprocess.check_output(["git", "-C", DATA, "show", "origin/live:colleges.json"])
