@@ -47,7 +47,7 @@ def shape_feeds(o):
     return (not bad),(f'{len(S)} schools' if not bad else f'{len(bad)} entries without unitid')
 def shape_markdown(b): return (len(b)>0),f'{len(b)} bytes of text'
 SHAPES=[(r'^00-.*\.md$','report',None),(r'^B-deadlines-schoollist.*\.json$','deadline input list',shape_schoollist),(r'^B-deadlines.*\.json$','deadlines',shape_deadlines),
-        (r'^C-photo-verdicts.*\.json$','photo verdicts',shape_verdicts),(r'^C-photos.*\.json$','photo hunt',shape_photos),(r'^D-catalog-unitid-part\d+-of-\d+\.json$','catalog part',shape_catalog_part),
+        (r'^C-(live-)?photo-verdicts.*\.json$','photo verdicts',shape_verdicts),(r'^C-photos.*\.json$','photo hunt',shape_photos),(r'^D-catalog-unitid-part\d+-of-\d+\.json$','catalog part',shape_catalog_part),
         (r'^D-field-dictionary.*\.json$','field dictionary',shape_dictionary),(r'^E-campus-feeds.*\.json$','campus feeds',shape_feeds)]
 
 def main(folder, logpath=None):
