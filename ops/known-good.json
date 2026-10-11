@@ -1,13 +1,13 @@
 {
  "about": "Last versions verified good on the live site. Update after every verified release (postdeploy_verify.py ALL PASS).",
  "app": {
-  "commit": "1b09c50",
-  "verified": "2026-10-11 1:47 PM ET (postdeploy_verify ALL PASS 14/14)",
-  "before_that": "828dfa0"
+  "commit": "c37c25d",
+  "verified": "2026-10-11 7:42 PM ET (postdeploy_verify ALL PASS 14/14)",
+  "before_that": "1b09c50"
  },
  "data": {
-  "commit": "4dee74b",
-  "verified": "2026-10-11 1:47 PM ET (all four data files served exactly from the pinned release)",
-  "before_that": "d2af311"
+  "commit": "e328fc1",
+  "verified": "2026-10-11 7:42 PM ET (data files served exactly from the pinned release)",
+  "before_that": "4dee74b"
  }
 }
