@@ -31,7 +31,20 @@ try:
     prev = json.load(open(sys.argv[2])) if len(sys.argv) > 2 else json.loads(subprocess.check_output(["git", "show", "HEAD~1:colleges.json"], stderr=subprocess.DEVNULL))
     pn, before = counts(prev); print("prev", pn, before)
     if n < pn * 0.95: errs.append(f"school count dropped {pn} -> {n}")
+    # Photo removals that are each listed in an archived removal list (archive/removed-photos-*.json) are deliberate
+    # and approved-reviewable, so they don't count toward the 5% drop alarm. Anything unlisted still does.
+    listed = set()
+    import glob
+    for f in glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), "archive", "removed-photos*.json")):
+        try: listed |= {r["id"] for r in json.load(open(f))["removed"]}
+        except Exception: pass
+    pid = {x["id"] for x in prev["colleges"] if x.get("photo")}; nid = {x["id"] for x in d["colleges"] if x.get("photo")}
+    unlisted_photo_drops = len((pid - nid) - listed)
     for k in COVERAGE:
+        if k == "photo" and listed:
+            if unlisted_photo_drops > 0: errs.append(f"{unlisted_photo_drops} photos removed without being in an archived removal list")
+            elif now[k] < before[k]: print(f"photo: {before[k]-now[k]} removed, all in archived removal lists")
+            continue
         if before[k] and now[k] < before[k] * 0.95: errs.append(f"'{k}' coverage dropped {before[k]} -> {now[k]}")
 except subprocess.CalledProcessError: pass
 # Photo guard (Oct 11): no photo from another country, no non-campus photo, no photo shared by two schools.

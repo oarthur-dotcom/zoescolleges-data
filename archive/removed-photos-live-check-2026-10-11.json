@@ -1,0 +1,1086 @@
+{
+ "note": "Live photos Muse's round-3 check (C-live-photo-verdicts-2026-10-11.json, sha256 2e276673…) found wrong: all high-confidence removes plus 4 medium ones with a concrete reason. 6 more were already removed by the photo guard (fix #25). Kept here so any can be restored.",
+ "removed": [
+  {
+   "id": "sc-110060",
+   "unitid": 110060,
+   "name": "Bethesda University",
+   "state": "CA",
+   "reason": "File is the Bethesda University logo ('Bethesda Logo'), not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Bethesda_University_Green_Yellow.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bethesda_University_Green_Yellow.png/960px-Bethesda_University_Green_Yellow.png",
+    "credit": "Bethesdau via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bethesda_University_Green_Yellow.png"
+   }
+  },
+  {
+   "id": "sc-110778",
+   "unitid": 110778,
+   "name": "Sofia University",
+   "state": "CA",
+   "reason": "Remove: description reads 'Sofia University Rectorate - Sofia, Bulgaria.' — a different school in a different country (Bulgaria), not Sofia University in Palo Alto, CA.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Sofia_University_panorama_2.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Sofia_University_panorama_2.jpg/960px-Sofia_University_panorama_2.jpg",
+    "credit": "MrPanyGoff via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sofia_University_panorama_2.jpg"
+   }
+  },
+  {
+   "id": "sc-111045",
+   "unitid": 111045,
+   "name": "Haven University",
+   "state": "CA",
+   "reason": "Description: \"Sign at Lock Haven University in Lock Haven, Clinton County, Pennsylvania\" — a DIFFERENT school in a different state than Haven University, Garden Grove CA.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Lock_Haven_University_Sign.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Lock_Haven_University_Sign.jpg/960px-Lock_Haven_University_Sign.jpg",
+    "credit": "User:Ruhrfisch via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lock_Haven_University_Sign.jpg"
+   }
+  },
+  {
+   "id": "sc-132842",
+   "unitid": 132842,
+   "name": "Albizu University-Miami",
+   "state": "FL",
+   "reason": "Description shows Carlos Albizu University's San Juan Campus in Old San Juan, Puerto Rico - wrong campus/city (not Miami FL).",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Carlos_Albizu_University%2C_San_Juan_Campus_-_Buildings_in_Old_San_Juan%2C_Puerto_Rico_-_DSC06952.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Carlos_Albizu_University%2C_San_Juan_Campus_-_Buildings_in_Old_San_Juan%2C_Puerto_Rico_-_DSC06952.JPG/960px-Carlos_Albizu_University%2C_San_Juan_Campus_-_Buildings_in_Old_San_Juan%2C_Puerto_Rico_-_DSC06952.JPG",
+    "credit": "Daderot via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Carlos_Albizu_University,_San_Juan_Campus_-_Buildings_in_Old_San_Juan,_Puerto_Rico_-_DSC06952.JPG"
+   }
+  },
+  {
+   "id": "sc-133809",
+   "unitid": 133809,
+   "name": "Florida College",
+   "state": "FL",
+   "reason": "Description names a different school: 'North Florida Community College Science Learning Center, Madison, Madison County, Florida' — not Florida College in Temple Terrace.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:North_Florida_Community_College_Science_Learning_Center.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/North_Florida_Community_College_Science_Learning_Center.JPG/960px-North_Florida_Community_College_Science_Learning_Center.JPG",
+    "credit": "Michael Rivera via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:North_Florida_Community_College_Science_Learning_Center.JPG"
+   }
+  },
+  {
+   "id": "sc-139968",
+   "unitid": 139968,
+   "name": "Gordon State College",
+   "state": "GA",
+   "reason": "dashcam photo of an I-75 exit sign for the school — not a campus photo",
+   "confidence": "medium",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Georgia_I75_sb_Exit_201_Gordon_State_College_dashcam.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Georgia_I75_sb_Exit_201_Gordon_State_College_dashcam.jpg/960px-Georgia_I75_sb_Exit_201_Gordon_State_College_dashcam.jpg",
+    "credit": "Michael Rivera via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Georgia_I75_sb_Exit_201_Gordon_State_College_dashcam.jpg"
+   }
+  },
+  {
+   "id": "sc-142461",
+   "unitid": 142461,
+   "name": "Northwest Nazarene University",
+   "state": "ID",
+   "reason": "Subject is the Northwest Nazarene University softball team (people), not the campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:NNU_Crusaders_Softball_Team.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/NNU_Crusaders_Softball_Team.JPG/960px-NNU_Crusaders_Softball_Team.JPG",
+    "credit": "Kari Stetson via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NNU_Crusaders_Softball_Team.JPG"
+   }
+  },
+  {
+   "id": "sc-143978",
+   "unitid": 143978,
+   "name": "The Chicago School at Chicago",
+   "state": "IL",
+   "reason": "Categories name Wells Street Bridge (Chicago, 1922 bascule) — photo is a bridge, not the school",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Chicago-school-building.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Chicago-school-building.JPG/960px-Chicago-school-building.JPG",
+    "credit": "Abrahami via Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago-school-building.JPG"
+   }
+  },
+  {
+   "id": "sc-148627",
+   "unitid": 148627,
+   "name": "Saint Xavier University",
+   "state": "IL",
+   "reason": "Remove: filed under 'Wikipedia Takes Ahmedabad 1' (Ahmedabad, India) by an India-based uploader — St. Xavier's College Ahmedabad, a different school in a different country, not Chicago's Saint Xavier University.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Outside_St.Xaviers_Canteen.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Outside_St.Xaviers_Canteen.jpg/960px-Outside_St.Xaviers_Canteen.jpg",
+    "credit": "Wizard.vishalbhatt via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Outside_St.Xaviers_Canteen.jpg"
+   }
+  },
+  {
+   "id": "sc-149781",
+   "unitid": 149781,
+   "name": "Wheaton College",
+   "state": "IL",
+   "reason": "Commons description names 'Wheaton College, Massachusetts' (Category:Wheaton College (Massachusetts)) - a different school than Wheaton College, Wheaton IL",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Wheaton_College_(MA)_Sign.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Wheaton_College_%28MA%29_Sign.jpg/960px-Wheaton_College_%28MA%29_Sign.jpg",
+    "credit": "Kenneth C. Zirkel via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wheaton_College_(MA)_Sign.jpg"
+   }
+  },
+  {
+   "id": "sc-150604",
+   "unitid": 150604,
+   "name": "Franklin College",
+   "state": "IN",
+   "reason": "Description says Franklin College in Athens, GA (became the University of Georgia) — a different school from Franklin College, Franklin, IN",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Franklin_College_1851.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Franklin_College_1851.jpg/960px-Franklin_College_1851.jpg",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Franklin_College_1851.jpg"
+   }
+  },
+  {
+   "id": "sc-150941",
+   "unitid": 150941,
+   "name": "Huntington University",
+   "state": "IN",
+   "reason": "Photo is of a Sara Groves concert at Huntington University - a person/event subject, not a campus photo.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:SaraGrovesHuntingtonConcert.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/SaraGrovesHuntingtonConcert.jpg/960px-SaraGrovesHuntingtonConcert.jpg",
+    "credit": "Flickr photographer  \"laffy4k\", Chris Metcalf via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SaraGrovesHuntingtonConcert.jpg"
+   }
+  },
+  {
+   "id": "sc-151333",
+   "unitid": 151333,
+   "name": "Indiana University-Kokomo",
+   "state": "IN",
+   "reason": "Subject is a person, not a campus: filename is a 'Chancellor photo shoot' and Commons category is 'Michael Harris (academic)'.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:20110815-Office%20Chancellor%20photo%20shoot-IMG%206021-by-Indiana-University-Kokomo.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/20110815-Office_Chancellor_photo_shoot-IMG_6021-by-Indiana-University-Kokomo.jpg/960px-20110815-Office_Chancellor_photo_shoot-IMG_6021-by-Indiana-University-Kokomo.jpg",
+    "credit": "Jegrant  at  English Wikipedia via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20110815-Office_Chancellor_photo_shoot-IMG_6021-by-Indiana-University-Kokomo.jpg"
+   }
+  },
+  {
+   "id": "sc-155900",
+   "unitid": 155900,
+   "name": "Southwestern College",
+   "state": "KS",
+   "reason": "Wrong school: description places photo at Southwestern College (California) in Chula Vista, CA -- not Southwestern College in Winfield, KS.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Southwestern_College_library_exterior.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Southwestern_College_library_exterior.jpg/960px-Southwestern_College_library_exterior.jpg",
+    "credit": "Bnuuy via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Southwestern_College_library_exterior.jpg"
+   }
+  },
+  {
+   "id": "sc-160959",
+   "unitid": 160959,
+   "name": "College of the Atlantic",
+   "state": "ME",
+   "reason": "description: lion dance at UWC Atlantic College in Wales, UK — a different school in a different country, not College of the Atlantic in Maine",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Atlantic_College_Lion_Dance_1.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Atlantic_College_Lion_Dance_1.jpg/960px-Atlantic_College_Lion_Dance_1.jpg",
+    "credit": "Albert Tan 谭云潮 via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantic_College_Lion_Dance_1.jpg"
+   }
+  },
+  {
+   "id": "sc-161563",
+   "unitid": 161563,
+   "name": "Thomas College",
+   "state": "ME",
+   "reason": "File is \"St. Thomas College, Palai, Kottayam\" (Wiki Loves Schools Kottayam district, India) — a different school in a different COUNTRY than Thomas College, Waterville ME.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:0_St._Thomas_College_Palai_Kottayam_120.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/0_St._Thomas_College_Palai_Kottayam_120.jpg/960px-0_St._Thomas_College_Palai_Kottayam_120.jpg",
+    "credit": "Anoopgnm via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0_St._Thomas_College_Palai_Kottayam_120.jpg"
+   }
+  },
+  {
+   "id": "sc-163578",
+   "unitid": 163578,
+   "name": "Notre Dame of Maryland University",
+   "state": "MD",
+   "reason": "aerial photograph of the city of Baltimore, MD — not the Notre Dame of Maryland University campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Baltimore,_Maryland_(14475049746).jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Baltimore%2C_Maryland_%2814475049746%29.jpg/960px-Baltimore%2C_Maryland_%2814475049746%29.jpg",
+    "credit": "Ken Lund  from Reno, Nevada, USA via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baltimore,_Maryland_(14475049746).jpg"
+   }
+  },
+  {
+   "id": "sc-163976",
+   "unitid": 163976,
+   "name": "St. John's College",
+   "state": "MD",
+   "reason": "description says 'St. John's College in Cambridge'; category 'Great Gate of St John's College, Cambridge' (UK) — wrong school, not Annapolis MD",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:St._John%E2%80%99s_College.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/St._John%E2%80%99s_College.jpg/960px-St._John%E2%80%99s_College.jpg",
+    "credit": "Alexander Czuperski via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:St._John%E2%80%99s_College.jpg"
+   }
+  },
+  {
+   "id": "sc-164368",
+   "unitid": 164368,
+   "name": "Hult International Business School",
+   "state": "MA",
+   "reason": "Entrance to Hult International Business School on 'John Street, Holborn' -- London, UK, not Cambridge MA",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Entrance_to_Hult_International_Business_School%2C_John_Street%2C_Holborn%2C_December_2023.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Entrance_to_Hult_International_Business_School%2C_John_Street%2C_Holborn%2C_December_2023.jpg/960px-Entrance_to_Hult_International_Business_School%2C_John_Street%2C_Holborn%2C_December_2023.jpg",
+    "credit": "No Swan So Fine via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Hult_International_Business_School,_John_Street,_Holborn,_December_2023.jpg"
+   }
+  },
+  {
+   "id": "sc-165802",
+   "unitid": 165802,
+   "name": "Fisher College",
+   "state": "MA",
+   "reason": "DESC names Max M. Fisher College of Business at Ohio State University (Columbus OH) — a different school in a different state",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Fisher_College_lamp_and_pillar.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Fisher_College_lamp_and_pillar.jpg/960px-Fisher_College_lamp_and_pillar.jpg",
+    "credit": "Kevin Payravi via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fisher_College_lamp_and_pillar.jpg"
+   }
+  },
+  {
+   "id": "sc-166692",
+   "unitid": 166692,
+   "name": "Massachusetts Maritime Academy",
+   "state": "MA",
+   "reason": "Photo depicts Coast Guard rescue swimmers training in water (Category:Rescue swimmers in water), not the academy campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Aviation_Survival_Technicians_train_at_Massachusetts_Maritime_Academy_in_Cape_Cod_170119-G-OS599-1008.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Aviation_Survival_Technicians_train_at_Massachusetts_Maritime_Academy_in_Cape_Cod_170119-G-OS599-1008.jpg/960px-Aviation_Survival_Technicians_train_at_Massachusetts_Maritime_Academy_in_Cape_Cod_170119-G-OS599-1008.jpg",
+    "credit": "Petty Officer 3rd Class Nicole Groll via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviation_Survival_Technicians_train_at_Massachusetts_Maritime_Academy_in_Cape_Cod_170119-G-OS599-1008.jpg"
+   }
+  },
+  {
+   "id": "sc-167057",
+   "unitid": 167057,
+   "name": "The New England Conservatory of Music",
+   "state": "MA",
+   "reason": "1871 printed winter-term advertisement, not a campus photo",
+   "confidence": "medium",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:1871_NewEnglandConservatory_WinterTerm_BostonMusicHall.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/1871_NewEnglandConservatory_WinterTerm_BostonMusicHall.png/960px-1871_NewEnglandConservatory_WinterTerm_BostonMusicHall.png",
+    "credit": "Author unknown via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1871_NewEnglandConservatory_WinterTerm_BostonMusicHall.png"
+   }
+  },
+  {
+   "id": "sc-167677",
+   "unitid": 167677,
+   "name": "Saint John's Seminary",
+   "state": "MA",
+   "reason": "DESC names Saint John's Seminary in Camarillo, California — a different school 3,000 miles from Brighton MA",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Saint_Johns_Seminary_Camarillo_road_faci8ng.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Saint_Johns_Seminary_Camarillo_road_faci8ng.JPG/960px-Saint_Johns_Seminary_Camarillo_road_faci8ng.JPG",
+    "credit": "NatGertler via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Johns_Seminary_Camarillo_road_faci8ng.JPG"
+   }
+  },
+  {
+   "id": "sc-168786",
+   "unitid": 168786,
+   "name": "Aquinas College",
+   "state": "MI",
+   "reason": "photo is of Aquinas College in Perth, Western Australia (different school), not Aquinas College, Grand Rapids MI",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Aquinas_College_Junior_School%2C_WA.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Aquinas_College_Junior_School%2C_WA.jpg/960px-Aquinas_College_Junior_School%2C_WA.jpg",
+    "credit": "Five Years via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Aquinas_College_Junior_School,_WA.jpg"
+   }
+  },
+  {
+   "id": "sc-172866",
+   "unitid": 172866,
+   "name": "Academy College",
+   "state": "MN",
+   "reason": "File is Macclesfield Academy & College (geograph UK photo, Macclesfield England) - a different school in a different country (not Bloomington MN).",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Macclesfield_Academy_%26_College_%28geograph_6005141%29.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Macclesfield_Academy_%26_College_%28geograph_6005141%29.jpg/960px-Macclesfield_Academy_%26_College_%28geograph_6005141%29.jpg",
+    "credit": "Colin Park via Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macclesfield_Academy_%26_College_(geograph_6005141).jpg"
+   }
+  },
+  {
+   "id": "sc-174862",
+   "unitid": 174862,
+   "name": "Crown College",
+   "state": "MN",
+   "reason": "Description: \"academic buildings of Crown College, including the Crown-Merrill Dining Hall\" — Commons category \"Crown College (UC Santa Cruz)\". A DIFFERENT school than Crown College, Saint Bonifacius MN.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Crown_College_Plaza.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crown_College_Plaza.jpg/960px-Crown_College_Plaza.jpg",
+    "credit": "Ponderosapine210 via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Crown_College_Plaza.jpg"
+   }
+  },
+  {
+   "id": "sc-178679",
+   "unitid": 178679,
+   "name": "Ozark Christian College",
+   "state": "MO",
+   "reason": "Commons category 'JPG logos with white background' — the file is a logo, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Ozark_Christian_College_2024.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ozark_Christian_College_2024.jpg/960px-Ozark_Christian_College_2024.jpg",
+    "credit": "Ozark1942 via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ozark_Christian_College_2024.jpg"
+   }
+  },
+  {
+   "id": "sc-181145",
+   "unitid": 181145,
+   "name": "CHI Health School of Radiologic Technology",
+   "state": "NE",
+   "reason": "Description identifies 慈濟科技大學智慧樓 (Tzu Chi University of Science and Technology, Taiwan) — wrong school, wrong country",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:TcustBuilding03.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/TcustBuilding03.jpg/960px-TcustBuilding03.jpg",
+    "credit": "Billy1125  at  Chinese Wikipedia via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TcustBuilding03.jpg"
+   }
+  },
+  {
+   "id": "sc-183789",
+   "unitid": 183789,
+   "name": "Berkeley College-Woodland Park",
+   "state": "NJ",
+   "reason": "Not a campus photo: portrait of Berkeley College VP Angela Harrington -- a person, per the description.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Angela_Harrington%2C_VP_Berkeley_College_02.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Angela_Harrington%2C_VP_Berkeley_College_02.jpg/960px-Angela_Harrington%2C_VP_Berkeley_College_02.jpg",
+    "credit": "VIA Agency via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Angela_Harrington,_VP_Berkeley_College_02.jpg"
+   }
+  },
+  {
+   "id": "sc-189282",
+   "unitid": 189282,
+   "name": "Mount Sinai Phillips School of Nursing",
+   "state": "NY",
+   "reason": "description: the Dazian Pavilion of Beth Israel Medical Center — a different institution, not the Mount Sinai Phillips nursing school",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Beth_Israel_Medical_Center_-_New_York_City.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beth_Israel_Medical_Center_-_New_York_City.jpg/960px-Beth_Israel_Medical_Center_-_New_York_City.jpg",
+    "credit": "Momos via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beth_Israel_Medical_Center_-_New_York_City.jpg"
+   }
+  },
+  {
+   "id": "sc-192864",
+   "unitid": 192864,
+   "name": "Marymount Manhattan College",
+   "state": "NY",
+   "reason": "Commons description says the image is the logo of Marymount Manhattan College, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:MMC_Stacked_copy.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/MMC_Stacked_copy.jpg/960px-MMC_Stacked_copy.jpg",
+    "credit": "Marymount Manhattan College via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MMC_Stacked_copy.jpg"
+   }
+  },
+  {
+   "id": "sc-195164",
+   "unitid": 195164,
+   "name": "St Bonaventure University",
+   "state": "NY",
+   "reason": "Description describes Place Bonaventure in Montréal, Québec — not St. Bonaventure University in Saint Bonaventure, NY",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Place_Bonaventure_03.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Place_Bonaventure_03.jpg/960px-Place_Bonaventure_03.jpg",
+    "credit": "Jeangagnon via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Place_Bonaventure_03.jpg"
+   }
+  },
+  {
+   "id": "sc-196149",
+   "unitid": 196149,
+   "name": "State University of New York at Cortland",
+   "state": "NY",
+   "reason": "Commons description names a 2026 NCAA basketball game between Endicott College and SUNY Cortland players in Beverly MA - people/event, different city/state",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Aaron_Coston-SUNY_Cortland.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Aaron_Coston-SUNY_Cortland.jpg/960px-Aaron_Coston-SUNY_Cortland.jpg",
+    "credit": "Stephen LaBonte via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aaron_Coston-SUNY_Cortland.jpg"
+   }
+  },
+  {
+   "id": "sc-197045",
+   "unitid": 197045,
+   "name": "Utica University",
+   "state": "NY",
+   "reason": "The file is the Utica College logo (description: 'Utica College logo'; logo categories), not a campus photo — a non-campus subject.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Utica_College.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Utica_College.png/960px-Utica_College.png",
+    "credit": "Utica College via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Utica_College.png"
+   }
+  },
+  {
+   "id": "sc-199032",
+   "unitid": 199032,
+   "name": "Montreat College",
+   "state": "NC",
+   "reason": "File is the Montreat College athletics mark/logo, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Montreat_college_athletics_mark.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Montreat_college_athletics_mark.png/960px-Montreat_college_athletics_mark.png",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Montreat_college_athletics_mark.png"
+   }
+  },
+  {
+   "id": "sc-199883",
+   "unitid": 199883,
+   "name": "Watts College of Nursing",
+   "state": "NC",
+   "reason": "Wrong school: description and categories name 'North Carolina School of Science and Mathematics Watts Hall' -- not Watts College of Nursing.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:2008-07-04_NCSSM_Watts.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2008-07-04_NCSSM_Watts.jpg/960px-2008-07-04_NCSSM_Watts.jpg",
+    "credit": "Ildar Sagdejev ( Specious ) via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008-07-04_NCSSM_Watts.jpg"
+   }
+  },
+  {
+   "id": "sc-204176",
+   "unitid": 204176,
+   "name": "Mount Carmel College of Nursing",
+   "state": "OH",
+   "reason": "photo is of Mount Carmel Medical Center (hospital), not Mount Carmel College of Nursing",
+   "confidence": "medium",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Mount_Carmel_Medical_Center%2C_Columbus%2C_Ohio-2011_07_12_IMG_0870.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Mount_Carmel_Medical_Center%2C_Columbus%2C_Ohio-2011_07_12_IMG_0870.JPG/960px-Mount_Carmel_Medical_Center%2C_Columbus%2C_Ohio-2011_07_12_IMG_0870.JPG",
+    "credit": "User:Postdlf via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Carmel_Medical_Center,_Columbus,_Ohio-2011_07_12_IMG_0870.JPG"
+   }
+  },
+  {
+   "id": "sc-206613",
+   "unitid": 206613,
+   "name": "Wright State University-Lake Campus",
+   "state": "OH",
+   "reason": "Uploader states 'I drew this many years ago' - an artwork of sailboats, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Homebuilt_sailboats_racing_at_WSU_Lake_Campus.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Homebuilt_sailboats_racing_at_WSU_Lake_Campus.JPG/960px-Homebuilt_sailboats_racing_at_WSU_Lake_Campus.JPG",
+    "credit": "DivineLakeDrawings via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Homebuilt_sailboats_racing_at_WSU_Lake_Campus.JPG"
+   }
+  },
+  {
+   "id": "sc-207306",
+   "unitid": 207306,
+   "name": "Northwestern Oklahoma State University",
+   "state": "OK",
+   "reason": "Remove: the file is an athletics text logo/watermark (categories: Text logos, College sports logos of Oklahoma, Logos of Northwestern Oklahoma St) — not a campus photo.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Northwestern_rangers_wmark.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Northwestern_rangers_wmark.png/960px-Northwestern_rangers_wmark.png",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Northwestern_rangers_wmark.png"
+   }
+  },
+  {
+   "id": "sc-212133",
+   "unitid": 212133,
+   "name": "Eastern University",
+   "state": "PA",
+   "reason": "photo is of Eastern University, Bangladesh (different school), not Eastern University, Saint Davids PA",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Eastern_University_Savar_Campus.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Eastern_University_Savar_Campus.jpg/960px-Eastern_University_Savar_Campus.jpg",
+    "credit": "Maksud Al Nazir via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eastern_University_Savar_Campus.jpg"
+   }
+  },
+  {
+   "id": "sc-212984",
+   "unitid": 212984,
+   "name": "Holy Family University",
+   "state": "PA",
+   "reason": "description is a hall interior in Spain ('Spain photographs taken on 2018-06-13') — not Holy Family University's Philadelphia campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Holy_Family_University_Center_Hall.jpeg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holy_Family_University_Center_Hall.jpeg/960px-Holy_Family_University_Center_Hall.jpeg",
+    "credit": "Maletil via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Family_University_Center_Hall.jpeg"
+   }
+  },
+  {
+   "id": "sc-213321",
+   "unitid": 213321,
+   "name": "King's College",
+   "state": "PA",
+   "reason": "Description and categories place this at King's College Circle, University of Toronto (1903–1913) — a different school in Toronto, Canada, not King's College in Wilkes-Barre, PA.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:King%27s_College_Circle_showing_the_campus%2C_library%2C_and_medical_building_with_city_in_the_distance.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/King%27s_College_Circle_showing_the_campus%2C_library%2C_and_medical_building_with_city_in_the_distance.jpg/960px-King%27s_College_Circle_showing_the_campus%2C_library%2C_and_medical_building_with_city_in_the_distance.jpg",
+    "credit": "University of Toronto Archives via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King%27s_College_Circle_showing_the_campus,_library,_and_medical_building_with_city_in_the_distance.jpg"
+   }
+  },
+  {
+   "id": "sc-215442",
+   "unitid": 215442,
+   "name": "Point Park University",
+   "state": "PA",
+   "reason": "Photo is of Ann Lewis (a person) at a roundtable event — non-campus subject",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Ann_Lewis,_Point_Park_University_Board_of_Trustees_20110916-OSEC-CR-0017_-_Flickr_-_USDAgov_(cropped).jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ann_Lewis%2C_Point_Park_University_Board_of_Trustees_20110916-OSEC-CR-0017_-_Flickr_-_USDAgov_%28cropped%29.jpg/960px-Ann_Lewis%2C_Point_Park_University_Board_of_Trustees_20110916-OSEC-CR-0017_-_Flickr_-_USDAgov_%28cropped%29.jpg",
+    "credit": "U.S. Department of Agriculture via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ann_Lewis,_Point_Park_University_Board_of_Trustees_20110916-OSEC-CR-0017_-_Flickr_-_USDAgov_(cropped).jpg"
+   }
+  },
+  {
+   "id": "sc-215655",
+   "unitid": 215655,
+   "name": "Robert Morris University",
+   "state": "PA",
+   "reason": "description: the Leiter II Building in Chicago's Loop, Illinois — the Chicago campus, not Robert Morris University in Moon Township, PA",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Robert_Morris_Center_Leiter_II_Building_403_South_State_Street.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Robert_Morris_Center_Leiter_II_Building_403_South_State_Street.jpg/960px-Robert_Morris_Center_Leiter_II_Building_403_South_State_Street.jpg",
+    "credit": "Beyond My Ken via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_Morris_Center_Leiter_II_Building_403_South_State_Street.jpg"
+   }
+  },
+  {
+   "id": "sc-217059",
+   "unitid": 217059,
+   "name": "York College of Pennsylvania",
+   "state": "PA",
+   "reason": "A field-hockey game photo ('CNU Christopher Newport University Captains - York College Pennsylvania PA Spartans') — an event, not a York College campus view, with no evidence it was taken at the school.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:CNU_Christopher_Newport_University_Captains_-_York_College_Pennsylvania_PA_Spartans_Field_Hockey_%2821623238313%29.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/CNU_Christopher_Newport_University_Captains_-_York_College_Pennsylvania_PA_Spartans_Field_Hockey_%2821623238313%29.jpg/960px-CNU_Christopher_Newport_University_Captains_-_York_College_Pennsylvania_PA_Spartans_Field_Hockey_%2821623238313%29.jpg",
+    "credit": "c w via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CNU_Christopher_Newport_University_Captains_-_York_College_Pennsylvania_PA_Spartans_Field_Hockey_(21623238313).jpg"
+   }
+  },
+  {
+   "id": "sc-218399",
+   "unitid": 218399,
+   "name": "Morris College",
+   "state": "SC",
+   "reason": "photo is of Lon Morris College in Jacksonville, TX (different school), not Morris College in Sumter, SC",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:A._Frank_Smith_Fine_Arts_Bldg.%2C_Lon_Morris_College_IMG_3016.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/A._Frank_Smith_Fine_Arts_Bldg.%2C_Lon_Morris_College_IMG_3016.JPG/960px-A._Frank_Smith_Fine_Arts_Bldg.%2C_Lon_Morris_College_IMG_3016.JPG",
+    "credit": "Billy Hathorn via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A._Frank_Smith_Fine_Arts_Bldg.,_Lon_Morris_College_IMG_3016.JPG"
+   }
+  },
+  {
+   "id": "sc-219259",
+   "unitid": 219259,
+   "name": "Northern State University",
+   "state": "SD",
+   "reason": "Subject is Tom Daschle greeting supporters in the 1978 homecoming parade -- a person/event, not the campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Tom-daschle-1978-northern-state-university-homecoming-parade-aberdeen-south-dakota.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Tom-daschle-1978-northern-state-university-homecoming-parade-aberdeen-south-dakota.jpg/960px-Tom-daschle-1978-northern-state-university-homecoming-parade-aberdeen-south-dakota.jpg",
+    "credit": "TPJFSDWiki via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tom-daschle-1978-northern-state-university-homecoming-parade-aberdeen-south-dakota.jpg"
+   }
+  },
+  {
+   "id": "sc-220206",
+   "unitid": 220206,
+   "name": "Welch College",
+   "state": "TN",
+   "reason": "File is the official stacked logo of Welch College, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Welch_College_Color_-_Stacked-01.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Welch_College_Color_-_Stacked-01.jpg/960px-Welch_College_Color_-_Stacked-01.jpg",
+    "credit": "WelchCollege via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Welch_College_Color_-_Stacked-01.jpg"
+   }
+  },
+  {
+   "id": "sc-226231",
+   "unitid": 226231,
+   "name": "LeTourneau University",
+   "state": "TX",
+   "reason": "Photo shows earthmoving equipment, not campus architecture — no usable campus view",
+   "confidence": "medium",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:LeTourneau_University_November_2019_1_(earthmoving_equipment).jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/LeTourneau_University_November_2019_1_%28earthmoving_equipment%29.jpg/960px-LeTourneau_University_November_2019_1_%28earthmoving_equipment%29.jpg",
+    "credit": "Michael Barera via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:LeTourneau_University_November_2019_1_(earthmoving_equipment).jpg"
+   }
+  },
+  {
+   "id": "sc-228149",
+   "unitid": 228149,
+   "name": "St. Mary's University",
+   "state": "TX",
+   "reason": "DESC/cats name St. Mary's University College, Calgary, Alberta, Canada — a different school in a different country",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:St.Mary%27s_University_College_Cairn_01.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/St.Mary%27s_University_College_Cairn_01.JPG/960px-St.Mary%27s_University_College_Cairn_01.JPG",
+    "credit": "Emerald22 via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St.Mary%27s_University_College_Cairn_01.JPG"
+   }
+  },
+  {
+   "id": "sc-228325",
+   "unitid": 228325,
+   "name": "Nelson University",
+   "state": "TX",
+   "reason": "Commons description names Peter Nelson speaking at a matroids workshop (University of Waterloo) - a person, not Nelson University, Waxahachie TX",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Peter_Nelson_(University_of_Waterloo).jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Peter_Nelson_%28University_of_Waterloo%29.jpg/960px-Peter_Nelson_%28University_of_Waterloo%29.jpg",
+    "credit": "Rickinasia via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_Nelson_(University_of_Waterloo).jpg"
+   }
+  },
+  {
+   "id": "sc-228459",
+   "unitid": 228459,
+   "name": "Texas State University",
+   "state": "TX",
+   "reason": "Description names a DIFFERENT school: 'The Music Annex on the campus of the University of North Texas in Denton, Texas' - the file depicts UNT, not Texas State University (San Marcos).",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:University%20of%20North%20Texas%20September%202015%2003%20%28Music%20Annex%29.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/University_of_North_Texas_September_2015_03_%28Music_Annex%29.jpg/960px-University_of_North_Texas_September_2015_03_%28Music_Annex%29.jpg",
+    "credit": "Michael Barera via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_North_Texas_September_2015_03_(Music_Annex).jpg"
+   }
+  },
+  {
+   "id": "sc-230807",
+   "unitid": 230807,
+   "name": "Westminster University",
+   "state": "UT",
+   "reason": "Subject is the Mary Tuck memorial statue on campus -- an artwork, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Mary_Tuck_statue_at_Westminster_College.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Mary_Tuck_statue_at_Westminster_College.jpg/960px-Mary_Tuck_statue_at_Westminster_College.jpg",
+    "credit": "Bubbahotepblues via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mary_Tuck_statue_at_Westminster_College.jpg"
+   }
+  },
+  {
+   "id": "sc-231095",
+   "unitid": 231095,
+   "name": "Sterling College",
+   "state": "VT",
+   "reason": "Commons categories are '2019 LGBT events' and 'Photographs of transgender flags' — a flag photo, not the Sterling College campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Sterling_College_IMG_9330_(48755611597).jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sterling_College_IMG_9330_%2848755611597%29.jpg/960px-Sterling_College_IMG_9330_%2848755611597%29.jpg",
+    "credit": "Sterling College  from Craftsbury Common, VT, USA via Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sterling_College_IMG_9330_(48755611597).jpg"
+   }
+  },
+  {
+   "id": "sc-231554",
+   "unitid": 231554,
+   "name": "Bluefield University",
+   "state": "VA",
+   "reason": "Description describes the final Bluefield Orioles baseball game (an event) on August 31, 2010 - not the campus; no school mention.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Final%20Bluefield%20Orioles%20Game%20-%20August%2031%2C%202010.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Final_Bluefield_Orioles_Game_-_August_31%2C_2010.jpg/960px-Final_Bluefield_Orioles_Game_-_August_31%2C_2010.jpg",
+    "credit": "Davebanner12 via Wikimedia Commons",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Final_Bluefield_Orioles_Game_-_August_31,_2010.jpg"
+   }
+  },
+  {
+   "id": "sc-232025",
+   "unitid": 232025,
+   "name": "Emory & Henry University",
+   "state": "VA",
+   "reason": "File is the Emory & Henry athletics mark/logo, not a campus photo",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Emoryhenry_athletics_mark.png",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Emoryhenry_athletics_mark.png/960px-Emoryhenry_athletics_mark.png",
+    "credit": "Unknown author Unknown author via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Emoryhenry_athletics_mark.png"
+   }
+  },
+  {
+   "id": "sc-232265",
+   "unitid": 232265,
+   "name": "Hampton University",
+   "state": "VA",
+   "reason": "photo subject is the Hampton University cheerleading team at a U.S. Army Corps of Engineers event — people, not the campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Hampton_University_Cheerleading_Team.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Hampton_University_Cheerleading_Team.jpg/960px-Hampton_University_Cheerleading_Team.jpg",
+    "credit": "U.S. Army Corps of Engineers Norfolk District  from United States via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hampton_University_Cheerleading_Team.jpg"
+   }
+  },
+  {
+   "id": "sc-236452",
+   "unitid": 236452,
+   "name": "Saint Martin's University",
+   "state": "WA",
+   "reason": "Subject is Saint Martin's Abbey in Lacey -- a monastery/place of worship, not the university campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:St._Martin%27s_Abbey.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/St._Martin%27s_Abbey.jpg/960px-St._Martin%27s_Abbey.jpg",
+    "credit": "Saint Martin's Abbey via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Martin%27s_Abbey.jpg"
+   }
+  },
+  {
+   "id": "sc-239080",
+   "unitid": 239080,
+   "name": "Marian University",
+   "state": "WI",
+   "reason": "Remove: Commons category explicitly files it under 'Marian University (Indiana)' — the Indianapolis school, a different school from Marian University in Fond du Lac, WI.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Classroom_at_Marian_University.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Classroom_at_Marian_University.jpg/960px-Classroom_at_Marian_University.jpg",
+    "credit": "Jkurtzmarian via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Classroom_at_Marian_University.jpg"
+   }
+  },
+  {
+   "id": "sc-243197",
+   "unitid": 243197,
+   "name": "University of Puerto Rico-Mayaguez",
+   "state": "PR",
+   "reason": "Not the campus: description 'Mayaguez Plaza' and categories identify Plaza Colon, a public town square in Mayaguez -- the university is never mentioned.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Plaza_Mayaguez.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Plaza_Mayaguez.jpg/960px-Plaza_Mayaguez.jpg",
+    "credit": "Joseacaraballo via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_Mayaguez.jpg"
+   }
+  },
+  {
+   "id": "sc-243601",
+   "unitid": 243601,
+   "name": "Universidad Ana G. Mendez-Gurabo Campus",
+   "state": "PR",
+   "reason": "Description and categories show only the 'Plaza de Gurabo' town plaza in Gurabo, Puerto Rico — a non-campus subject, not the university.",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:2021plazadegurabo1.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/2021plazadegurabo1.jpg/960px-2021plazadegurabo1.jpg",
+    "credit": "Ligocsicnarf89 via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021plazadegurabo1.jpg"
+   }
+  },
+  {
+   "id": "sc-484613",
+   "unitid": 484613,
+   "name": "University of Phoenix-Arizona",
+   "state": "AZ",
+   "reason": "photo is a Downtown Phoenix skyline from South Mountain — a cityscape, not the campus",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:Phoenix%2C_Arizona.JPG",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Phoenix%2C_Arizona.JPG/960px-Phoenix%2C_Arizona.JPG",
+    "credit": "Bigmikebmw via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phoenix,_Arizona.JPG"
+   }
+  },
+  {
+   "id": "sc-488846",
+   "unitid": 488846,
+   "name": "University of the People",
+   "state": "CA",
+   "reason": "Describes a University of the People / Haitian Connection Network education partnership for Haitians -- no Pasadena campus depicted (online university)",
+   "confidence": "high",
+   "muse_file_page": "https://commons.wikimedia.org/wiki/File:University_of_the_People_and_Haitian_Connection_Network_work_together_to_provide_education_for_Haitians.jpg",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/University_of_the_People_and_Haitian_Connection_Network_work_together_to_provide_education_for_Haitians.jpg/960px-University_of_the_People_and_Haitian_Connection_Network_work_together_to_provide_education_for_Haitians.jpg",
+    "credit": "University of the People via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_the_People_and_Haitian_Connection_Network_work_together_to_provide_education_for_Haitians.jpg"
+   }
+  }
+ ],
+ "already_removed_by_photo_guard": [
+  "sc-150145",
+  "sc-164562",
+  "sc-216357",
+  "sc-217633",
+  "sc-219718",
+  "sc-228884"
+ ],
+ "held_for_review": [
+  {
+   "unitid": 136774,
+   "name": "Ringling College of Art and Design",
+   "why": "Description is vacuous ('have a good day :-))'); the filename shows the Ringling Estate/museum in Sarasota, not the college campus — unverifiable as a campus photo.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Ringling_Estate_in_Sarasota_Florida_-_Flickr_-_dicau58.jpg"
+  },
+  {
+   "unitid": 141565,
+   "name": "University of Hawaii at Hilo",
+   "why": "Generic filename (IMAG0029); description names a 'College of Arts and Sciences' but not the school - unverifiable.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:IMAG0029.jpg"
+  },
+  {
+   "unitid": 142328,
+   "name": "Lewis-Clark State College",
+   "why": "unverifiable: description does not mention school or city",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Talkington_Hall.jpg"
+  },
+  {
+   "unitid": 147013,
+   "name": "McKendree University",
+   "why": "unverifiable: empty description and no categories",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Clark_Hall.JPG"
+  },
+  {
+   "unitid": 152673,
+   "name": "Wabash College",
+   "why": "Description names only 'Elston House, 400 E Pike St, Crawfordsville, Ind.'; nothing in the description, categories, or filename links it to Wabash College — unverifiable.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Elston_House%2C_Crawfordsville_P4180007.jpg"
+  },
+  {
+   "unitid": 155812,
+   "name": "University of Saint Mary",
+   "why": "description names only 'St. Mary's University' — ambiguous with St. Mary's University (San Antonio, TX); no city given; unverifiable",
+   "file_page": "https://commons.wikimedia.org/wiki/File:St._Mary%27s_University_4594.JPG"
+  },
+  {
+   "unitid": 156295,
+   "name": "Berea College",
+   "why": "Unverifiable: description only 'A sunny day on Campus in March', no school or city named anywhere",
+   "file_page": "https://commons.wikimedia.org/wiki/File:20140310_CampusShots_CAC_(4)_(13090607645).jpg"
+  },
+  {
+   "unitid": 181738,
+   "name": "Union Adventist University",
+   "why": "file titled only 'Union College' with no city; same exact name as a different school (Union College, Schenectady NY); unverifiable",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Union_College_-_panoramio.jpg"
+  },
+  {
+   "unitid": 190567,
+   "name": "CUNY City College",
+   "why": "Description is thin ('looking east across Amsterdam Avenue'); nothing ties the photo to City College - unverifiable.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Harris_Hall_1589_Amst_Av_jeh.jpg"
+  },
+  {
+   "unitid": 199306,
+   "name": "Pfeiffer University",
+   "why": "Unverifiable: description only 'Rowe_Hall_1', no school or city named",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Rowe_Hall_1.jpg"
+  },
+  {
+   "unitid": 201441,
+   "name": "Bowling Green State University-Main Campus",
+   "why": "unverifiable — description is only 'Jerome Library' with no school/city link in metadata",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Jerome_Library.jpg"
+  },
+  {
+   "unitid": 204006,
+   "name": "Miami University-Hamilton",
+   "why": "Wrong campus: 1940s 'Hamilton Hall' dorm photo at Miami University -- no mention of the Miami University-Hamilton regional campus; unverifiable as the Hamilton campus.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Miami_University_Hamilton_Hall.jpg"
+  },
+  {
+   "unitid": 204015,
+   "name": "Miami University-Middletown",
+   "why": "Description is a Middletown real-estate listing for Gardner Mansion with no mention of Miami University; Commons categories are generic DPLA/Ohio Digital Network tags - no evidence it depicts the campus (unverifiable).",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Photograph%20of%20the%20Gardner%20Mansion%2C%201%20Gardner%20Place%2C%20Middletown%2C%20Ohio%20-%20DPLA%20-%2087970faeb981677e500e56bc23cb7959.jpg"
+  },
+  {
+   "unitid": 215743,
+   "name": "Saint Francis University",
+   "why": "unverifiable — 'DeGol Field' with no school or city named in description or categories",
+   "file_page": "https://commons.wikimedia.org/wiki/File:DeGol_Field.jpg"
+  },
+  {
+   "unitid": 216047,
+   "name": "Saint Charles Borromeo Seminary-Overbrook",
+   "why": "unverifiable: description does not mention school or city",
+   "file_page": "https://commons.wikimedia.org/wiki/File:SCS_Lower_Gwynedd.jpg"
+  },
+  {
+   "unitid": 219046,
+   "name": "Black Hills State University",
+   "why": "Description names the school ('Black Hills State University, ASB Group 004'), but the categories place the photo at Natural Tunnel State Park, Virginia, with an Alternative Spring Break volunteer group — conflicting evidence, unverifiable as a campus photo.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Black_Hills_State_University%2C_ASB_Group_004_%285537129394%29.jpg"
+  },
+  {
+   "unitid": 225575,
+   "name": "Huston-Tillotson University",
+   "why": "Unverifiable: description names only 'Agard-Lovinggood Lecture Hall' with no school/city tie in metadata",
+   "file_page": "https://commons.wikimedia.org/wiki/File:AgardLovinggood.JPG"
+  },
+  {
+   "unitid": 228042,
+   "name": "Schreiner University",
+   "why": "Description is only a date ('I took photo on July 19, 2008'); no subject evidence - unverifiable.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kerr_IMG_0927.JPG"
+  },
+  {
+   "unitid": 238458,
+   "name": "Carroll University",
+   "why": "Description ('College Avenue Historic District') and categories mention only Waukesha, WI - no evidence ties this photo to Carroll University (unverifiable).",
+   "file_page": "https://commons.wikimedia.org/wiki/File:College%20District.JPG"
+  },
+  {
+   "unitid": 238476,
+   "name": "Carthage College",
+   "why": "Description names only 'Lentz Hall' (the admissions office); nothing in the description, categories, or filename links it to Carthage College — unverifiable.",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Lentz_Hall%3B_Location_of_Admissions_Office_%282069923097%29.jpg"
+  },
+  {
+   "unitid": 238661,
+   "name": "Edgewood University",
+   "why": "unverifiable: description does not mention school or city",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Oscar_Rennebohm_Library_-_panoramio.jpg"
+  }
+ ]
+}
