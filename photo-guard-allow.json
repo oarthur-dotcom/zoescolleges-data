@@ -2,14 +2,6 @@
  "about": "Photos the photo guard would flag but that a person checked and confirmed are right. Add an entry only after checking the Commons file page.",
  "allow": [
   {
-   "file": "Asubiodesign.jpg",
-   "ids": [
-    "sc-104151",
-    "sc-483124"
-   ],
-   "reason": "Both are Arizona State University (campus and digital immersion); same Tempe campus photo is correct for both. Checked 2026-10-11."
-  },
-  {
    "file": "GENERAL_VIEW_FROM_NORTHEAST_SHOWING_BUILDING_AND_ENVIRONS_-_Tusculum_College,_McCormick_Hall,_State_Route_107,_Greeneville_Vicinity,_Tusculum,_Greene_County,_TN_HABS_TENN,30-TUSC,2B-1.tif",
    "ids": [
     "sc-221953"
