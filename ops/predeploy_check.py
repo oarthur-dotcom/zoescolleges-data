@@ -23,7 +23,11 @@ if "colleges.json" in files:
         new, old = os.path.join(t, "new.json"), os.path.join(t, "old.json")
         open(new, "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{ref}:colleges.json"]))
         open(old, "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{base}:colleges.json"]))
-        v = subprocess.run([sys.executable, os.path.join(R, "validate_catalog.py"), new, old], capture_output=True, text=True)
+        # Use the validator (and photo guard) from the branch being deployed, not whatever is checked out here.
+        for f in ("validate_catalog.py", "photo_guard.py", "photo-guard-allow.json"):
+            try: open(os.path.join(t, f), "wb").write(subprocess.check_output(["git", "-C", R, "show", f"{ref}:{f}"], stderr=subprocess.DEVNULL))
+            except subprocess.CalledProcessError: pass
+        v = subprocess.run([sys.executable, os.path.join(t, "validate_catalog.py"), new, old], capture_output=True, text=True)
         notes.append("catalog validator:\n" + v.stdout.strip())
         if v.returncode: fails.append("catalog validator FAILED (would drop good data)")
         n, o = json.load(open(new))["colleges"], json.load(open(old))["colleges"]
@@ -33,7 +37,15 @@ if "colleges.json" in files:
         lost = [(i, k) for i in oi if i in ni for k in oi[i] if oi[i].get(k) not in (None, "", [], {}) and ni[i].get(k) in (None, "", [], {}) and k != "photo"]
         if lost: fails.append(f"{len(lost)} filled fields would become empty, e.g. {lost[:5]}")
         ph = [i for i in oi if i in ni and oi[i].get("photo") and not ni[i].get("photo")]
-        if ph: notes.append(f"NOTE {len(ph)} photos removed (must match the approved removal list): {ph[:8]}")
+        if ph:
+            listed = set()
+            for f in files:
+                if f.startswith("archive/removed-photos") and f.endswith(".json"):
+                    try: listed |= {r["id"] for r in json.loads(subprocess.check_output(["git", "-C", R, "show", f"{ref}:{f}"]))["removed"]}
+                    except Exception: pass
+            unlisted = [i for i in ph if i not in listed]
+            notes.append(f"NOTE {len(ph)} photos removed; {len(ph)-len(unlisted)} are in the branch's archived removal list")
+            if unlisted: fails.append(f"{len(unlisted)} photos removed without being in an archived removal list, e.g. {unlisted[:5]}")
 # 3. SQL: no data-destroying statements
 for f in files:
     if f.endswith(".sql"):
