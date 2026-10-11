@@ -130,6 +130,19 @@
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:North_Central_Texas_College_June_2017_32_(Campus_Police).jpg"
    }
+  },
+  {
+   "id": "sc-160630",
+   "unitid": 160630,
+   "name": "Southern University at New Orleans",
+   "state": "LA",
+   "reason": "NOT A CAMPUS VIEW: 2006 FEMA disaster-recovery photo (caught when the photo guard learned FEMA/flood/funeral words, fix #32)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/FEMA_-_21725_-_Photograph_by_Marvin_Nauman_taken_on_01-23-2006_in_Louisiana.jpg/960px-FEMA_-_21725_-_Photograph_by_Marvin_Nauman_taken_on_01-23-2006_in_Louisiana.jpg",
+    "credit": "Marvin Nauman via Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_21725_-_Photograph_by_Marvin_Nauman_taken_on_01-23-2006_in_Louisiana.jpg"
+   }
   }
  ]
 }

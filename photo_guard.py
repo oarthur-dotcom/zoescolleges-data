@@ -18,7 +18,7 @@ FOREIGN = ("new zealand|australia|nsw|england|london|scotland|glasgow|ireland|du
 NOTCAMPUS = ("boeing|fedex|aircraft|airplane|airliner|press conference|yearbook|first lady|melania|trump|obama|president bill|"
   "president joe|governor|senator|highway|interstate|exit sign|logo|wordmark|seal of|mascot|locator map|map of|coat of arms|flag of|"
   "portrait of|headshot|mugshot|protest|riot|crash|police|mural|soldiers|world war|wwi|pole vault|track meet|vs|versus|"
-  "route|custom house|market street|secretary|hospital|clinic|hebrew").split("|")
+  "route|custom house|market street|secretary|hospital|clinic|hebrew|fema|sandbag|sandbagging|funeral|casket|flood").split("|")
 STATES = {"AL":"alabama","AK":"alaska","AZ":"arizona","AR":"arkansas","CA":"california","CO":"colorado","CT":"connecticut","DE":"delaware",
   "FL":"florida","GA":"georgia","HI":"hawaii","ID":"idaho","IL":"illinois","IN":"indiana","IA":"iowa","KS":"kansas","KY":"kentucky",
   "LA":"louisiana","ME":"maine","MD":"maryland","MA":"massachusetts","MI":"michigan","MN":"minnesota","MS":"mississippi","MO":"missouri",
