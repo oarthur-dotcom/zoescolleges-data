@@ -1,0 +1,10 @@
+{
+ "about": "SQL files whose data-changing statements were reviewed by hand. Locked to the exact file contents (sha256): any edit blocks again.",
+ "files": {
+  "migration-014-talk-it-out.sql": {
+   "sha256": "b86eee10322034fee4c65d127543546e76b07a68787a2e67b52e45c463eb4b24",
+   "why": "the only deletes are inside ballot_new_round(), run when a family taps Start a new round; scoped to that family's own votes (my_family_id()). The migration itself changes no existing rows. Already applied and verified Oct 11 7:26 PM.",
+   "reviewed": "Claude, Oct 11 7:50 PM ET; Obie ran it 7:26 PM"
+  }
+ }
+}

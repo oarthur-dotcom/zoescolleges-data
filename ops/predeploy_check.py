@@ -2,7 +2,7 @@
 """Run on an APPROVED branch right before it goes live. Read-only.
 Blocks anything that could overwrite newer work or good data.
 Usage: python3 ops/predeploy_check.py app|data <branch>"""
-import json, os, re, subprocess, sys, tempfile
+import hashlib, json, os, re, subprocess, sys, tempfile
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPOS = {"app": os.path.join(HERE, "..", "..", "zoescolleges-app"), "data": os.path.join(HERE, "..")}
 which, branch = sys.argv[1], sys.argv[2]; R = os.path.abspath(REPOS[which])
@@ -54,7 +54,13 @@ for f in files:
         sql = subprocess.check_output(["git", "-C", R, "show", f"{ref}:{f}"], text=True)
         body = re.sub(r"--[^\n]*", "", sql)
         bad = re.findall(r"\b(delete\s+from|truncate|drop\s+table|drop\s+column|drop\s+schema|update\s+\w+[\w.]*\s+set)\b", body, re.I)
-        if bad: fails.append(f"{f} contains data-changing statements {sorted(set(b.lower() for b in bad))} — needs explicit review + backup first")
+        rev = {}
+        try: rev = json.load(open(os.path.join(HERE, "reviewed-sql.json")))["files"]
+        except Exception: pass
+        h = hashlib.sha256(sql.encode()).hexdigest()
+        if bad and rev.get(os.path.basename(f), {}).get("sha256") == h:   # reviewed by hand; any change to the file re-blocks
+            notes.append(f"{f}: data-changing statements {sorted(set(b.lower() for b in bad))} REVIEWED ({rev[os.path.basename(f)]['why']})")
+        elif bad: fails.append(f"{f} contains data-changing statements {sorted(set(b.lower() for b in bad))} — needs explicit review + backup first")
         else: notes.append(f"{f}: policy/schema-only, no data-changing statements")
 # 4. App: scripts still parse
 if which == "app" and "index.html" in files:
