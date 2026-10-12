@@ -122,12 +122,28 @@
      "conf": "high"
     },
     {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://bigfuture.collegeboard.org/colleges/college-of-charleston/admissions",
+     "conf": "medium"
+    },
+    {
      "k": "ED2",
      "kind": "Early Decision II",
      "date": "2027-01-15",
      "name": "Early Decision 2",
      "src": "https://charleston.edu/admission/apply/undergraduate/early-decision-faq.php",
      "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://bigfuture.collegeboard.org/colleges/college-of-charleston/admissions",
+     "conf": "medium"
     }
    ],
    "checked": "2026-10-11"
