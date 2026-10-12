@@ -1,5 +1,5 @@
 """Build visit-links.json: each school's official admissions office and application pages from IPEDS HD2023
-(ADMINURL, APPLURL, WEBADDR). Matched by unitid. Usage: python3 -I visit_links_build.py <HD2023.csv> <colleges.json> <out.json>"""
+(ADMINURL, APPLURL, NPRICURL, WEBADDR). Matched by unitid. Usage: python3 -I visit_links_build.py <HD2023.csv> <colleges.json> <out.json>"""
 import csv, json, sys, re
 def clean(u):
     u=(u or "").strip()
@@ -10,13 +10,13 @@ def clean(u):
     return u
 hd={}
 for r in csv.DictReader(open(sys.argv[1],encoding="utf-8-sig",errors="replace")):
-    hd[r["UNITID"]]={"admissions":clean(r.get("ADMINURL")),"apply":clean(r.get("APPLURL")),"site":clean(r.get("WEBADDR"))}
+    hd[r["UNITID"]]={"admissions":clean(r.get("ADMINURL")),"apply":clean(r.get("APPLURL")),"npc":clean(r.get("NPRICURL")),"site":clean(r.get("WEBADDR"))}
 cat=json.load(open(sys.argv[2]))["colleges"]
 out={}; n_adm=n_app=0
 for c in cat:
     h=hd.get(str(c.get("unitid")))
     if not h: continue
-    rec={k:v for k,v in (("admissions",h["admissions"]),("apply",h["apply"])) if v}
+    rec={k:v for k,v in (("admissions",h["admissions"]),("apply",h["apply"]),("npc",h["npc"])) if v}
     if rec: out[c["id"]]=rec; n_adm+=("admissions" in rec); n_app+=("apply" in rec)
-json.dump({"source":"IPEDS HD2023 (U.S. Dept. of Education): ADMINURL, APPLURL","built":"2026-10-11","schools":out},open(sys.argv[3],"w"),separators=(",",":"))
-print(f"schools {len(cat)} matched {len(out)} admissions {n_adm} apply {n_app}")
+json.dump({"source":"IPEDS HD2023 (U.S. Dept. of Education): ADMINURL, APPLURL, NPRICURL (net price calculator)","built":"2026-10-11","schools":out},open(sys.argv[3],"w"),separators=(",",":"))
+print(f"schools {len(cat)} matched {len(out)} admissions {n_adm} apply {n_app} npc {sum(1 for v in out.values() if 'npc' in v)}")
