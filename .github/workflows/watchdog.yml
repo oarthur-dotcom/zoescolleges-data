@@ -1,0 +1,48 @@
+# Daily read-only watchdog for zoescolleges.com (replaces the Claude scheduled watchdog, Oct 12 2026).
+# Runs ops/healthcheck.py and ops/postdeploy_verify.py from the ops/tooling branch.
+# It only LOOKS: no pushes, no deploys. If any check fails the run goes red and GitHub emails Obie.
+name: Daily site watchdog
+on:
+  schedule:
+    - cron: "50 11 * * *"   # 7:50 AM Eastern (EDT)
+  workflow_dispatch: {}
+permissions:
+  contents: read
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: oarthur-dotcom/zoescolleges-data
+          ref: ops/tooling
+          path: zoescolleges-data
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: oarthur-dotcom/zoescolleges-app
+          ref: main
+          path: zoescolleges-app
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install Playwright + Chromium where postdeploy_verify expects them
+        run: |
+          mkdir -p /tmp/claude-0 && cd /tmp/claude-0
+          npm init -y >/dev/null && npm install --silent playwright@1.48.2
+          npx playwright install --with-deps chromium
+          CHROME=$(node -e "import('/tmp/claude-0/node_modules/playwright/index.mjs').then(m=>console.log(m.chromium.executablePath()))")
+          sudo mkdir -p /opt/pw-browsers/chromium-1194/chrome-linux
+          sudo ln -sf "$CHROME" /opt/pw-browsers/chromium-1194/chrome-linux/chrome
+      - name: Health check
+        working-directory: zoescolleges-data
+        run: python3 -I ops/healthcheck.py
+      - name: Post-deploy verify
+        if: always()
+        working-directory: zoescolleges-data
+        run: python3 -I ops/postdeploy_verify.py
