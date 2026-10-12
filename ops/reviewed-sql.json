@@ -5,6 +5,11 @@
    "sha256": "b86eee10322034fee4c65d127543546e76b07a68787a2e67b52e45c463eb4b24",
    "why": "the only deletes are inside ballot_new_round(), run when a family taps Start a new round; scoped to that family's own votes (my_family_id()). The migration itself changes no existing rows. Already applied and verified Oct 11 7:26 PM.",
    "reviewed": "Claude, Oct 11 7:50 PM ET; Obie ran it 7:26 PM"
+  },
+  "migration-016-beta-family-plan.sql": {
+   "sha256": "267a73eb070a79220a92d35e62994755327c9dfb8868b9dc97558a670208557b",
+   "why": "one update: families on 'free' move to 'family' for the beta; nothing deleted. Backup taken first (10:05 PM): the only family was already family_plus, so 0 rows change. Undo line logged in the fix log.",
+   "reviewed": "Claude, Oct 11 10:06 PM ET; approved by Obie 10:01 PM"
   }
  }
 }
