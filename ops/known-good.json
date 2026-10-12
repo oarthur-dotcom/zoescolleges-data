@@ -1,9 +1,9 @@
 {
  "about": "Last versions verified good on the live site. Update after every verified release (postdeploy_verify.py ALL PASS).",
  "app": {
-  "commit": "edab630",
-  "verified": "2026-10-11 10:06 PM ET (postdeploy_verify ALL PASS 14/14; new functions 401 without login; tour media 200)",
-  "before_that": "c37c25d"
+  "commit": "de0f26a",
+  "verified": "2026-10-11 10:26 PM ET (postdeploy_verify ALL PASS 14/14)",
+  "before_that": "edab630"
  },
  "data": {
   "commit": "0606019",
