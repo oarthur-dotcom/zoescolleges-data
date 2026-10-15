@@ -1,13 +1,13 @@
 {
  "about": "Last versions verified good on the live site. Update after every verified release (postdeploy_verify.py ALL PASS).",
  "app": {
-  "commit": "72f5b71",
-  "verified": "2026-10-12 3:25 AM ET (Release 9: postdeploy_verify ALL PASS 14/14 + how-to clips served, owner-admin 401, marketing 404, healthcheck HEALTHY)",
-  "before_that": "a61bef3"
+  "commit": "b2b69cd",
+  "verified": "2026-10-14 ~2 PM ET (PR #6 deploy bundle + PR #7 photo overlay deployed; checked manually because the postdeploy script browser step crashed; not a full postdeploy_verify ALL PASS)",
+  "before_that": "72f5b71"
  },
  "data": {
   "commit": "714eeb9",
-  "verified": "2026-10-12 3:25 AM ET (all CDN files served from live@714eeb9; athletics.json byte-equal to live)",
+  "verified": "2026-10-14 (unchanged; DATA_REF pinned, 3,180 schools served)",
   "before_that": "ab28d37"
  }
 }
