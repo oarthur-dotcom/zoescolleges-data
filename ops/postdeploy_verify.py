@@ -4,7 +4,7 @@
   2. Every data file the site reads (catalog, campus feeds, net price, deadlines) is served by the CDN
      byte-for-byte equal to the data `live` branch (purges the CDN once if it's stale).
   3. Server files are not downloadable; security headers present.
-  4. Functions refuse anonymous calls (zoe-ai, transcript-read, campus-pulse).
+  4. campus-pulse refuses anonymous calls; zoe-ai and transcript-read stay archived (404) since PR #8, Oct 23 2026.
   5. A sample of 40 catalog photos actually load.
   6. Headless browser on phone + desktop: page loads with 0 JavaScript errors, no sideways scroll,
      no "-200%"/"NaN"/"undefined", no ZOE2027, no Niche.
@@ -50,17 +50,20 @@ for f in FILES:
         get("https://purge.jsdelivr.net/gh/oarthur-dotcom/zoescolleges-data@live/" + f); time.sleep(15); st, body, _ = get(CDN + f, 60)
     check(f"CDN {f} = live branch", sha(body) == sha(exp), f"live@{lshort}")
 # 3 exposure + headers
-exposed = [p for p in ("migration-001-core.sql", "netlify/functions/zoe-ai.mjs", "package.json", "tests/chance-test.mjs") if get(f"{SITE}/{p}")[0] == 200]
+exposed = [p for p in ("migration-001-core.sql", "netlify/functions/campus-pulse.mjs", "package.json", "tests/chance-test.mjs") if get(f"{SITE}/{p}")[0] == 200]
 check("Server files not downloadable", not exposed, ", ".join(exposed) or "none")
 _, _, h = get(SITE + "/", method="HEAD")
 need = ["X-Frame-Options", "X-Content-Type-Options", "Referrer-Policy", "Permissions-Policy"]
 hl = {k.lower(): v for k, v in h.items()}
 check("Security headers", all(n.lower() in hl for n in need), ", ".join(n for n in need if n.lower() not in hl) or "all four present")
 # 4 functions refuse anonymous calls
-for fn, method in (("zoe-ai", "POST"), ("transcript-read", "POST"), ("campus-pulse", "GET")):
-    url = f"{SITE}/.netlify/functions/{fn}" + ("?id=sc-166683" if fn == "campus-pulse" else "")
-    st, _, _ = get(url, 45, method=method, headers={"Origin": SITE, "Content-Type": "application/json"})
-    check(f"{fn} refuses no-login", st == 401, f"HTTP {st}")
+st, _, _ = get(f"{SITE}/.netlify/functions/campus-pulse?id=sc-166683", 45, method="GET", headers={"Origin": SITE, "Content-Type": "application/json"})
+check("campus-pulse refuses no-login", st == 401, f"HTTP {st}")
+# zoe-ai and transcript-read were archived in PR #8 (Oct 23 2026): the transcript reader runs on-device and Gemini is off.
+# They must stay gone; a 200 or 401 here would mean an old function was redeployed.
+for fn in ("zoe-ai", "transcript-read"):
+    st, _, _ = get(f"{SITE}/.netlify/functions/{fn}", 45, method="POST", headers={"Origin": SITE, "Content-Type": "application/json"})
+    check(f"{fn} stays archived", st == 404, f"HTTP {st}")
 # 5 photos
 try:
     cat = json.loads(git(DATA, "show", "origin/live:colleges.json", text=False))["colleges"]
