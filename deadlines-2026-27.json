@@ -317,19 +317,6 @@
    ],
    "checked": "2026-10-11"
   },
-  "sc-101879": {
-   "rounds": [
-    {
-     "k": "PRIORITY",
-     "kind": "Priority",
-     "date": "2027-03-01",
-     "name": "Freshmen Scholarship priority deadline",
-     "src": "https://www.una.edu/admissions/new-freshmen/scholarships.html",
-     "conf": "medium"
-    }
-   ],
-   "checked": "2026-10-11"
-  },
   "sc-102049": {
    "rounds": [
     {
@@ -4428,13 +4415,14 @@
     {
      "k": "PRIORITY",
      "kind": "Priority",
-     "date": "2027-02-01",
-     "name": "Priority deadline",
-     "src": "https://www.MissouriState.edu/Admissions/AdmissionsViewbook/apply.htm",
-     "conf": "high"
+     "date": "2026-12-01",
+     "name": "Priority (scholarship and aid consideration; admission is rolling)",
+     "src": "https://www.missouristate.edu/Admissions/AdmissionsViewbook/apply.htm",
+     "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-179867": {
    "rounds": [
@@ -5197,15 +5185,32 @@
   "sc-192448": {
    "rounds": [
     {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": null,
+     "src": "https://www.liu.edu/brooklyn/admissions/",
+     "conf": "medium"
+    },
+    {
      "k": "EA",
      "kind": "Early Action",
-     "date": "2026-12-01",
-     "name": "Early Action",
-     "src": "https://liu.edu/~/media/0952D006979E44368A3C6A795890E348.ashx",
+     "date": "2026-12-15",
+     "name": null,
+     "src": "https://www.liu.edu/brooklyn/admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-05",
+     "name": "Regular Decision (recommended date; reviewed on a rolling basis, final May 1)",
+     "src": "https://www.liu.edu/brooklyn/admissions/",
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-192703": {
    "rounds": [
@@ -5523,7 +5528,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-196079": {
    "rounds": [
@@ -6307,15 +6313,16 @@
      "conf": "high"
     },
     {
-     "k": "RD",
-     "kind": "Regular Decision",
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
      "date": "2027-02-01",
      "name": "Rolling Admission Deadline",
      "src": "https://www.ohio.edu/admissions/freshman/dates-deadlines",
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-204909": {
    "rounds": [
@@ -7031,7 +7038,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-218724": {
    "rounds": [
@@ -7082,7 +7090,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-219976": {
    "rounds": [
@@ -8963,14 +8972,7 @@
    "none": "dates match but the page prints no year",
    "corrected": "an X verdict changed the live data"
   },
-  "held": [
-   "sc-101879",
-   "sc-179566",
-   "sc-192448",
-   "sc-195809",
-   "sc-204857",
-   "sc-218663",
-   "sc-218964"
-  ]
+  "held": [],
+  "held_resolved": "Muse re-check 2026-10-25 (deadlines-held7-2026-10-25.txt): LIU, Missouri State corrected; North Alabama removed (rolling); Ohio relabeled Rolling Admission; Winthrop, St. Johns NY, USC Columbia confirmed"
  }
 }
