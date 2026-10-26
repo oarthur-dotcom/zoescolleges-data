@@ -1,6 +1,6 @@
 {
  "cycle": "2026-27",
- "checked": "2026-10-25",
+ "checked": "2026-10-26",
  "source": "Muse Job B, B-deadlines-2026-27.json (sha256 61b8bf3855b1…), each date from the school's own admissions site + 2026-10-25 re-verification (Meta, Gemini, Muse; see merge_2026_10_25)",
  "note": "Dates for first-year applicants. Muse's fixes file (30 schools re-sourced from first-year pages) replaces those schools. Low-confidence rounds are left out.",
  "held_unitids": [],
@@ -8957,6 +8957,2988 @@
     }
    ],
    "checked": "2026-10-11"
+  },
+  "sc-230047": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-01",
+     "name": "Regular Decision",
+     "src": "http://admissions.byuh.edu/application-deadlines-decisions-schedule",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-186867": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://www.stevens.edu/page-basic/admissions-timeline",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.stevens.edu/page-basic/admissions-timeline",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-05",
+     "name": "Early Decision II",
+     "src": "https://www.stevens.edu/page-basic/admissions-timeline",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-05",
+     "name": "Regular Decision",
+     "src": "https://www.stevens.edu/page-basic/admissions-timeline",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-122931": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.scu.edu/admission/undergraduate/first-year-students/early-or-regular-decision/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.scu.edu/admission/undergraduate/first-year-students/early-or-regular-decision/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-07",
+     "name": "Early Decision II",
+     "src": "https://www.scu.edu/admission/undergraduate/first-year-students/early-or-regular-decision/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-07",
+     "name": "Regular Decision",
+     "src": "https://www.scu.edu/admission/undergraduate/first-year-students/early-or-regular-decision/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-145336": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.govst.edu/freshman-admissions",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-102377": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://catalog.tuskegee.edu/content.php?catoid=15&navoid=891",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217402": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://catalog.providence.edu/content.php?catoid=38&navoid=1452",
+     "conf": "medium"
+    },
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://catalog.providence.edu/content.php?catoid=38&navoid=1452",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://catalog.providence.edu/content.php?catoid=38&navoid=1452",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://catalog.providence.edu/content.php?catoid=38&navoid=1452",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-165662": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admissions.emerson.edu/register/emersonapplication",
+     "conf": "high"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://admissions.emerson.edu/register/emersonapplication",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-01",
+     "name": "Early Decision II",
+     "src": "https://admissions.emerson.edu/register/emersonapplication",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://admissions.emerson.edu/register/emersonapplication",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-218973": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.wofford.edu/admission/apply/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.wofford.edu/admission/apply/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.wofford.edu/admission/apply/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.wofford.edu/admission/apply/first-year-applicants",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-243212": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/01-Calendario-admisiones-agosto-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-137564": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-11-01",
+     "name": "Priority Deadline",
+     "src": "https://seu.edu/priority",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-243151": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/02-PASOS-PARA-SOLICITAR-ADMISION-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-101709": {
+   "rounds": [
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-08-15",
+     "name": "Final application date",
+     "src": "https://www.montevallo.edu/admissions-aid/apply-now/undergraduate-application/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-214157": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.moravian.edu/admissions/first-year",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-15",
+     "name": "Regular Decision",
+     "src": "https://www.moravian.edu/admissions/first-year",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-243142": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/02-PASOS-PARA-SOLICITAR-ADMISION-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-243179": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/02-PASOS-PARA-SOLICITAR-ADMISION-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-171137": {
+   "rounds": [
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-08-15",
+     "name": "Final application date",
+     "src": "https://umdearborn.edu/admissions-aid/undergraduate-applicants/incoming-first-year-students/admission-criteria-first-year-students",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-147828": {
+   "rounds": [
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-08-01",
+     "name": "Final application date",
+     "src": "https://catalog.olivet.edu/content.php?catoid=2&navoid=85",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-195030": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admissions.rochester.edu/applying/dates-and-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": "Priority Deadline",
+     "src": "https://admissions.rochester.edu/applying/dates-and-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-05",
+     "name": "Early Decision II",
+     "src": "https://admissions.rochester.edu/applying/dates-and-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-05",
+     "name": "Regular Decision",
+     "src": "https://admissions.rochester.edu/applying/dates-and-deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-165015": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-03",
+     "name": "Early Decision I",
+     "src": "https://www.brandeis.edu/admissions/apply/early-decision.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-03",
+     "name": "Early Action",
+     "src": "https://www.brandeis.edu/admissions/apply/early-decision.html",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.brandeis.edu/admissions/apply/early-decision.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.brandeis.edu/admissions/apply/early-decision.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-242617": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-05-15",
+     "name": "Regular Decision",
+     "src": "https://sg.inter.edu/gerencia-de-servicios-de-matricula/admisiones/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-218070": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.furman.edu/admissions-aid/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.furman.edu/admissions-aid/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.furman.edu/admissions-aid/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.furman.edu/admissions-aid/apply/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-229267": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://trinity.edu/admissions/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://trinity.edu/admissions/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-02-01",
+     "name": "Early Decision II",
+     "src": "https://trinity.edu/admissions/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://trinity.edu/admissions/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-213543": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www2.lehigh.edu/admissions",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-01",
+     "name": "Early Decision II",
+     "src": "https://www2.lehigh.edu/admissions",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-216597": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "http://www.villanova.edu/university/undergraduate-admission/faqs.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "http://www.villanova.edu/university/undergraduate-admission/faqs.html",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "http://www.villanova.edu/university/undergraduate-admission/faqs.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "http://www.villanova.edu/university/undergraduate-admission/faqs.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-231624": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/first-year-applicants/application-checklist/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-05",
+     "name": "Early Decision II",
+     "src": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/first-year-applicants/application-checklist/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-05",
+     "name": "Regular Decision",
+     "src": "https://www.wm.edu/admission/undergraduateadmission/how-to-apply/first-year-applicants/application-checklist/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-160621": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-07-01",
+     "name": "Regular Decision",
+     "src": "https://www.subr.edu/page/SUBR-undergraduate-admissions",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-243133": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/02-PASOS-PARA-SOLICITAR-ADMISION-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-166939": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://www.mtholyoke.edu/admission/apply-undergraduate-first-year/application-deadlines-undergraduates",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-05",
+     "name": "Early Decision II",
+     "src": "https://www.mtholyoke.edu/admission/apply-undergraduate-first-year/application-deadlines-undergraduates",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.mtholyoke.edu/admission/apply-undergraduate-first-year/application-deadlines-undergraduates",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-201645": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://case.edu/admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://case.edu/admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://case.edu/admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://case.edu/admission/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-215293": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": "Priority Deadline",
+     "src": "https://admissions.pitt.edu/apply/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-106245": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-16",
+     "name": "Regular Decision",
+     "src": "https://ualr.edu/admissions/calendar/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-243115": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-29",
+     "name": "Regular Decision",
+     "src": "https://admisiones.upr.edu/wp-content/uploads/sites/130/2026/08/01-Calendario-admisiones-agosto-2027.pdf",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-213400": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.lbc.edu/admissions/undergraduate-admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-30",
+     "name": "Regular Decision",
+     "src": "https://www.lbc.edu/admissions/undergraduate-admissions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-134945": {
+   "rounds": [
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-06-01",
+     "name": "Final application date",
+     "src": "https://www.ju.edu/admissions/undergraduate/faq.php",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-168148": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-02",
+     "name": "Early Decision I",
+     "src": "https://admissions.tufts.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-04",
+     "name": "Early Decision II",
+     "src": "https://admissions.tufts.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://admissions.tufts.edu/apply",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-211440": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-02",
+     "name": "Early Decision I",
+     "src": "https://www.cmu.edu/admission/admission/application-plans-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://www.cmu.edu/admission/admission/application-plans-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-164580": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.babson.edu/undergraduate/how-to-apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.babson.edu/undergraduate/how-to-apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-04",
+     "name": "Early Decision II",
+     "src": "https://www.babson.edu/undergraduate/how-to-apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://www.babson.edu/undergraduate/how-to-apply/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217493": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admissions.risd.edu/RISD_app_tips_2026.pdf",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-20",
+     "name": "Regular Decision",
+     "src": "https://admissions.risd.edu/RISD_app_tips_2026.pdf",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-156295": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.berea.edu/admissions/admission-information/deadlines-and-important-dates",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-31",
+     "name": "Early Action II",
+     "src": "https://www.berea.edu/admissions/admission-information/deadlines-and-important-dates",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-31",
+     "name": "Regular Decision",
+     "src": "https://www.berea.edu/admissions/admission-information/deadlines-and-important-dates",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-170286": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.hillsdale.edu/admissions-aid/admissions-2/application-process-2/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-15",
+     "name": "Regular Decision",
+     "src": "https://www.hillsdale.edu/admissions-aid/admissions-2/application-process-2/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-199847": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://admissions.wfu.edu/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-01",
+     "name": "Early Decision II",
+     "src": "https://admissions.wfu.edu/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-01",
+     "name": "Regular Decision",
+     "src": "https://admissions.wfu.edu/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217156": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admission.brown.edu/first-year/application-checklist",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-05",
+     "name": "Regular Decision",
+     "src": "https://admission.brown.edu/first-year/application-checklist",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-198419": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-02",
+     "name": "Early Decision I",
+     "src": "https://admissions.duke.edu/apply/",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://admissions.duke.edu/apply/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-221999": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admissions.vanderbilt.edu/apply/",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-01",
+     "name": "Early Decision II",
+     "src": "https://admissions.vanderbilt.edu/apply/",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-01",
+     "name": "Regular Decision",
+     "src": "https://admissions.vanderbilt.edu/apply/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-161086": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://afa.colby.edu/apply/requirements/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-04",
+     "name": "Early Decision II",
+     "src": "https://afa.colby.edu/apply/requirements/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://afa.colby.edu/apply/requirements/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-227757": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://admission.rice.edu/apply/first-year-domestic-applicants",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-04",
+     "name": "Early Decision II",
+     "src": "https://admission.rice.edu/apply/first-year-domestic-applicants",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://admission.rice.edu/apply/first-year-domestic-applicants",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-168342": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://admission.williams.edu/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "https://admission.williams.edu/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-230959": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-02",
+     "name": "Early Decision I",
+     "src": "http://www.middlebury.edu/college/admissions/application-instructions-and-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-04",
+     "name": "Early Decision II",
+     "src": "http://www.middlebury.edu/college/admissions/application-instructions-and-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-04",
+     "name": "Regular Decision",
+     "src": "http://www.middlebury.edu/college/admissions/application-instructions-and-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-232609": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-12-15",
+     "name": "Early Decision I",
+     "src": "https://www.lynchburg.edu/admissions/apply/early-decision/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-164748": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://college.berklee.edu/admissions/undergraduate/deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://college.berklee.edu/admissions/undergraduate/deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-120254": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.oxy.edu/admission-aid/first-year",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.oxy.edu/admission-aid/first-year",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-10",
+     "name": "Early Decision II",
+     "src": "https://www.oxy.edu/admission-aid/first-year",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-10",
+     "name": "Regular Decision",
+     "src": "https://www.oxy.edu/admission-aid/first-year",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-226152": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-07-01",
+     "name": "Priority Deadline",
+     "src": "https://www.tamiu.edu/prospect/freshman.shtml",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-117946": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://newsroom.lmu.edu/press-release/loyola-marymount-university-announces-early-decision-deadlines-for-fall-2027-applicants/",
+     "conf": "high"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://newsroom.lmu.edu/press-release/loyola-marymount-university-announces-early-decision-deadlines-for-fall-2027-applicants/",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-08",
+     "name": "Early Decision II",
+     "src": "https://newsroom.lmu.edu/press-release/loyola-marymount-university-announces-early-decision-deadlines-for-fall-2027-applicants/",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://newsroom.lmu.edu/press-release/loyola-marymount-university-announces-early-decision-deadlines-for-fall-2027-applicants/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-162283": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://catalog.coppin.edu/content.php?catoid=13&navoid=539",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-100858": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-10-15",
+     "name": "Early Action",
+     "src": "https://www.auburn.edu/admissions/apply/index.php",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.auburn.edu/admissions/apply/index.php",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-166850": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://www.merrimack.edu/admission/undergraduate/application-process/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.merrimack.edu/admission/undergraduate/application-process/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-15",
+     "name": "Early Action II",
+     "src": "https://www.merrimack.edu/admission/undergraduate/application-process/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-15",
+     "name": "Regular Decision",
+     "src": "https://www.merrimack.edu/admission/undergraduate/application-process/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-171146": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-09",
+     "name": "Regular Decision",
+     "src": "https://www.umflint.edu/admissions/first-year-students/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-216852": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.widener.edu/admissions-aid/undergraduate-admissions/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-117140": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-02-01",
+     "name": "Priority Deadline",
+     "src": "https://www.laverne.edu/admission/traditional-undergraduate/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-165699": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.endicott.edu/admission/undergraduate-admission/how-to-apply",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.endicott.edu/admission/undergraduate-admission/how-to-apply",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.endicott.edu/admission/undergraduate-admission/how-to-apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-183910": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.caldwell.edu/admissions/requirements/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-186399": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://admissions.rutgers.edu/apply/dates-deadlines/newark",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2026-12-01",
+     "name": "Regular Decision",
+     "src": "https://admissions.rutgers.edu/apply/dates-deadlines/newark",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-167899": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-12-01",
+     "name": "Early Decision I",
+     "src": "https://springfield.edu/admissions/undergraduate-admissions/dates-and-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://springfield.edu/admissions/undergraduate-admissions/dates-and-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-214175": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-16",
+     "name": "Early Decision I",
+     "src": "https://www.muhlenberg.edu/admissions-aid/application-instructions-for-first-year-students/",
+     "conf": "high"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.muhlenberg.edu/admissions-aid/application-instructions-for-first-year-students/",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.muhlenberg.edu/admissions-aid/application-instructions-for-first-year-students/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-130226": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.qu.edu/admissions/undergraduate/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.qu.edu/admissions/undergraduate/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.qu.edu/admissions/undergraduate/apply/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.qu.edu/admissions/undergraduate/apply/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-212805": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://my.gcc.edu/ics/Admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-15",
+     "name": "Regular Decision",
+     "src": "https://my.gcc.edu/ics/Admissions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-162007": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://bowiestate.edu/admissions-and-aid/undergraduate-admissions/freshman-admissions.php",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-02-15",
+     "name": "Priority Deadline",
+     "src": "https://bowiestate.edu/admissions-and-aid/undergraduate-admissions/freshman-admissions.php",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-06-01",
+     "name": "Regular Decision",
+     "src": "https://bowiestate.edu/admissions-and-aid/undergraduate-admissions/freshman-admissions.php",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-196130": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-06",
+     "name": "Regular Decision",
+     "src": "https://suny.buffalostate.edu/admissions/enrollment-deadlines",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-119173": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.msmu.edu/admission--aid/undergraduate-admission/first-year-students/the-application-process/",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-01-15",
+     "name": "Priority Deadline",
+     "src": "https://www.msmu.edu/admission--aid/undergraduate-admission/first-year-students/the-application-process/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-136215": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://undergrad.nova.edu/admissions/freshman.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://undergrad.nova.edu/admissions/freshman.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://undergrad.nova.edu/admissions/freshman.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-186584": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.shu.edu/undergraduate-admissions/application-checklist.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-15",
+     "name": "Early Action II",
+     "src": "https://www.shu.edu/undergraduate-admissions/application-checklist.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-15",
+     "name": "Regular Decision",
+     "src": "https://www.shu.edu/undergraduate-admissions/application-checklist.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-128771": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-05-01",
+     "name": "Priority Deadline",
+     "src": "https://www.ccsu.edu/first-year-admissions/admissions-requirements",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-132657": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.lynn.edu/academics/catalog/admission/undergraduate-day/first-year",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-15",
+     "name": "Early Action II",
+     "src": "https://www.lynn.edu/academics/catalog/admission/undergraduate-day/first-year",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-01",
+     "name": "Regular Decision",
+     "src": "https://www.lynn.edu/academics/catalog/admission/undergraduate-day/first-year",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-144962": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.elmhurst.edu/admission/important-dates-deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217059": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.ycp.edu/admissions/undergraduate-admissions",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-163462": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://msmary.edu/undergraduate-applications.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action II",
+     "src": "https://msmary.edu/undergraduate-applications.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-196219": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.purchase.edu/admissions/apply-to-purchase/deadlines/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-110097": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-30",
+     "name": "Early Action",
+     "src": "https://www.biola.edu/admissions/undergrad/first-time",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-15",
+     "name": "Early Action II",
+     "src": "https://www.biola.edu/admissions/undergrad/first-time",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-01",
+     "name": "Regular Decision",
+     "src": "https://www.biola.edu/admissions/undergrad/first-time",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-109651": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.artcenter.edu/admissions/undergraduate-admissions/important-dates.html",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-02-01",
+     "name": "Priority Deadline",
+     "src": "https://www.artcenter.edu/admissions/undergraduate-admissions/important-dates.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-168421": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.wpi.edu/admissions/undergraduate/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.wpi.edu/admissions/undergraduate/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-05",
+     "name": "Early Decision II",
+     "src": "https://www.wpi.edu/admissions/undergraduate/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-05",
+     "name": "Early Action II",
+     "src": "https://www.wpi.edu/admissions/undergraduate/apply",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.wpi.edu/admissions/undergraduate/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-176479": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-09",
+     "name": "Regular Decision",
+     "src": "https://www.wmcarey.edu/admissions/undergraduate/application",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-129941": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-12-01",
+     "name": "Early Decision I",
+     "src": "https://www.newhaven.edu/admissions/undergraduate/the-application-process/first-year-student-application-process/index.php",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-15",
+     "name": "Early Action",
+     "src": "https://www.newhaven.edu/admissions/undergraduate/the-application-process/first-year-student-application-process/index.php",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-02-15",
+     "name": "Early Action II",
+     "src": "https://www.newhaven.edu/admissions/undergraduate/the-application-process/first-year-student-application-process/index.php",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://www.newhaven.edu/admissions/undergraduate/the-application-process/first-year-student-application-process/index.php",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-141565": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-07-01",
+     "name": "Regular Decision",
+     "src": "https://hilo.hawaii.edu/admissions/freshman.php",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-126775": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://undergraduate-admissions.mines.edu/frequently-asked-questions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://undergraduate-admissions.mines.edu/frequently-asked-questions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-484473": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-05-24",
+     "name": "Regular Decision",
+     "src": "https://ufonline.ufl.edu/apply/deadlines/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-207971": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-15",
+     "name": "Priority Deadline",
+     "src": "https://utulsa.edu/admissions/apply/first-year-domestic-students/",
+     "conf": "high"
+    },
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-08-01",
+     "name": "Final application date",
+     "src": "https://utulsa.edu/admissions/apply/first-year-domestic-students/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-122612": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.usfca.edu/admission/undergraduate/dates-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.usfca.edu/admission/undergraduate/dates-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.usfca.edu/admission/undergraduate/dates-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.usfca.edu/admission/undergraduate/dates-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sarah-lawrence-college": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.sarahlawrence.edu/admission/apply/first-year.html",
+     "conf": "medium"
+    },
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.sarahlawrence.edu/admission/apply/first-year.html",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.sarahlawrence.edu/admission/apply/first-year.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.sarahlawrence.edu/admission/apply/first-year.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-232265": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://home.hamptonu.edu/admissions/freshmen/",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-01",
+     "name": "Regular Decision",
+     "src": "https://home.hamptonu.edu/admissions/freshmen/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-123651": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.vanguard.edu/admissions/undergraduate/how-to-apply",
+     "conf": "high"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-01-01",
+     "name": "Priority Deadline",
+     "src": "https://www.vanguard.edu/admissions/undergraduate/how-to-apply",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-02",
+     "name": "Regular Decision",
+     "src": "https://www.vanguard.edu/admissions/undergraduate/how-to-apply",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-196042": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-06-01",
+     "name": "Regular Decision",
+     "src": "https://www.farmingdale.edu/admissions/incoming-freshman-applicant.shtml",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "the-new-school": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.newschool.edu/admission/prospective-undergraduate-students/dates-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.newschool.edu/admission/prospective-undergraduate-students/dates-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.newschool.edu/admission/prospective-undergraduate-students/dates-deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-194824": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://undergrad.admissions.rpi.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://undergrad.admissions.rpi.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-06",
+     "name": "Early Decision II",
+     "src": "https://undergrad.admissions.rpi.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://undergrad.admissions.rpi.edu/apply",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-139144": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.berry.edu/admission/how-to-apply/first-year",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.berry.edu/admission/how-to-apply/first-year",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-114813": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": "Priority Deadline",
+     "src": "https://www.fresno.edu/document/97",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://www.fresno.edu/document/97",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-01",
+     "name": "Regular Decision",
+     "src": "https://www.fresno.edu/document/97",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-138947": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.cau.edu/admissions/apply-cau",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-04-15",
+     "name": "Regular Decision",
+     "src": "https://www.cau.edu/admissions/apply-cau",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-198507": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-07-15",
+     "name": "Regular Decision",
+     "src": "https://vikingadmissions.ecsu.edu/Default.asp",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-134079": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.flsouthern.edu/admissions-and-aid/undergraduate/index.html",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.flsouthern.edu/admissions-and-aid/undergraduate/index.html",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": "Priority Deadline",
+     "src": "https://www.flsouthern.edu/admissions-and-aid/undergraduate/index.html",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://www.flsouthern.edu/admissions-and-aid/undergraduate/index.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-200253": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-04-01",
+     "name": "Priority Deadline",
+     "src": "https://catalog.minotstateu.edu/undergraduate/admissions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-130253": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://www.sacredheart.edu/admissions--aid/undergraduate-admissions/freshman-admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.sacredheart.edu/admissions--aid/undergraduate-admissions/freshman-admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.sacredheart.edu/admissions--aid/undergraduate-admissions/freshman-admission/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-02-01",
+     "name": "Early Action II",
+     "src": "https://www.sacredheart.edu/admissions--aid/undergraduate-admissions/freshman-admission/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217165": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.bryant.edu/undergraduate/undergraduate-admission/applying-bryant/first-year-students",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.bryant.edu/undergraduate/undergraduate-admission/applying-bryant/first-year-students",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.bryant.edu/undergraduate/undergraduate-admission/applying-bryant/first-year-students",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.bryant.edu/undergraduate/undergraduate-admission/applying-bryant/first-year-students",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-221661": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-03-01",
+     "name": "Priority Deadline",
+     "src": "https://www.southern.edu/undergrad/admissions/ApplyToday.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-213598": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-02-01",
+     "name": "Priority Deadline",
+     "src": "https://www.lincoln.edu/admissions/apply.html",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-05-01",
+     "name": "Regular Decision",
+     "src": "https://www.lincoln.edu/admissions/apply.html",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-139719": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-15",
+     "name": "Priority Deadline",
+     "src": "https://www.fvsu.edu/admissions/high-school-students-future-freshmen",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-06-15",
+     "name": "Regular Decision",
+     "src": "https://www.fvsu.edu/admissions/high-school-students-future-freshmen",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-167996": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.stonehill.edu/apply-for-admission/first-year-applicants/plans-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.stonehill.edu/apply-for-admission/first-year-applicants/plans-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-15",
+     "name": "Early Action II",
+     "src": "https://www.stonehill.edu/apply-for-admission/first-year-applicants/plans-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-02-01",
+     "name": "Early Decision II",
+     "src": "https://www.stonehill.edu/apply-for-admission/first-year-applicants/plans-deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-15",
+     "name": "Regular Decision",
+     "src": "https://www.stonehill.edu/apply-for-admission/first-year-applicants/plans-deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-186371": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://admissions.camden.rutgers.edu/apply",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2026-12-01",
+     "name": "Regular Decision",
+     "src": "https://admissions.camden.rutgers.edu/apply",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-218742": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-08-10",
+     "name": "Priority Deadline",
+     "src": "https://www.uscupstate.edu/admissions/admissions-resources/application-faq/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-219949": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-01-01",
+     "name": "Priority Deadline",
+     "src": "https://www.cumberland.edu/undergraduate/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-184348": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.drew.edu/admissions-and-aid/undergraduate-admissions",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.drew.edu/admissions-and-aid/undergraduate-admissions",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.drew.edu/admissions-and-aid/undergraduate-admissions",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.drew.edu/admissions-and-aid/undergraduate-admissions",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-217536": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://salve.edu/admissions/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://salve.edu/admissions/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-05",
+     "name": "Early Action II",
+     "src": "https://salve.edu/admissions/first-year-applicants",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://salve.edu/admissions/first-year-applicants",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-190725": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.daemen.edu/admissions/first-year-admissions/first-year-admissions-requirements-and-application-deadlines",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "quoted"
+  },
+  "sc-139311": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-07-15",
+     "name": "Priority Deadline",
+     "src": "https://www.clayton.edu/admissions/undergrad/deadlines.php",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-01",
+     "name": "Regular Decision",
+     "src": "https://www.clayton.edu/admissions/undergrad/deadlines.php",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-163912": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.smcm.edu/admissions/how-to-apply/first-year-students/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.smcm.edu/admissions/how-to-apply/first-year-students/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED2",
+     "kind": "Early Decision II",
+     "date": "2027-01-15",
+     "name": "Early Decision II",
+     "src": "https://www.smcm.edu/admissions/how-to-apply/first-year-students/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": "Regular Decision",
+     "src": "https://www.smcm.edu/admissions/how-to-apply/first-year-students/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-140447": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://undergrad.mercer.edu/first-year-admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action II",
+     "src": "https://undergrad.mercer.edu/first-year-admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://undergrad.mercer.edu/first-year-admissions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "ithaca-college": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.ithaca.edu/admission/undergraduate-admission/apply-ic/application-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.ithaca.edu/admission/undergraduate-admission/apply-ic/application-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.ithaca.edu/admission/undergraduate-admission/apply-ic/application-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-195474": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-10-15",
+     "name": "Early Action",
+     "src": "https://www.siena.edu/apply/deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-15",
+     "name": "Early Decision I",
+     "src": "https://www.siena.edu/apply/deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-15",
+     "name": "Regular Decision",
+     "src": "https://www.siena.edu/apply/deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-220978": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": "Priority Deadline",
+     "src": "https://www.mtsu.edu/how-to-apply/deadlines/",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-07-01",
+     "name": "Priority Deadline",
+     "src": "https://www.mtsu.edu/how-to-apply/deadlines/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-196060": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": "Early Action",
+     "src": "https://www.albany.edu/suny-application-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.albany.edu/suny-application-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-221892": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-01",
+     "name": "Regular Decision",
+     "src": "https://www.trevecca.edu/en-us/freshman-application",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-136774": {
+   "rounds": [
+    {
+     "k": "ED1",
+     "kind": "Early Decision",
+     "date": "2026-11-01",
+     "name": "Early Decision I",
+     "src": "https://www.ringling.edu/admissions/apply/important-dates/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action",
+     "src": "https://www.ringling.edu/admissions/apply/important-dates/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
+  },
+  "sc-167783": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": "Early Action",
+     "src": "https://www.simmons.edu/admission-aid/application-process/application-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": "Early Action II",
+     "src": "https://www.simmons.edu/admission-aid/application-process/application-deadlines",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-02-01",
+     "name": "Regular Decision",
+     "src": "https://www.simmons.edu/admission-aid/application-process/application-deadlines",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-26",
+   "year_check": "none"
   }
  },
  "merge_2026_10_25": {
