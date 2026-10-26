@@ -1,0 +1,26 @@
+Schools where the federal fall-2023 SAT range was NOT applied (differs by 150+ points from what we had, or too narrow). Kept the old range; needs a human look.
+Northeastern University Oakland|old 1005-1290 (2019)|IPEDS fall 2023 1390-1520|submit% 28.0|n 134.0
+Western Connecticut State University|old 1010-1230 (2022)|IPEDS fall 2023 840-1150|submit% 4.0|n 31.0
+Gallaudet University|old 752-1089 (2022)|IPEDS fall 2023 750-933|submit% 27.0|n 40.0
+Shorter University|old 960-1290 (2022)|IPEDS fall 2023 900-1130|submit% 16.0|n 43.0
+Bethel University|old 800-920 (2022)|IPEDS fall 2023 940-1190|submit% 66.0|n 146.0
+Kentucky Wesleyan College|old 980-1210 (2022)|IPEDS fall 2023 750-1130|submit% 15.0|n 37.0
+Northern Kentucky University|old 1030-1290 (2022)|IPEDS fall 2023 916-1133|submit% 5.0|n 64.0
+Grambling State University|old 840-990 (2022)|IPEDS fall 2023 860-1150|submit% 14.0|n 131.0
+McNeese State University|old 970-1180 (2022)|IPEDS fall 2023 810-1120|submit% 9.0|n 94.0
+Johns Hopkins University|IPEDS range too narrow 1530-1580
+Jackson State University|old 1073-1210 (2022)|IPEDS fall 2023 850-1080|submit% 12.0|n 115.0
+CUNY Brooklyn College|old 1040-1220 (2019)|IPEDS fall 2023 1140-1420|submit% 6.0|n 87.0
+CUNY City College|old 1040-1250 (2019)|IPEDS fall 2023 1220-1460|submit% 8.0|n 211.0
+CUNY Lehman College|old 1010-1130 (2019)|IPEDS fall 2023 860-1220|submit% 2.0|n 30.0
+Roberts Wesleyan University|old 1150-1340 (2022)|IPEDS fall 2023 965-1250|submit% 14.0|n 30.0
+SUNY Polytechnic Institute|old 1000-1360 (2019)|IPEDS fall 2023 1150-1330|submit% 25.0|n 98.0
+Marietta College|old 940-1130 (2022)|IPEDS fall 2023 990-1295|submit% 18.0|n 55.0
+Mount St. Joseph University|old 1068-1233 (2022)|IPEDS fall 2023 880-1083|submit% 14.0|n 44.0
+Anderson University|old 860-1210 (2019)|IPEDS fall 2023 1090-1290|submit% 45.0|n 381.0
+Bethel University|old 928-1130 (2022)|IPEDS fall 2023 625-1100|submit% 25.0|n 101.0
+Freed-Hardeman University|old 1040-1240 (2022)|IPEDS fall 2023 934-1084|submit% 11.0|n 28.0
+Vanderbilt University|IPEDS range too narrow 1510-1560
+Concordia University Texas|old 1010-1190 (2022)|IPEDS fall 2023 860-1100|submit% 40.0|n 96.0
+Pacific Lutheran University|old 1253-1423 (2022)|IPEDS fall 2023 988-1258|submit% 7.0|n 42.0
+Neumont College of Computer Science|old 1000-1249 (2022)|IPEDS fall 2023 870-1075|submit% 28.0|n 50.0
