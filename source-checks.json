@@ -1,0 +1,10 @@
+{
+  "note": "When we last re-read each outside source the site cites. The app shows these dates on the 'secret sauce' page. Updated weekly by a scheduled check; if the page changes in a way that matters, the date is NOT updated and Obie is told.",
+  "sources": {
+    "commonapp": {
+      "url": "https://www.commonapp.org/apply/first-year-students",
+      "checked": "Oct 25, 2026",
+      "claim": "Applicants are told to list activities in the order of their importance to them."
+    }
+  }
+}
