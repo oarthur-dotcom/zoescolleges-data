@@ -1,7 +1,7 @@
 {
  "cycle": "2026-27",
- "checked": "2026-10-11",
- "source": "Muse Job B, B-deadlines-2026-27.json (sha256 61b8bf3855b1…), each date from the school's own admissions site",
+ "checked": "2026-10-25",
+ "source": "Muse Job B, B-deadlines-2026-27.json (sha256 61b8bf3855b1…), each date from the school's own admissions site + 2026-10-25 re-verification (Meta, Gemini, Muse; see merge_2026_10_25)",
  "note": "Dates for first-year applicants. Muse's fixes file (30 schools re-sourced from first-year pages) replaces those schools. Low-confidence rounds are left out.",
  "held_unitids": [],
  "fixes_applied": [
@@ -280,7 +280,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-100706": {
    "rounds": [
@@ -400,7 +401,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-104586": {
    "rounds": [
@@ -684,7 +686,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-110662": {
    "rounds": [
@@ -749,7 +752,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-111948": {
    "rounds": [
@@ -875,6 +879,28 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-120883": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": null,
+     "src": "https://www.pacific.edu/admission/undergraduate",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-01-15",
+     "name": null,
+     "src": "https://www.pacific.edu/admission/undergraduate",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-121150": {
    "rounds": [
     {
@@ -910,7 +936,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-121257": {
    "rounds": [
@@ -1128,7 +1155,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-126580": {
    "rounds": [
@@ -1142,6 +1170,36 @@
     }
    ],
    "checked": "2026-10-11"
+  },
+  "sc-127741": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-12-01",
+     "name": null,
+     "src": "https://www.unco.edu/admissions-aid/undergraduate/first-year/",
+     "conf": "medium"
+    },
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-02-01",
+     "name": null,
+     "src": "https://www.unco.edu/admissions-aid/undergraduate/first-year/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-01",
+     "name": null,
+     "src": "https://www.unco.edu/admissions-aid/undergraduate/first-year/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-127918": {
    "rounds": [
@@ -1291,7 +1349,8 @@
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-130590": {
    "rounds": [
@@ -1372,6 +1431,36 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-130934": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-02",
+     "name": null,
+     "src": "https://www.desu.edu/admissions/undergraduate-students",
+     "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-04-15",
+     "name": null,
+     "src": "https://www.desu.edu/admissions/undergraduate-students",
+     "conf": "high"
+    },
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-08-01",
+     "name": null,
+     "src": "https://www.desu.edu/admissions/undergraduate-students",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-130943": {
    "rounds": [
     {
@@ -1391,7 +1480,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-131450": {
    "rounds": [
@@ -1951,7 +2041,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-139940": {
    "rounds": [
@@ -2072,7 +2163,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-142115": {
    "rounds": [
@@ -2085,7 +2177,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-142276": {
    "rounds": [
@@ -2107,6 +2200,20 @@
     }
    ],
    "checked": "2026-10-11"
+  },
+  "sc-142328": {
+   "rounds": [
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-08",
+     "name": null,
+     "src": "https://www.lcsc.edu/admissions/applicant-information",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-143084": {
    "rounds": [
@@ -2208,6 +2315,20 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-144281": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-11-01",
+     "name": null,
+     "src": "https://www.colum.edu/admissions/additional-information/timeline/",
+     "conf": "high"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-144740": {
    "rounds": [
     {
@@ -2227,7 +2348,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-145600": {
    "rounds": [
@@ -2248,7 +2370,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-145637": {
    "rounds": [
@@ -2398,7 +2521,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-147703": {
    "rounds": [
@@ -2411,7 +2535,8 @@
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-147767": {
    "rounds": [
@@ -2534,7 +2659,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-150163": {
    "rounds": [
@@ -2668,7 +2794,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-151351": {
    "rounds": [
@@ -2839,7 +2966,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-155317": {
    "rounds": [
@@ -2928,7 +3056,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-157085": {
    "rounds": [
@@ -2954,7 +3083,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-157447": {
    "rounds": [
@@ -3056,7 +3186,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-160755": {
    "rounds": [
@@ -3238,7 +3369,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-163286": {
    "rounds": [
@@ -3314,7 +3446,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-164155": {
    "rounds": [
@@ -3540,7 +3673,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-166683": {
    "rounds": [
@@ -3785,9 +3919,18 @@
      "name": "priority scholarship consideration",
      "src": "https://catalog.calvin.edu/content.php?catoid=20&navoid=598",
      "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-18",
+     "name": null,
+     "src": "https://calvin.edu/admissions/apply",
+     "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-169248": {
    "rounds": [
@@ -3926,7 +4069,8 @@
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-172644": {
    "rounds": [
@@ -3939,20 +4083,30 @@
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-172699": {
    "rounds": [
     {
      "k": "EA",
      "kind": "Early Action",
-     "date": "2026-12-15",
-     "name": "Early Action",
-     "src": "https://catalog.wmich.edu/content.php?catoid=45&navoid=2142",
+     "date": "2026-12-01",
+     "name": null,
+     "src": "https://wmich.edu/apply/deadlines",
+     "conf": "high"
+    },
+    {
+     "k": "ROLLING",
+     "kind": "Rolling Admission",
+     "date": "2027-06-01",
+     "name": "Rolling Admission",
+     "src": "https://wmich.edu/apply/deadlines",
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-173258": {
    "rounds": [
@@ -4343,6 +4497,14 @@
   "sc-181464": {
    "rounds": [
     {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-11-01",
+     "name": "Priority (scholarship notification)",
+     "src": "https://admissions.unl.edu/apply/first-year-dates-deadlines/",
+     "conf": "high"
+    },
+    {
      "k": "RD",
      "kind": "Regular Decision",
      "date": "2027-05-01",
@@ -4351,7 +4513,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-182281": {
    "rounds": [
@@ -4385,7 +4548,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-182670": {
    "rounds": [
@@ -4456,7 +4620,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-185262": {
    "rounds": [
@@ -4490,7 +4655,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-185828": {
    "rounds": [
@@ -4813,7 +4979,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-190558": {
    "rounds": [
@@ -4839,7 +5006,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-190594": {
    "rounds": [
@@ -4865,7 +5033,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-190637": {
    "rounds": [
@@ -4891,7 +5060,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-190664": {
    "rounds": [
@@ -4904,7 +5074,8 @@
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-191241": {
    "rounds": [
@@ -4941,7 +5112,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-191515": {
    "rounds": [
@@ -5143,6 +5315,20 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-194091": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2026-12-01",
+     "name": null,
+     "src": "https://www.nyit.edu/admissions/undergraduate",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-194310": {
    "rounds": [
     {
@@ -5228,7 +5414,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-195216": {
    "rounds": [
@@ -5378,7 +5565,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-196097": {
    "rounds": [
@@ -5651,7 +5839,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-198516": {
    "rounds": [
@@ -5772,7 +5961,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-199193": {
    "rounds": [
@@ -5808,13 +5998,14 @@
     {
      "k": "RD",
      "kind": "Regular Decision",
-     "date": "2027-02-01",
-     "name": "regular decision",
-     "src": "https://catalogue.uncw.edu/content.php?catoid=75&navoid=10203&print",
+     "date": "2027-01-15",
+     "name": null,
+     "src": "https://www.uncw.edu/admissions/undergraduate/first-year/deadlines",
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-200004": {
    "rounds": [
@@ -5843,7 +6034,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-200280": {
    "rounds": [
@@ -5854,9 +6046,18 @@
      "name": "Freshman Admission & Academic Scholarship Priority Deadline",
      "src": "https://UND.EDU/admissions/freshmen/admitted-freshmen-checklist.html",
      "conf": "high"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-08-15",
+     "name": null,
+     "src": "https://und.edu/admissions/undergraduate/index.html",
+     "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-200800": {
    "rounds": [
@@ -5903,7 +6104,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-202480": {
    "rounds": [
@@ -5966,7 +6168,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-203535": {
    "rounds": [
@@ -6016,6 +6219,14 @@
      "conf": "high"
     },
     {
+     "k": "EA2",
+     "kind": "Early Action II",
+     "date": "2026-12-01",
+     "name": null,
+     "src": "https://miamioh.edu/admission-aid/apply/dates-deadlines/undergraduate-students.html",
+     "conf": "medium"
+    },
+    {
      "k": "RD",
      "kind": "Regular Decision",
      "date": "2027-02-01",
@@ -6024,7 +6235,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "corrected"
   },
   "sc-204501": {
    "rounds": [
@@ -6200,19 +6412,6 @@
      "date": "2027-02-01",
      "name": "Scholarship priority deadline",
      "src": "https://news.uco.edu/uco-opens-fall-2027-applications-early-offers-free-t-shirt-for-july-applicants",
-     "conf": "high"
-    }
-   ],
-   "checked": "2026-10-11"
-  },
-  "sc-207388": {
-   "rounds": [
-    {
-     "k": "PRIORITY",
-     "kind": "Priority",
-     "date": "2026-11-01",
-     "name": "Early Opportunity Scholarship Deadline",
-     "src": "http://catalog.okstate.edu/archive/2018-2019/about/admissions/admissions.pdf",
      "conf": "high"
     }
    ],
@@ -6650,6 +6849,20 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-214272": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-15",
+     "name": null,
+     "src": "https://www.neumann.edu/admissions/apply",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-214777": {
    "rounds": [
     {
@@ -6734,6 +6947,36 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-217235": {
+   "rounds": [
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2026-11-01",
+     "name": null,
+     "src": "https://www.jwu.edu/admissions-aid/undergraduate-admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "EA",
+     "kind": "Early Action",
+     "date": "2027-01-03",
+     "name": null,
+     "src": "https://www.jwu.edu/admissions-aid/undergraduate-admissions/",
+     "conf": "medium"
+    },
+    {
+     "k": "RD",
+     "kind": "Regular Decision",
+     "date": "2027-03-01",
+     "name": null,
+     "src": "https://www.jwu.edu/admissions-aid/undergraduate-admissions/",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-217420": {
    "rounds": [
     {
@@ -6766,7 +7009,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-218663": {
    "rounds": [
@@ -6816,7 +7060,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-218964": {
    "rounds": [
@@ -6876,15 +7121,16 @@
   "sc-220862": {
    "rounds": [
     {
-     "k": "PRIORITY",
-     "kind": "Priority",
+     "k": "RD",
+     "kind": "Regular Decision",
      "date": "2027-07-01",
-     "name": "Priority deadlines for submitting an application for admission",
-     "src": "https://catalog.memphis.edu/content.php?catoid=33&navoid=1986",
+     "name": "Application Deadline",
+     "src": "https://www.memphis.edu/admissions/basics/deadlines.php",
      "conf": "medium"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-221351": {
    "rounds": [
@@ -7089,7 +7335,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-225511": {
    "rounds": [
@@ -7252,7 +7499,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-228529": {
    "rounds": [
@@ -7265,7 +7513,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-228723": {
    "rounds": [
@@ -7312,7 +7561,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-228796": {
    "rounds": [
@@ -7383,7 +7633,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "quoted"
   },
   "sc-229115": {
    "rounds": [
@@ -7501,7 +7752,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-232423": {
    "rounds": [
@@ -7522,7 +7774,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-232557": {
    "rounds": [
@@ -7882,7 +8135,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-236948": {
    "rounds": [
@@ -8081,6 +8335,20 @@
    ],
    "checked": "2026-10-11"
   },
+  "sc-240417": {
+   "rounds": [
+    {
+     "k": "PRIORITY",
+     "kind": "Priority",
+     "date": "2027-01-01",
+     "name": null,
+     "src": "https://www.uwstout.edu/admissions",
+     "conf": "medium"
+    }
+   ],
+   "checked": "2026-10-25",
+   "year_check": "reported"
+  },
   "sc-240444": {
    "rounds": [
     {
@@ -8231,7 +8499,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "none"
   },
   "sc-441982": {
    "rounds": [
@@ -8291,7 +8560,8 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25",
+   "year_check": "reported"
   },
   "sc-482936": {
    "rounds": [
@@ -8506,7 +8776,7 @@
      "conf": "high"
     }
    ],
-   "checked": "2026-10-11"
+   "checked": "2026-10-25"
   },
   "university-of-new-hampshire": {
    "rounds": [
@@ -8679,5 +8949,28 @@
    ],
    "checked": "2026-10-11"
   }
+ },
+ "merge_2026_10_25": {
+  "sources": [
+   "meta-round3 (60)",
+   "gemini-round3 (25)",
+   "gemini-extra (33)",
+   "muse-round3 (50)"
+  ],
+  "year_check_legend": {
+   "quoted": "Meta or Muse quoted a page that names Fall 2027",
+   "reported": "only Gemini said the page names Fall 2027",
+   "none": "dates match but the page prints no year",
+   "corrected": "an X verdict changed the live data"
+  },
+  "held": [
+   "sc-101879",
+   "sc-179566",
+   "sc-192448",
+   "sc-195809",
+   "sc-204857",
+   "sc-218663",
+   "sc-218964"
+  ]
  }
 }
