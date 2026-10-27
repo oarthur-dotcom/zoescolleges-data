@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Zoe's Colleges health check. Read-only. Run before and after every fix.
 Usage: python3 ops/healthcheck.py  (from zoescolleges-data; expects ../zoescolleges-app)"""
-import hashlib, json, os, re, subprocess, sys, urllib.request
+import hashlib, json, os, re, subprocess, sys, time, urllib.request
 APP = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "zoescolleges-app"))
 DATA = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 UA = {"User-Agent": "ZoesCollegesHealth/1.0"}
@@ -17,6 +17,8 @@ res = {"checks": [], "ok": True}
 def check(name, ok, detail):
     res["checks"].append({"name": name, "ok": ok, "detail": detail}); res["ok"] &= bool(ok)
     print(("PASS " if ok else "FAIL ") + name + " — " + detail)
+    if not ok and os.environ.get("GITHUB_ACTIONS"):   # annotation: GitHub's failure email then says which check failed and why
+        print(f"::error title={name.replace(':', ' ').replace(',', ' ')}::{detail.replace('%', '%25').replace(chr(10), ' ')}")
 for r in (APP, DATA): subprocess.run(["git", "-C", r, "fetch", "-q", "--all", "--prune"], check=False)
 # 1 live site == app origin/main
 st, live = get("https://zoescolleges.com/")
@@ -32,10 +34,15 @@ if _ref:
 else:
     check("Site reads approved catalog branch", bool(cat_url and "@live/" in cat_url), str(cat_url))
 # 2 live catalog == data origin/live and healthy
-st, cat = get(cat_url or "")
+# The CDN has brief hiccups (Oct 14 and Oct 21 2026: a timeout or error page instead of the 3.5 MB catalog),
+# so a mismatch is read again up to 3 times over about a minute before it counts as a failure.
 live_file = subprocess.check_output(["git", "-C", DATA, "show", "origin/live:colleges.json"])
 live_sha = git(DATA, "rev-parse", "--short", "origin/live")
-check("CDN catalog == data live branch", sha(cat) == sha(live_file), f"cdn {sha(cat)} vs live@{live_sha} {sha(live_file)}")
+for i in range(3):
+    st, cat = get(cat_url or "", 60)
+    if sha(cat) == sha(live_file): break
+    if i < 2: time.sleep(20)
+check("CDN catalog == data live branch", sha(cat) == sha(live_file), f"cdn {sha(cat)} vs live@{live_sha} {sha(live_file)}" + ("" if sha(cat) == sha(live_file) else f" (CDN gave HTTP {st}, {len(cat)} bytes, 3 tries)"))
 try:
     c = json.loads(cat)["colleges"]
     cov = {k: sum(1 for x in c if x.get(k)) for k in ("scorecard", "photo", "ipeds", "lifestyle")}

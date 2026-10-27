@@ -2,7 +2,7 @@
 """Post-deploy verification (Oct 11). Read-only. Run right after a release; it replaces the manual checks.
   1. Waits (up to ~5 min) for zoescolleges.com to serve app origin/main's index.html.
   2. Every data file the site reads (catalog, campus feeds, net price, deadlines) is served by the CDN
-     byte-for-byte equal to the data `live` branch (purges the CDN once if it's stale).
+     byte-for-byte equal to the data `live` branch (purges and re-reads up to 3 times if it's stale).
   3. Server files are not downloadable; security headers present.
   4. campus-pulse refuses anonymous calls; zoe-ai and transcript-read stay archived (404) since PR #8, Oct 23 2026.
   5. A sample of 40 catalog photos actually load.
@@ -28,6 +28,8 @@ sha = lambda b: hashlib.sha256(b).hexdigest()[:12]
 results = []
 def check(name, ok, detail=""):
     results.append((name, bool(ok), detail)); print(("PASS " if ok else "FAIL ") + name + (" — " + detail if detail else ""), flush=True)
+    if not ok and os.environ.get("GITHUB_ACTIONS"):   # annotation: GitHub's failure email then says which check failed and why
+        print(f"::error title={name.replace(':', ' ').replace(',', ' ')}::{(detail or 'failed').replace('%', '%25').replace(chr(10), ' ')}", flush=True)
 for r in (APP, DATA): subprocess.run(["git", "-C", r, "fetch", "-q", "origin"], check=False)
 # 1 site == main
 want = git(APP, "show", "origin/main:index.html", text=False); mshort = git(APP, "rev-parse", "--short", "origin/main").strip()
@@ -45,10 +47,12 @@ if _m:
 for f in FILES:
     try: exp = subprocess.check_output(["git", "-C", DATA, "show", f"origin/live:{f}"], stderr=subprocess.DEVNULL)
     except subprocess.CalledProcessError: print(f"INFO {f} not on the live branch (not published yet)"); continue
-    st, body, _ = get(CDN + f, 60)
-    if sha(body) != sha(exp):
-        get("https://purge.jsdelivr.net/gh/oarthur-dotcom/zoescolleges-data@live/" + f); time.sleep(15); st, body, _ = get(CDN + f, 60)
-    check(f"CDN {f} = live branch", sha(body) == sha(exp), f"live@{lshort}")
+    # CDN hiccups (Oct 14, Oct 21 2026) clear within a minute: purge the exact URL read (the pinned release, not @live) and re-read.
+    for i in range(3):
+        st, body, _ = get(CDN + f, 60)
+        if sha(body) == sha(exp): break
+        if i < 2: get(CDN.replace("://cdn.", "://purge.") + f); time.sleep(20)
+    check(f"CDN {f} = live branch", sha(body) == sha(exp), f"live@{lshort}" + ("" if sha(body) == sha(exp) else f" (CDN gave HTTP {st}, {len(body)} bytes, 3 tries)"))
 # 3 exposure + headers
 exposed = [p for p in ("migration-001-core.sql", "netlify/functions/campus-pulse.mjs", "package.json", "tests/chance-test.mjs") if get(f"{SITE}/{p}")[0] == 200]
 check("Server files not downloadable", not exposed, ", ".join(exposed) or "none")
