@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: oarthur-dotcom/zoescolleges-data
-          ref: ops/tooling
+          ref: fix/watchdog-cdn-retry   # test run of the fix branch
           path: zoescolleges-data
           fetch-depth: 0
       - uses: actions/checkout@v4
